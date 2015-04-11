@@ -1,9 +1,23 @@
 <English>
+	<String ID="NUMBER_DELIMETER">Item Companion</String>	
+	
 	<String ID="Title_Item">Item Companion</String>	
 	
 	<String ID="ChooseCharacter_Button">Choose Character</String>	
 	<String ID="ChooseRealm_Button">Choose Realm</String>
-	<String ID="ChooseCharacter_Panel">Choose a Character</String>	
+	<String ID="ChooseCharacter_Panel">Choose a Character</String>
+	<String ID="DropsOnly">Show Drops Only</String>
+	
+	<String ID="Weapons">Weapons</String>
+	<String ID="Armor">Armor</String>
+	
+	<String ID="MaxAtt">Max Att: $NUM$</String>
+	<String ID="MaxMag">Max Mag: $NUM$</String>
+	<String ID="MaxMnd">Max Mnd: $NUM$</String>
+	<String ID="MaxDef">Max Def: $NUM$</String>
+	<String ID="Location">Location: $DESC$</String>
+	
+	<String ID="RelicDrop">Relic Pull</String>
 	
 	<!-- Character names -->
 	<String ID="Name_Bard">Bard</String>	

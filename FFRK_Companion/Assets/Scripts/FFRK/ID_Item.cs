@@ -29,5 +29,6 @@ public class ID_Item {
 	public string spd;
 	public string maxspd;
 	public string notes;
+	public string location;
 
 }

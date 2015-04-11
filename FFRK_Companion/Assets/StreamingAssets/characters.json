@@ -3,19 +3,29 @@
         "character": "Bard",
         "realm": "Core",
         "dagger": "Yes",
-        "instrument": "Yes"
+        "instrument": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "lightArmor": "Yes",
+        "robe": "Yes"
     },
     {
         "character": "BlackMage",
         "realm": "Core",
         "dagger": "Yes",
-        "rod": "Yes"
+        "rod": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "robe": "Yes"
     },
     {
         "character": "Ranger",
         "realm": "Core",
         "bow": "Yes",
-        "dagger": "Yes"
+        "dagger": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "lightArmor": "Yes"
     },
     {
         "character": "Tyro",
@@ -34,7 +44,14 @@
         "staff": "Yes",
         "sword": "Yes",
         "thrown": "Yes",
-        "whip": "Yes"
+        "whip": "Yes",
+        "armor": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "helm": "Yes",
+        "lightArmor": "Yes",
+        "robe": "Yes",
+        "shield": "Yes"
     },
     {
         "character": "Warrior",
@@ -42,65 +59,113 @@
         "axe": "Yes",
         "dagger": "Yes",
         "hammer": "Yes",
-        "sword": "Yes"
+        "sword": "Yes",
+        "armor": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "helm": "Yes",
+        "lightArmor": "Yes",
+        "shield": "Yes"
     },
     {
         "character": "WhiteMage",
         "realm": "Core",
         "dagger": "Yes",
-        "staff": "Yes"
+        "staff": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "robe": "Yes"
     },
     {
         "character": "CecilDK",
         "realm": "IV",
         "dagger": "Yes",
-        "sword": "Yes"
+        "sword": "Yes",
+        "armor": "Yes",
+        "hat": "Yes",
+        "helm": "Yes",
+        "lightArmor": "Yes",
+        "shield": "Yes"
     },
     {
         "character": "CecilPaladin",
         "realm": "IV",
         "dagger": "Yes",
         "hammer": "Yes",
-        "sword": "Yes"
+        "sword": "Yes",
+        "armor": "Yes",
+        "hat": "Yes",
+        "helm": "Yes",
+        "lightArmor": "Yes",
+        "shield": "Yes"
     },
     {
         "character": "Kain",
         "realm": "IV",
         "axe": "Yes",
         "dagger": "Yes",
-        "spear": "Yes"
+        "spear": "Yes",
+        "armor": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "helm": "Yes",
+        "lightArmor": "Yes",
+        "shield": "Yes"
     },
     {
         "character": "Rydia",
         "realm": "IV",
         "dagger": "Yes",
         "rod": "Yes",
-        "whip": "Yes"
+        "whip": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "robe": "Yes"
     },
     {
         "character": "Cloud",
         "realm": "VII",
         "dagger": "Yes",
         "katana": "Yes",
-        "sword": "Yes"
+        "sword": "Yes",
+        "armor": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "helm": "Yes",
+        "lightArmor": "Yes",
+        "shield": "Yes"
     },
     {
         "character": "Sephiroth",
         "realm": "VII",
         "dagger": "Yes",
-        "katana": "Yes"
+        "katana": "Yes",
+        "armor": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "lightArmor": "Yes"
     },
     {
         "character": "Tifa",
         "realm": "VII",
         "dagger": "Yes",
-        "fist": "Yes"
+        "fist": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "lightArmor": "Yes",
+        "robe": "Yes"
     },
     {
         "character": "Tidus",
         "realm": "X",
         "dagger": "Yes",
-        "sword": "Yes"
+        "sword": "Yes",
+        "armor": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "helm": "Yes",
+        "lightArmor": "Yes",
+        "shield": "Yes"
     },
     {
         "character": "Wakka",
@@ -108,6 +173,11 @@
         "ball": "Yes",
         "bow": "Yes",
         "dagger": "Yes",
-        "thrown": "Yes"
+        "thrown": "Yes",
+        "armor": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "helm": "Yes",
+        "lightArmor": "Yes"
     }
 ]

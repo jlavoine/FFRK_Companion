@@ -27,6 +27,12 @@ public class ChooseRealmPanel : MonoBehaviour {
 		List<ID_Item> listItems = IDL_Items.GetItems();
 		List<string> listRealms = new List<string>();
 
+		GameObject goButtonAll = GameObject.Instantiate( RealmButton );
+		goButtonAll.transform.SetParent( Content.transform, false );
+		
+		ChooseRealmButton buttonAll = goButtonAll.GetComponent<ChooseRealmButton>();
+		buttonAll.Init( "All" );
+
 		for ( int i = 0; i < listItems.Count; ++i ) {
 			ID_Item item = listItems[i];
 			string strRealm = item.realm;
