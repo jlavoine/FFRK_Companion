@@ -1032,7 +1032,7 @@
         "itemname": "Ice Armor",
         "itemtype": "Armor",
         "realm": "IV",
-        "subtype": "Armor\n",
+        "subtype": "Armor",
         "rarity": 3,
         "def": 24,
         "maxdef": 58,
@@ -1277,7 +1277,7 @@
     {
         "itemname": "White Robe",
         "itemtype": "Armor",
-        "realm": "IV\n",
+        "realm": "IV",
         "subtype": "Robe",
         "rarity": 4,
         "def": 30,
@@ -1707,7 +1707,7 @@
         "rarity": 3,
         "att": 18,
         "maxatt": 44,
-        "maxdef": "\n",
+        "maxdef": "",
         "mag": 3,
         "maxmag": 3,
         "acc": 89,
@@ -1890,7 +1890,7 @@
     {
         "itemname": "Mythril Sword",
         "itemtype": "Weapon",
-        "realm": "IV\n",
+        "realm": "IV",
         "subtype": "Sword",
         "rarity": 2,
         "att": 12,
@@ -2128,7 +2128,7 @@
         "maxacc": 92
     },
     {
-        "itemname": "Claymore\n",
+        "itemname": "Claymore",
         "itemtype": "Weapon",
         "realm": "XII",
         "subtype": "Sword",
@@ -2153,7 +2153,7 @@
         "itemname": "Kazekiri",
         "itemtype": "Weapon",
         "realm": "V",
-        "subtype": "Katana\n",
+        "subtype": "Katana",
         "rarity": 2,
         "att": 11,
         "maxatt": 33,
@@ -2164,7 +2164,7 @@
         "itemname": "Masamune",
         "itemtype": "Weapon",
         "realm": "VII",
-        "subtype": "Katana\n",
+        "subtype": "Katana",
         "rarity": 5,
         "att": 80,
         "maxatt": 132,
@@ -2176,7 +2176,7 @@
         "itemname": "Masamune Blade",
         "itemtype": "Weapon",
         "realm": "VII",
-        "subtype": "Katana\n",
+        "subtype": "Katana",
         "rarity": 4,
         "att": 42,
         "maxatt": 77,
@@ -2187,7 +2187,7 @@
         "itemname": "Ashura",
         "itemtype": "Weapon",
         "realm": "IV",
-        "subtype": "Katana\n",
+        "subtype": "Katana",
         "rarity": 2,
         "att": 11,
         "maxatt": 33,
@@ -2275,9 +2275,9 @@
         "maxacc": 92
     },
     {
-        "itemname": "Poison Axe\n",
+        "itemname": "Poison Axe",
         "itemtype": "Weapon",
-        "realm": "IV\n",
+        "realm": "IV",
         "subtype": "Axe",
         "rarity": 3,
         "att": 23,
@@ -2367,7 +2367,7 @@
     {
         "itemname": "Sledgehammer",
         "itemtype": "Weapon",
-        "realm": "XII\n",
+        "realm": "XII",
         "subtype": "Hammer",
         "rarity": 4,
         "att": 41,
@@ -2465,7 +2465,7 @@
         "maxacc": 89
     },
     {
-        "itemname": "Halberd\n",
+        "itemname": "Halberd",
         "itemtype": "Weapon",
         "realm": "XII",
         "subtype": "Spear",
@@ -2759,7 +2759,7 @@
         "maxacc": 89
     },
     {
-        "itemname": "Poison Rod\n",
+        "itemname": "Poison Rod",
         "itemtype": "Weapon",
         "realm": "VI",
         "subtype": "Rod",
@@ -2818,7 +2818,7 @@
         "maxmnd": 40,
         "acc": 92,
         "maxacc": 92,
-        "notes": "Changes Black Mage's Soul Break to Magic Signet. Adds light lightning damage.\n"
+        "notes": "Changes Black Mage's Soul Break to Magic Signet. Adds light lightning damage."
     },
     {
         "itemname": "Empyrean Rod",
@@ -2869,7 +2869,7 @@
     {
         "itemname": "Mace",
         "itemtype": "Weapon",
-        "realm": "XII\n",
+        "realm": "XII",
         "subtype": "Rod",
         "rarity": 1,
         "att": 2,
@@ -3279,7 +3279,7 @@
         "maxacc": 83
     },
     {
-        "itemname": "Flame Bow\n",
+        "itemname": "Flame Bow",
         "itemtype": "Weapon",
         "realm": "V",
         "subtype": "Bow",
@@ -3539,7 +3539,7 @@
     {
         "itemname": "Healing Grimoire",
         "itemtype": "Weapon",
-        "realm": "None\n",
+        "realm": "Core",
         "subtype": "Book",
         "rarity": 5,
         "att": 57,
@@ -3550,6 +3550,6 @@
         "maxmnd": 118,
         "acc": 95,
         "maxacc": 95,
-        "notes": "Changes Tyro's Soul Break to Healing Grimoire.\n"
+        "notes": "Changes Tyro's Soul Break to Healing Grimoire."
     }
 ]

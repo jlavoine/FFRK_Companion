@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
+using Newtonsoft.Json;
 
 ////////////////////////////////
 /// IDL_Items
@@ -9,18 +10,24 @@ using System.IO;
 ////////////////////////////////
 
 public static class IDL_Items {
-
-	public static void LoadItems() {
-		string strData = "";
-		string strPath = Application.streamingAssetsPath + "/items.json";
+	private static List<ID_Item> m_listItems;
+	
+	////////////////////////////////
+	/// GetItems()
+	////////////////////////////////
+	public static List<ID_Item> GetItems() {
+		if ( m_listItems == null )
+			LoadItems();
 		
-		if ( File.Exists( strPath ) ) {
-			FileStream file = new FileStream( strPath, FileMode.Open, FileAccess.Read );
-			StreamReader sr = new StreamReader( file );
-			
-			strData = sr.ReadToEnd();
-			sr.Close();
-			file.Close();
-		}
+		return m_listItems;
+	}
+	
+	////////////////////////////////
+	/// LoadItems()
+	////////////////////////////////
+	private static void LoadItems() {
+		string strData = DataUtils.LoadFile( "items" );
+		
+		m_listItems = JsonConvert.DeserializeObject<List<ID_Item>>( strData );
 	}
 }

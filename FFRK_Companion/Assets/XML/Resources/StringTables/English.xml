@@ -2,6 +2,7 @@
 	<String ID="Title_Item">Item Companion</String>	
 	
 	<String ID="ChooseCharacter_Button">Choose Character</String>	
+	<String ID="ChooseRealm_Button">Choose Realm</String>
 	<String ID="ChooseCharacter_Panel">Choose a Character</String>	
 	
 	<!-- Character names -->

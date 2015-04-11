@@ -392,6 +392,9 @@
      <Compile Include="Assets\Scripts\FFRK\ChooseCharacterButton.cs" />
      <Compile Include="Assets\Scripts\FFRK\ChooseCharacterOption.cs" />
      <Compile Include="Assets\Scripts\FFRK\ChooseCharacterPanel.cs" />
+     <Compile Include="Assets\Scripts\FFRK\ChooseRealmButton.cs" />
+     <Compile Include="Assets\Scripts\FFRK\ChooseRealmOption.cs" />
+     <Compile Include="Assets\Scripts\FFRK\ChooseRealmPanel.cs" />
      <Compile Include="Assets\Scripts\FFRK\IDL_Characters.cs" />
      <Compile Include="Assets\Scripts\FFRK\IDL_Items.cs" />
      <Compile Include="Assets\Scripts\FFRK\ID_Character.cs" />
