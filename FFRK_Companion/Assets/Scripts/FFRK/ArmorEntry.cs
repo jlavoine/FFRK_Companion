@@ -21,8 +21,10 @@ public class ArmorEntry : MonoBehaviour {
 		Defense.text = strDef;
 		
 		string strLoc = StringTableManager.Instance.Get( "RelicDrop" );
-		if ( string.IsNullOrEmpty( i_item.location ) == false )
-			strLoc = i_item.location;
+		if ( string.IsNullOrEmpty( i_item.location ) == false ) {
+			strLoc = StringTableManager.Instance.Get( "Location" );
+			strLoc = DrsStringUtils.Replace( strLoc, "DESC", i_item.location );
+		}
 		
 		Location.text = strLoc;
 	}

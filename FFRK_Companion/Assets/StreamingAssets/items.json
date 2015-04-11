@@ -180,7 +180,7 @@
     {
         "itemname": "Genji Shield",
         "itemtype": "Armor",
-        "realm": "V",
+        "realm": "IV",
         "subtype": "Shield",
         "rarity": 5,
         "def": 62,
@@ -274,7 +274,7 @@
     {
         "itemname": "Hairband",
         "itemtype": "Armor",
-        "realm": "V",
+        "realm": "VI",
         "subtype": "Hat",
         "rarity": 1,
         "def": 2,
@@ -2000,7 +2000,7 @@
         "maxacc": 89
     },
     {
-        "itemname": "Ancient Sowrd",
+        "itemname": "Ancient Sword",
         "itemtype": "Weapon",
         "realm": "XII",
         "subtype": "Sword",
@@ -2122,7 +2122,7 @@
         "notes": "Adds small chance to Petrify."
     },
     {
-        "itemname": "Crystal Blade",
+        "itemname": "Crystal Sword",
         "itemtype": "Weapon",
         "realm": "VI",
         "subtype": "Sword",
@@ -2610,7 +2610,7 @@
         "location": "6-6 Boss"
     },
     {
-        "itemname": "Diamond Knuckles",
+        "itemname": "Diamond Knuckle",
         "itemtype": "Weapon",
         "realm": "VII",
         "subtype": "Fist",
@@ -2832,7 +2832,7 @@
         "notes": "Adds light poison damage."
     },
     {
-        "itemname": "Punisher",
+        "itemname": "Punisher Rod",
         "itemtype": "Weapon",
         "realm": "VI",
         "subtype": "Rod",
@@ -2910,7 +2910,7 @@
         "notes": "Adds light ice damage."
     },
     {
-        "itemname": "Gravity Road",
+        "itemname": "Gravity Rod",
         "itemtype": "Weapon",
         "realm": "VI",
         "subtype": "Rod",

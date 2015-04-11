@@ -17,7 +17,7 @@
 	<String ID="MaxDef">Max Def: $NUM$</String>
 	<String ID="Location">Location: $DESC$</String>
 	
-	<String ID="RelicDrop">Relic Pull</String>
+	<String ID="RelicDrop">Location: Relic Pull</String>
 	
 	<!-- Character names -->
 	<String ID="Name_Bard">Bard</String>	
