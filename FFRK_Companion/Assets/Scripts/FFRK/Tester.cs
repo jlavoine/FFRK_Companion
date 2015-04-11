@@ -1,24 +1,15 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.IO;
+using UnityEngine.UI;
 
 public class Tester : MonoBehaviour {
+	public Image TestImage;
 
 	// Use this for initialization
 	void Start () {
-		string strData = "";
-		string strPath = Application.streamingAssetsPath + "/items.json";
-
-		if ( File.Exists( strPath ) ) {
-			FileStream file = new FileStream( strPath, FileMode.Open, FileAccess.Read );
-			StreamReader sr = new StreamReader( file );
-
-			strData = sr.ReadToEnd();
-			sr.Close();
-			file.Close();
-		}
-
-		Debug.Log ("What's this: " + strData);
+		Sprite sprite = Resources.Load<Sprite>( "II_Bronze Helm" );
+		TestImage.sprite = sprite;
 	}
 	
 	// Update is called once per frame

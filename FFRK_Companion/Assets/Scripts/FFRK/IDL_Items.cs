@@ -1,15 +1,21 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
+using System.IO;
 
-public class IDL_Items : MonoBehaviour {
+public static class IDL_Items {
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
+	public static void LoadItems() {
+		string strData = "";
+		string strPath = Application.streamingAssetsPath + "/items.json";
+		
+		if ( File.Exists( strPath ) ) {
+			FileStream file = new FileStream( strPath, FileMode.Open, FileAccess.Read );
+			StreamReader sr = new StreamReader( file );
+			
+			strData = sr.ReadToEnd();
+			sr.Close();
+			file.Close();
+		}
 	}
 }
