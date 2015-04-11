@@ -1,0 +1,113 @@
+[
+    {
+        "character": "Bard",
+        "realm": "Core",
+        "dagger": "Yes",
+        "instrument": "Yes"
+    },
+    {
+        "character": "BlackMage",
+        "realm": "Core",
+        "dagger": "Yes",
+        "rod": "Yes"
+    },
+    {
+        "character": "Ranger",
+        "realm": "Core",
+        "bow": "Yes",
+        "dagger": "Yes"
+    },
+    {
+        "character": "Tyro",
+        "realm": "Core",
+        "axe": "Yes",
+        "ball": "Yes",
+        "book": "Yes",
+        "bow": "Yes",
+        "dagger": "Yes",
+        "fist": "Yes",
+        "hammer": "Yes",
+        "instrument": "Yes",
+        "katana": "Yes",
+        "rod": "Yes",
+        "spear": "Yes",
+        "staff": "Yes",
+        "sword": "Yes",
+        "thrown": "Yes",
+        "whip": "Yes"
+    },
+    {
+        "character": "Warrior",
+        "realm": "Core",
+        "axe": "Yes",
+        "dagger": "Yes",
+        "hammer": "Yes",
+        "sword": "Yes"
+    },
+    {
+        "character": "WhiteMage",
+        "realm": "Core",
+        "dagger": "Yes",
+        "staff": "Yes"
+    },
+    {
+        "character": "CecilDK",
+        "realm": "IV",
+        "dagger": "Yes",
+        "sword": "Yes"
+    },
+    {
+        "character": "CecilPaladin",
+        "realm": "IV",
+        "dagger": "Yes",
+        "hammer": "Yes",
+        "sword": "Yes"
+    },
+    {
+        "character": "Kain",
+        "realm": "IV",
+        "axe": "Yes",
+        "dagger": "Yes",
+        "spear": "Yes"
+    },
+    {
+        "character": "Rydia",
+        "realm": "IV",
+        "dagger": "Yes",
+        "rod": "Yes",
+        "whip": "Yes"
+    },
+    {
+        "character": "Cloud",
+        "realm": "VII",
+        "dagger": "Yes",
+        "katana": "Yes",
+        "sword": "Yes"
+    },
+    {
+        "character": "Sephiroth",
+        "realm": "VII",
+        "dagger": "Yes",
+        "katana": "Yes"
+    },
+    {
+        "character": "Tifa",
+        "realm": "VII",
+        "dagger": "Yes",
+        "fist": "Yes"
+    },
+    {
+        "character": "Tidus",
+        "realm": "X",
+        "dagger": "Yes",
+        "sword": "Yes"
+    },
+    {
+        "character": "Wakka",
+        "realm": "X",
+        "ball": "Yes",
+        "bow": "Yes",
+        "dagger": "Yes",
+        "thrown": "Yes"
+    }
+]

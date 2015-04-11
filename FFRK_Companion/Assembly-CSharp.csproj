@@ -389,10 +389,17 @@
      <Compile Include="Assets\LeanTween\Examples\Scripts\TestingUniqueId.cs" />
      <Compile Include="Assets\LeanTween\Examples\Scripts\TutorialPresentationFinished.cs" />
      <Compile Include="Assets\LeanTween\Examples\Scripts\UIExampleCS.cs" />
+     <Compile Include="Assets\Scripts\FFRK\ChooseCharacterButton.cs" />
+     <Compile Include="Assets\Scripts\FFRK\ChooseCharacterOption.cs" />
+     <Compile Include="Assets\Scripts\FFRK\ChooseCharacterPanel.cs" />
+     <Compile Include="Assets\Scripts\FFRK\IDL_Characters.cs" />
      <Compile Include="Assets\Scripts\FFRK\IDL_Items.cs" />
+     <Compile Include="Assets\Scripts\FFRK\ID_Character.cs" />
      <Compile Include="Assets\Scripts\FFRK\ID_Item.cs" />
+     <Compile Include="Assets\Scripts\FFRK\ItemCompanion.cs" />
      <Compile Include="Assets\Scripts\FFRK\Tester.cs" />
      <Compile Include="Assets\Scripts\Library\Audio\AudioManager.cs" />
+     <Compile Include="Assets\Scripts\Library\Audio\DataUtils.cs" />
      <Compile Include="Assets\Scripts\Library\Audio\DrsAudioSource.cs" />
      <Compile Include="Assets\Scripts\Library\Audio\IDL_Audio.cs" />
      <Compile Include="Assets\Scripts\Library\Audio\ID_Audio.cs" />
@@ -430,8 +437,12 @@
      <Compile Include="Assets\Scripts\Library\UI\TextMeshHelper.cs" />
      <Compile Include="Assets\Scripts\Library\XML\XMLParser.cs" />
      <Compile Include="Assets\Scripts\Library\XML\XMLUtils.cs" />
+     <None Include="Assets\XML\Resources\StringTables\English.xml" />
      <None Include="Assets\LeanTween\Examples\Shader\2dUnlitWithFade.shader" />
+     <None Include="Assets\XML\Resources\Sounds\Sounds.xml" />
      <None Include="Assets\LeanTween\ReadMe.txt" />
+     <None Include="Assets\XML\Resources\Characters\Birds_1.xml" />
+     <None Include="Assets\XML\Resources\Constants\GameConstants.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

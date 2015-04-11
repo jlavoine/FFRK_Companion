@@ -1,0 +1,6 @@
+<Characters>
+	<Character Index="0" ID="Character_Pidgeon" Price="0"> </Character>	
+	<Character Index="1" ID="Character_Penguin" Price="0" IsAdLocked="True"> </Character>	
+	<Character Index="2" ID="Character_Flapster" Price="0"> </Character>
+	<Character Index="3" ID="Character_Cooked" Price="0" IsAdLocked="True"> </Character>
+</Characters>

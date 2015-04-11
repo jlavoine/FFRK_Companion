@@ -1,0 +1,23 @@
+<English>
+	<String ID="Title_Item">Item Companion</String>	
+	
+	<String ID="ChooseCharacter_Button">Choose Character</String>	
+	<String ID="ChooseCharacter_Panel">Choose a Character</String>	
+	
+	<!-- Character names -->
+	<String ID="Name_Bard">Bard</String>	
+	<String ID="Name_BlackMage">Black Mage</String>
+	<String ID="Name_Ranger">Ranger</String>
+	<String ID="Name_Tyro">Tyro</String>
+	<String ID="Name_Warrior">Warrior</String>
+	<String ID="Name_WhiteMage">White Mage</String>
+	<String ID="Name_CecilDK">Cecil, Dark Knight</String>
+	<String ID="Name_CecilPaladin">Cecil, Paladin</String>
+	<String ID="Name_Kain">Kain</String>
+	<String ID="Name_Rydia">Rydia</String>
+	<String ID="Name_Cloud">Cloud</String>
+	<String ID="Name_Sephiroth">Sephiroth</String>
+	<String ID="Name_Tifa">Tifa</String>
+	<String ID="Name_Tidus">Tidus</String>
+	<String ID="Name_Wakka">Wakka</String>
+</English>

@@ -3,6 +3,11 @@ using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 
+////////////////////////////////
+/// IDL_Items
+/// Data loader for ALL items.
+////////////////////////////////
+
 public static class IDL_Items {
 
 	public static void LoadItems() {

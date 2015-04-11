@@ -47,8 +47,12 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Plugins\LeanTween.cs" />
+     <None Include="Assets\XML\Resources\StringTables\English.xml" />
      <None Include="Assets\LeanTween\Examples\Shader\2dUnlitWithFade.shader" />
+     <None Include="Assets\XML\Resources\Sounds\Sounds.xml" />
      <None Include="Assets\LeanTween\ReadMe.txt" />
+     <None Include="Assets\XML\Resources\Characters\Birds_1.xml" />
+     <None Include="Assets\XML\Resources\Constants\GameConstants.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
