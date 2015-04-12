@@ -1,0 +1,293 @@
+[
+    {
+        "name": "Mist Cave",
+        "version": "Classic",
+        "realm": "IV",
+        "orbs": "White_1,Wind_1,Earth_1",
+        "bossorbs": "Earth_2"
+    },
+    {
+        "name": "Underground Waterway",
+        "version": "Classic",
+        "realm": "IV",
+        "orbs": "Holy_1,Lightning_1,Power_1",
+        "bossorbs": "Holy_2"
+    },
+    {
+        "name": "Antlion's Den",
+        "version": "Classic",
+        "realm": "IV",
+        "orbs": "Black_1,Wind_1,Earth_1",
+        "bossorbs": "Dark_2"
+    },
+    {
+        "name": "Mount Hobs",
+        "version": "Classic",
+        "realm": "IV",
+        "orbs": "Holy_1,Lightning_1,White_1",
+        "bossorbs": "Lightning_2"
+    },
+    {
+        "name": "Fabul Castle",
+        "version": "Classic",
+        "realm": "IV",
+        "orbs": "Black_1,Dark_1,Non_1",
+        "bossorbs": "Non_2"
+    },
+    {
+        "name": "Baron Castle",
+        "version": "Classic",
+        "realm": "IV",
+        "orbs": "Black_1,Holy_1,Lightning_1",
+        "bossorbs": "Black_2"
+    },
+    {
+        "name": "Wind Shrine",
+        "version": "Classic",
+        "realm": "V",
+        "orbs": "Fire_1,Ice_1,Power_1",
+        "bossorbs": "Fire_2"
+    },
+    {
+        "name": "Toma Canal",
+        "version": "Classic",
+        "realm": "V",
+        "orbs": "Earth_1,Power_1,Wind_1",
+        "bossorbs": "Wind_2"
+    },
+    {
+        "name": "Ship Graveyard",
+        "version": "Classic",
+        "realm": "V",
+        "orbs": "Fire_1,Ice_1,White_1,Dark_1",
+        "bossorbs": "White_2"
+    },
+    {
+        "name": "North Mountain",
+        "version": "Classic",
+        "realm": "V",
+        "orbs": "Non_1,Power_1"
+    },
+    {
+        "name": "North Mines",
+        "version": "Classic",
+        "realm": "VI",
+        "orbs": "White_2,Earth_2,Wind_2",
+        "bossorbs": "Wind_3"
+    },
+    {
+        "name": "Abandoned Mines",
+        "version": "Classic",
+        "realm": "VI",
+        "orbs": "Black_2,Fire_2,Ice_2",
+        "bossorbs": "Ice_3"
+    },
+    {
+        "name": "Figaro Castle",
+        "version": "Classic",
+        "realm": "VI",
+        "orbs": "Power_2,Lightning_2,Holy_2",
+        "bossorbs": "Non_3"
+    },
+    {
+        "name": "Mt. Kolts",
+        "version": "Classic",
+        "realm": "VI",
+        "orbs": "White_2,Black_2,Non_2,Dark_2",
+        "bossorbs": "Non_3"
+    },
+    {
+        "name": "Imperial Camp",
+        "version": "Classic",
+        "realm": "VI",
+        "orbs": "Earth_2,Black_2,Wind_2",
+        "bossorbs": "Black_3"
+    },
+    {
+        "name": "South Figaro Cave",
+        "version": "Classic",
+        "realm": "VI",
+        "orbs": "Fire_2,Ice_2,Power_2",
+        "bossorbs": "Power_3"
+    },
+    {
+        "name": "Mako Reaction No. 1",
+        "version": "Classic",
+        "realm": "VII",
+        "orbs": "Fire_1,Ice_1,White_1",
+        "bossorbs": "White_2"
+    },
+    {
+        "name": "Mako Reactor No. 5",
+        "version": "Classic",
+        "realm": "VII",
+        "orbs": "Holy_1,Lightning_1,Black_1",
+        "bossorbs": "Black_2"
+    },
+    {
+        "name": "Zanarkand",
+        "version": "Classic",
+        "realm": "X",
+        "orbs": "Power_1,Non_1,Fire_1,Ice_1,Dark_1",
+        "bossorbs": "Power_2"
+    },
+    {
+        "name": "Besaid",
+        "version": "Classic",
+        "realm": "X",
+        "orbs": "Black_1,Fire_1,Ice_1"
+    },
+    {
+        "name": "S.S. Liki",
+        "version": "Classic",
+        "realm": "X",
+        "orbs": "White_1,Black_1Non_1,Fire_1,Dark_1",
+        "bossorbs": "Dark_2"
+    },
+    {
+        "name": "Mist Cave",
+        "version": "Elite",
+        "realm": "IV",
+        "orbs": "White_2,White_3,Earth_2,Earth_3,Wind_2,Wind_3",
+        "bossorbs": "Earth_4"
+    },
+    {
+        "name": "Underground Waterway",
+        "version": "Elite",
+        "realm": "IV",
+        "orbs": "Power_2,Power_3,Lightning_2,Lightning_3,Holy_2,Holy_3",
+        "bossorbs": "Holy_4"
+    },
+    {
+        "name": "Antlion's Den",
+        "version": "Elite",
+        "realm": "IV",
+        "orbs": "Black_2,Black_2,Earth_2,Earth_3,Wind_2,Wind_3",
+        "bossorbs": "Wind_4"
+    },
+    {
+        "name": "Mount Hobs",
+        "version": "Elite",
+        "realm": "IV",
+        "orbs": "White_2,White_3,Lightning_2,Lightning_3,Holy_2,Holy_3",
+        "bossorbs": "Fire_4"
+    },
+    {
+        "name": "Fabul Castle",
+        "version": "Elite",
+        "realm": "IV",
+        "orbs": "Black_2,Black_3,Non_2,Non_3,Dark_2,Dark_3",
+        "bossorbs": "Non_4"
+    },
+    {
+        "name": "Baron Castle",
+        "version": "Elite",
+        "realm": "IV",
+        "orbs": "Black_2,Black_3,Lightning_2,Lightning_3,Holy_2,Holy_3",
+        "bossorbs": "Ice_4"
+    },
+    {
+        "name": "Wind Shrine",
+        "version": "Elite",
+        "realm": "V",
+        "orbs": "Power_2,Power_3,Fire_2,Fire_3,Ice_2,Ice_3",
+        "bossorbs": "Wind_4"
+    },
+    {
+        "name": "Toma Canal",
+        "version": "Elite",
+        "realm": "V",
+        "orbs": "Power_2,Power_3,Earth_2,Earth_3,Wind_2,Wind_3",
+        "bossorbs": "Ice_4"
+    },
+    {
+        "name": "Ship Graveyard",
+        "version": "Elite",
+        "realm": "V",
+        "orbs": "White_2,White_3,Fire_2,Fire_3,Ice_2,Ice_3,Dark_2,Dark_3",
+        "bossorbs": "Dark_4"
+    },
+    {
+        "name": "North Mountain",
+        "version": "Elite",
+        "realm": "V",
+        "orbs": "Power_2,Power_3,Non_2,Non_3",
+        "bossorbs": "Lightning_4"
+    },
+    {
+        "name": "North Mines",
+        "version": "Elite",
+        "realm": "VI",
+        "orbs": "White_2,White_3,Earth_2,Earth_3,Wind_2,Wind_3",
+        "bossorbs": "Lightning_4"
+    },
+    {
+        "name": "Abandoned Mines",
+        "version": "Elite",
+        "realm": "VI",
+        "orbs": "Black_2,Black_3,Fire_2,Fire_3,Ice_2,Ice_3",
+        "bossorbs": "Ice_4"
+    },
+    {
+        "name": "Figaro Castle",
+        "version": "Elite",
+        "realm": "VI",
+        "orbs": "Power_2,Power_3,Lightning_2,Lightning_3,Holy_2,Holy_3",
+        "bossorbs": "Non_4"
+    },
+    {
+        "name": "Mt. Kolts",
+        "version": "Elite",
+        "realm": "VI",
+        "orbs": "White_2,White_3,Non_2,Non_3,Dark_2,Dark_3",
+        "bossorbs": "Wind_4"
+    },
+    {
+        "name": "Imperial Camp",
+        "version": "Elite",
+        "realm": "VI",
+        "orbs": "Black_2,Black_3,Earth_2,Earth_3,Wind_2,Wind_3",
+        "bossorbs": "Wind_4"
+    },
+    {
+        "name": "South Figaro Cave",
+        "version": "Elite",
+        "realm": "VI",
+        "orbs": "Power_2,Power_2,Fire_2,Fire_3,Ice_2,Ice_3",
+        "bossorbs": "Dark_4"
+    },
+    {
+        "name": "Mako Reaction No. 1",
+        "version": "Elite",
+        "realm": "VII",
+        "orbs": "White_2,White_3,Fire_2,Fire_3,Ice_2,Ice_3"
+    },
+    {
+        "name": "Mako Reactor No. 5",
+        "version": "Elite",
+        "realm": "VII",
+        "orbs": "Black_2,Black_3,Lightning_2,Lightning_3,Holy_2,Holy_3",
+        "bossorbs": "Black_4"
+    },
+    {
+        "name": "Zanarkand",
+        "version": "Elite",
+        "realm": "X",
+        "orbs": "Power_2,Power_3,Non_2,Non_3,Fire_2,Fire_3,Ice_2,Ice_3,Dark_2,Dark_3",
+        "bossorbs": "Non_4"
+    },
+    {
+        "name": "Besaid",
+        "version": "Elite",
+        "realm": "X",
+        "orbs": "Black_2,Black_3,Fire_2,Fire_3,Ice_2,Ice_3",
+        "bossorbs": "Ice_4"
+    },
+    {
+        "name": "S.S. Liki",
+        "version": "Elite",
+        "realm": "X",
+        "orbs": "White_2,White_3,Black_2,Black_3,Non_2,Non_3,Fire_2,Fire_3,Dark_2,Dark_3",
+        "bossorbs": "Dark_4"
+    }
+]

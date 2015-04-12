@@ -1,23 +1,46 @@
 <English>
-	<String ID="NUMBER_DELIMETER">Item Companion</String>	
+	<String ID="NUMBER_DELIMETER">,</String>	
 	
 	<String ID="Title_Item">Item Companion</String>	
+	<String ID="Title_Orb">Orb Companion</String>	
 	
 	<String ID="ChooseCharacter_Button">Choose Character</String>	
 	<String ID="ChooseRealm_Button">Choose Realm</String>
 	<String ID="ChooseCharacter_Panel">Choose a Character</String>
 	<String ID="DropsOnly">Show Drops Only</String>
 	
-	<String ID="Weapons">Weapons</String>
-	<String ID="Armor">Armor</String>
+	<String ID="WeaponDisplay">Weapons</String>
+	<String ID="ArmorDisplay">Armor</String>
 	
 	<String ID="MaxAtt">Max Att: $NUM$</String>
 	<String ID="MaxMag">Max Mag: $NUM$</String>
 	<String ID="MaxMnd">Max Mnd: $NUM$</String>
 	<String ID="MaxDef">Max Def: $NUM$</String>
 	<String ID="Location">Location: $DESC$</String>
+	<String ID="OrbLocation">Location: </String>
 	
 	<String ID="RelicDrop">Location: Relic Pull</String>
+	
+	<!-- Orb names -->
+	<String ID="Orb_1">Minor</String>
+	<String ID="Orb_2">Lesser</String>
+	<String ID="Orb_3">-</String>
+	<String ID="Orb_4">Greater</String>
+	<String ID="Orb_5">Major</String>
+	
+	<String ID="Power">Power</String>
+	<String ID="White">White</String>
+	<String ID="Black">Black</String>
+	<String ID="Blue">Blue</String>
+	<String ID="Summon">Summon</String>
+	<String ID="Non">Non Elemental</String>
+	<String ID="Fire">Fire</String>
+	<String ID="Ice">Ice</String>
+	<String ID="Lightning">Lightning</String>
+	<String ID="Earth">Earth</String>
+	<String ID="Wind">Wind</String>
+	<String ID="Holy">Holy</String>
+	<String ID="Dark">Dark</String>
 	
 	<!-- Character names -->
 	<String ID="Name_Bard">Bard</String>	

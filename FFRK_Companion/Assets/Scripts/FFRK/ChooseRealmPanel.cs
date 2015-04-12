@@ -24,29 +24,19 @@ public class ChooseRealmPanel : MonoBehaviour {
 	////////////////////////////////
 	void Start () {
 		// we need to create a unique list of realms...let's cull it from the items
-		List<ID_Item> listItems = IDL_Items.GetItems();
-		List<string> listRealms = new List<string>();
+		List<string> listRealms = new List<string>() { "All", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XII" };
 
-		GameObject goButtonAll = GameObject.Instantiate( RealmButton );
-		goButtonAll.transform.SetParent( Content.transform, false );
-		
-		ChooseRealmButton buttonAll = goButtonAll.GetComponent<ChooseRealmButton>();
-		buttonAll.Init( "All" );
+		// used to do this automatically, but people would rather have it sorted
+		for ( int i = 0; i < listRealms.Count; ++i ) {
+			string strRealm = listRealms[i];
 
-		for ( int i = 0; i < listItems.Count; ++i ) {
-			ID_Item item = listItems[i];
-			string strRealm = item.realm;
+			// add the realm!
+			GameObject goButton = GameObject.Instantiate( RealmButton );
+			goButton.transform.SetParent( Content.transform, false );
+			
+			ChooseRealmButton button = goButton.GetComponent<ChooseRealmButton>();
+			button.Init( strRealm );
 
-			if ( listRealms.Contains( strRealm ) == false ) {
-				listRealms.Add( strRealm );
-
-				// add the realm!
-				GameObject goButton = GameObject.Instantiate( RealmButton );
-				goButton.transform.SetParent( Content.transform, false );
-				
-				ChooseRealmButton button = goButton.GetComponent<ChooseRealmButton>();
-				button.Init( strRealm );
-			}
 		}
 		
 		// listen for messages
