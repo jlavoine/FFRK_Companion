@@ -16,13 +16,13 @@ public class ArmorEntry : MonoBehaviour {
 		Icon.sprite = spriteIcon;
 		Name.text = strName;
 		
-		string strDef = StringTableManager.Instance.Get( "MaxDef" );
+		string strDef = StringTableManager.Get( "MaxDef" );
 		strDef = DrsStringUtils.Replace( strDef, "NUM", nDef );
 		Defense.text = strDef;
 		
-		string strLoc = StringTableManager.Instance.Get( "RelicDrop" );
+		string strLoc = StringTableManager.Get( "RelicDrop" );
 		if ( string.IsNullOrEmpty( i_item.location ) == false ) {
-			strLoc = StringTableManager.Instance.Get( "Location" );
+			strLoc = StringTableManager.Get( "Location" );
 			strLoc = DrsStringUtils.Replace( strLoc, "DESC", i_item.location );
 		}
 		

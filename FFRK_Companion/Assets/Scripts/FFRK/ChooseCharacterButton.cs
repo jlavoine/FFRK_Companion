@@ -26,7 +26,7 @@ public class ChooseCharacterButton : MonoBehaviour {
 
 		string strKey = i_dataCharacter.character;
 
-		string strName = StringTableManager.Instance.Get( "Name_" + strKey );
+		string strName = StringTableManager.Get( "Name_" + strKey );
 		Sprite spriteImage = Resources.Load<Sprite>( strKey );
 
 		CharacterName.text = strName;

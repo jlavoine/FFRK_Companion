@@ -1,29 +1,4 @@
 <Constants>
-	<Constant Name="UseSecureSaves" Type="Bool" Value="true"> </Constant>
-	
-	<Constant Name="LogoShowTime" Type="Float" Value=".5"> </Constant>
-
-	<Constant Name="StandardCharacterUp" Type="Vector2" Value="0,350"> </Constant>
-	
-	<Constant Name="MaxRotationZ" Type="Float" Value="20"> </Constant>
-	<Constant Name="MinRotationZ" Type="Float" Value="-90"> </Constant>
-	
-	<Constant Name="RotationPerFrameUp" Type="Float" Value="10"> </Constant>
-	<Constant Name="RotationPerFrameDown" Type="Float" Value="2"> </Constant>
-	
-	<Constant Name="TimeBetweenPipes" Type="Float" Value="1.5"> </Constant>
-	<Constant Name="TimeBetweenFloors" Type="Float" Value="2.4"> </Constant>
-	
-	<Constant Name="Pipe_MoveDistance" Type="Vector3" Value="-15.35,0,0"> </Constant>
-	<Constant Name="Floor_MoveDistance" Type="Vector3" Value="-15.35,0,0"> </Constant>
-	<Constant Name="Pipe_MoveTime" Type="Float" Value="5"> </Constant>
-	<Constant Name="Floor_MoveTime" Type="Float" Value="5"> </Constant>
-	
-			
-	<Constant Name="Pipe_MinY" Type="Float" Value="-1.552"> </Constant>
-	<Constant Name="Pipe_MaxY" Type="Float" Value="3.833"> </Constant>
-	
-	<Constant Name="FadeTime" Type="Float" Value=".3"> </Constant>
-	
-	<Constant Name="NumEnvironments" Type="Int" Value="3"> </Constant>
+	<Constant Name="ClassicColor" Type="Color" Value="227,223,100,255"> </Constant>
+	<Constant Name="EliteColor" Type="Color" Value="162,147,244,255"> </Constant>	
 </Constants>

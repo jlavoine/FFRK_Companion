@@ -19,7 +19,7 @@ public class ChooseRealmOption : MonoBehaviour {
 	////////////////////////////////
 	void Start () {
 		// set the button's initial text
-		string strChoose = StringTableManager.Instance.Get( "ChooseRealm_Button" );
+		string strChoose = StringTableManager.Get( "ChooseRealm_Button" );
 		ButtonText.text = strChoose;
 		
 		// listen for messages

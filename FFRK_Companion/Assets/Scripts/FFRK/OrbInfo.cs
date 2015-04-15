@@ -3,49 +3,91 @@ using System.Collections;
 using UnityEngine.UI;
 using System.Collections.Generic;
 
+///////////////////////////////////////////
+/// OrbInfo
+/// This screen contains detailed info on
+/// a particular orb.
+///////////////////////////////////////////
+
 public class OrbInfo : MonoBehaviour {
+	// name of the orb
 	public Text Name;
+
+	// icon of the orb
 	public Image Icon;
+
+	// where the orb can be found
 	public Text Locations;
 
-	// Use this for initialization
+	// content area where dungeons go, showing where the orb is
+	public GameObject DungeonContent;
+	public GameObject DungeonEntry;
+
+	///////////////////////////////////////////
+	/// Start()
+	///////////////////////////////////////////
 	void Start () {
+		// listen for messages
 		Messenger.AddListener<string, int>( "OrbSelected", OnOrbSelected );	
 	}
 
+	///////////////////////////////////////////
+	/// OnDestroy()
+	///////////////////////////////////////////
 	void OnDestroy() {
+		// remove messages
 		Messenger.RemoveListener<string, int>( "OrbSelected", OnOrbSelected );
 	}
 
+	///////////////////////////////////////////
+	/// OnOrbSelected()
+	/// Callback for an an orb is selected.
+	///////////////////////////////////////////
 	private void OnOrbSelected( string i_strOrbKey, int i_nIndex ) {
-		Sprite sprite = Resources.Load<Sprite>( i_strOrbKey + "_" + i_nIndex );
+		// build the final string of the orb based on its key and index
+		string strOrb = i_strOrbKey + "_" + i_nIndex;
+
+		// set the icon of the orb correctly
+		Sprite sprite = Resources.Load<Sprite>( strOrb );
 		Icon.sprite = sprite;
 
-		string strType = StringTableManager.Instance.Get( i_strOrbKey );
-		string strPrefix = StringTableManager.Instance.Get( "Orb_" + i_nIndex );
+		// name the orb properly
+		string strType = StringTableManager.Get( i_strOrbKey );
+		string strPrefix = StringTableManager.Get( "Orb_" + i_nIndex );
 		string strTitle = strPrefix + " " + strType;
 		Name.text = strTitle;
 
-		string strOrb = i_strOrbKey + "_" + i_nIndex;
-		string strLocation = StringTableManager.Instance.Get( "OrbLocation" );
+		// fill in the dungeon area
+		ShowDungeons( strOrb );
+	}
 
+	private void ShowDungeons( string i_strOrb ) {
+		// first delete everything
+		DungeonContent.DestroyChildren();
+
+		string strLocation = StringTableManager.Get( "OrbLocation" );
+		Locations.text = strLocation;
+
+		// get all dungeons and iterate through them, finding out which ones have the orb...
 		List<ID_Dungeon> listDungeons = IDL_Dungeons.GetDungeons();
-
 		for ( int i = 0; i < listDungeons.Count; ++i ) {
 			ID_Dungeon dungeon = listDungeons[i];
-			string strRealm = dungeon.realm;
-			string strName = dungeon.name;
-			string strVersion = dungeon.version;
-
-			if ( dungeon.HasOrb( strOrb ) ) {
-				strLocation += "-" + strName + "(" + strRealm + ")(" + strVersion + ")";
+			
+			// add a normal location
+			if ( dungeon.HasOrb( i_strOrb ) ) {
+				GameObject goEntry = GameObject.Instantiate( DungeonEntry );
+				goEntry.transform.SetParent( DungeonContent.transform );
+				DungeonIdentifier identifier = goEntry.GetComponent<DungeonIdentifier>();
+				identifier.Init( dungeon, false );
 			}
 
-			if ( dungeon.HasOrbBoss( strOrb ) ) {
-				strLocation += "-" + strName + "(" + strRealm + ")(" + strVersion + ")(Boss)";
+			// add a boss location
+			if ( dungeon.HasOrb_Boss( i_strOrb ) ) {
+				GameObject goEntry = GameObject.Instantiate( DungeonEntry );
+				goEntry.transform.SetParent( DungeonContent.transform );
+				DungeonIdentifier identifier = goEntry.GetComponent<DungeonIdentifier>();
+				identifier.Init( dungeon, true );
 			}
 		}
-
-		Locations.text = strLocation;
 	}
 }

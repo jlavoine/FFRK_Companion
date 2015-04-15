@@ -1,20 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Library\Audio\DataUtils.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FFRK\MainMenu.cs">
     <Files>
-      <File FileName="Assets\Scripts\Library\Audio\DataUtils.cs" Line="39" Column="5922" />
-      <File FileName="Assets\Scripts\FFRK\IDL_Orbs.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\FFRK\ID_Orb.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\FFRK\ID_Character.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\FFRK\IDL_Characters.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\FFRK\IDL_Dungeons.cs" Line="31" Column="65" />
-      <File FileName="Assets\Scripts\FFRK\ID_Dungeon.cs" Line="13" Column="5" />
-      <File FileName="Assets\XML\Resources\StringTables\English.xml" Line="20" Column="17" />
-      <File FileName="Assets\Scripts\FFRK\OrbSeries.cs" Line="17" Column="4" />
-      <File FileName="Assets\Scripts\FFRK\OrbCompanion.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\FFRK\OrbInfo.cs" Line="29" Column="47" />
-      <File FileName="Assets\Scripts\FFRK\OrbButton.cs" Line="14" Column="70" />
-      <File FileName="Assets\Scripts\Library\Misc\Constants.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\FFRK\OrbInfo.cs" Line="26" Column="2" />
+      <File FileName="Assets\Scripts\FFRK\DungeonIdentifier.cs" Line="1" Column="1" />
+      <File FileName="Assets\XML\Resources\Constants\GameConstants.xml" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Library\UI\SetText.cs" Line="1" Column="1" />
+      <File FileName="Assets\XML\Resources\StringTables\English.xml" Line="10" Column="86" />
+      <File FileName="Assets\Scripts\FFRK\MainMenu.cs" Line="23" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

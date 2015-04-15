@@ -22,7 +22,7 @@ public class ChooseCharacterOption : MonoBehaviour {
 	////////////////////////////////
 	void Start () {
 		// set the button's initial text
-		string strChoose = StringTableManager.Instance.Get( "ChooseCharacter_Button" );
+		string strChoose = StringTableManager.Get( "ChooseCharacter_Button" );
 		ButtonText.text = strChoose;
 
 		// hide the image
@@ -66,7 +66,7 @@ public class ChooseCharacterOption : MonoBehaviour {
 	/// character.
 	////////////////////////////////
 	private void ShowCharacter( ID_Character i_dataChar ) {
-		string strName = StringTableManager.Instance.Get( "Name_" + i_dataChar.character );
+		string strName = StringTableManager.Get( "Name_" + i_dataChar.character );
 		Sprite spriteImage = Resources.Load<Sprite>( i_dataChar.character );
 
 		ButtonText.text = strName;

@@ -26,7 +26,7 @@ public abstract class ItemDisplay : MonoBehaviour {
 	////////////////////////////////
 	void Start () {
 		// set the title of the display
-		string strTitle = StringTableManager.Instance.Get( Key + "Display" );
+		string strTitle = StringTableManager.Get( Key + "Display" );
 		Title.text = strTitle;
 	}
 

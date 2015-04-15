@@ -1,8 +1,31 @@
 <English>
 	<String ID="NUMBER_DELIMETER">,</String>	
 	
+	<String ID="Title_App">Record Keeper Companion</String>	
 	<String ID="Title_Item">Item Companion</String>	
-	<String ID="Title_Orb">Orb Companion</String>	
+	<String ID="Title_Orb">Orb Companion</String>
+	
+	<!-- Menu Options -->	
+	<String ID="BiS_Button">Best Equipment</String>
+	<String ID="BiS_Description">Easily search for the best equipment for each character for each realm, and where to find it.</String>
+	
+	<String ID="Orbs_Button">Orb Locations</String>
+	<String ID="Orbs_Description">Browse all the orbs in the game, and show the drop locations for each type.</String>
+	
+	<String ID="Boss_Button">Boss Strategies</String>
+	<String ID="Boss_Description">Contains the bosses for each dungeon, victory conditions, and their vulnerabilities and resistances.</String>
+	
+	<String ID="Abilities_Button">Ability List</String>
+	<String ID="Abilities_Description">Lists all the abilities for each character, their damage multipliers, and the orbs required to create them.</String>
+	
+	<String ID="Synergy_Button">Synergy Explained</String>
+	<String ID="Synergy_Description">Character and item synergies are extremely important, making your low level items better than 5-star drops. Learn all about it here!</String>
+	
+	<String ID="EXP_Button">EXP Hotspots</String>
+	<String ID="EXP_Description">Where to most efficiently farm the best EXP per stamina point for each character in the game.</String>
+	
+	<String ID="Tips_Button">Tips &amp; Tricks</String>
+	<String ID="Tips_Description">Learn some quick tips that will help you farm the best equipment from boss fights!</String>
 	
 	<String ID="ChooseCharacter_Button">Choose Character</String>	
 	<String ID="ChooseRealm_Button">Choose Realm</String>

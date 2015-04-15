@@ -37,14 +37,14 @@ public class ItemCompanion : Singleton<ItemCompanion> {
 	////////////////////////////////
 	void Start () {
 		// set the title
-		string strTitle = StringTableManager.Instance.Get( "Title_Item" );
+		string strTitle = StringTableManager.Get( "Title_Item" );
 		TitleText.text = strTitle;
 
 		Messenger.AddListener<ID_Character>( "CharacterSelected", OnCharacterSelected );
 		Messenger.AddListener<string>( "RealmSelected", OnRealmSelected );
 
 		// set the drops only text
-		string strDropsOnly = StringTableManager.Instance.Get( "DropsOnly" );
+		string strDropsOnly = StringTableManager.Get( "DropsOnly" );
 		DropsOnly.GetComponentInChildren<Text>().text = strDropsOnly;
 	}
 

@@ -397,6 +397,7 @@
      <Compile Include="Assets\Scripts\FFRK\ChooseRealmButton.cs" />
      <Compile Include="Assets\Scripts\FFRK\ChooseRealmOption.cs" />
      <Compile Include="Assets\Scripts\FFRK\ChooseRealmPanel.cs" />
+     <Compile Include="Assets\Scripts\FFRK\DungeonIdentifier.cs" />
      <Compile Include="Assets\Scripts\FFRK\IDL_Characters.cs" />
      <Compile Include="Assets\Scripts\FFRK\IDL_Dungeons.cs" />
      <Compile Include="Assets\Scripts\FFRK\IDL_Items.cs" />
@@ -408,6 +409,8 @@
      <Compile Include="Assets\Scripts\FFRK\ItemCompanion.cs" />
      <Compile Include="Assets\Scripts\FFRK\ItemDisplay.cs" />
      <Compile Include="Assets\Scripts\FFRK\LoadScene.cs" />
+     <Compile Include="Assets\Scripts\FFRK\MainMenu.cs" />
+     <Compile Include="Assets\Scripts\FFRK\MainOptionEntry.cs" />
      <Compile Include="Assets\Scripts\FFRK\OrbButton.cs" />
      <Compile Include="Assets\Scripts\FFRK\OrbCompanion.cs" />
      <Compile Include="Assets\Scripts\FFRK\OrbInfo.cs" />
@@ -449,6 +452,7 @@
      <Compile Include="Assets\Scripts\Library\UI\CraLabel.cs" />
      <Compile Include="Assets\Scripts\Library\UI\RaycastMask.cs" />
      <Compile Include="Assets\Scripts\Library\UI\SetSortingLayer.cs" />
+     <Compile Include="Assets\Scripts\Library\UI\SetText.cs" />
      <Compile Include="Assets\Scripts\Library\UI\SetTextColor.cs" />
      <Compile Include="Assets\Scripts\Library\UI\TextMeshHelper.cs" />
      <Compile Include="Assets\Scripts\Library\XML\XMLParser.cs" />

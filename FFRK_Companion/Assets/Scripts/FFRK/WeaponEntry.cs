@@ -26,13 +26,13 @@ public class WeaponEntry : MonoBehaviour {
 			nStat = string.IsNullOrEmpty(i_item.maxmnd) ? 0 : int.Parse(i_item.maxmnd);
 		}
 
-		string strMax = StringTableManager.Instance.Get( strStatKey );
+		string strMax = StringTableManager.Get( strStatKey );
 		strMax = DrsStringUtils.Replace( strMax, "NUM", nStat );
 		Attack.text = strMax;
 
-		string strLoc = StringTableManager.Instance.Get( "RelicDrop" );
+		string strLoc = StringTableManager.Get( "RelicDrop" );
 		if ( string.IsNullOrEmpty( i_item.location ) == false ) {
-			strLoc = StringTableManager.Instance.Get( "Location" );
+			strLoc = StringTableManager.Get( "Location" );
 			strLoc = DrsStringUtils.Replace( strLoc, "DESC", i_item.location );
 		}
 
