@@ -13,6 +13,7 @@ public class ID_Dungeon {
 	public string realm;
 	public string orbs;
 	public string bossorbs;
+	public string shortcut;
 
 	///////////////////////////////////////////
 	/// HasOrb()
@@ -20,6 +21,10 @@ public class ID_Dungeon {
 	/// incoming orb as a normal drop.
 	///////////////////////////////////////////
 	public bool HasOrb( string i_strOrb ) {
+		// some dungeons don't have orbs...
+		if ( string.IsNullOrEmpty( orbs ) )
+			return false;
+
 		// ugh...parse the list of strings...
 		List<string> listOrbs = Constants.ParseStringList( orbs );
 
@@ -42,5 +47,19 @@ public class ID_Dungeon {
 		
 		bool bHas = listOrbs.Contains( i_strOrb );
 		return bHas;
+	}
+
+	///////////////////////////////////////////
+	/// GetRealmAsText()
+	/// Returns a more readable version of a 
+	/// realm to display to the user.
+	///////////////////////////////////////////
+	public string GetRealmAsText() {
+		if ( realm == "Core" )
+			return "C";
+		if ( realm == "None" )
+			return "";
+		else
+			return realm;
 	}
 }

@@ -3,103 +3,142 @@
         "name": "Mist Cave",
         "version": "Classic",
         "realm": "IV",
+        "shortcut": "4-1",
         "orbs": "White_1,Wind_1,Earth_1",
-        "bossorbs": "Earth_2"
+        "bossorbs": "Earth_2",
+        "items": "Leather Cap_VI, Leather Armor_III, Dagger_IX",
+        "bossitems": "Mythril Shield_IV"
     },
     {
         "name": "Underground Waterway",
         "version": "Classic",
         "realm": "IV",
+        "shortcut": "4-2",
         "orbs": "Holy_1,Lightning_1,Power_1",
-        "bossorbs": "Holy_2"
+        "bossorbs": "Holy_2",
+        "items": "Leather Shield_V",
+        "bossitems": "Mythril Helm_IV"
     },
     {
         "name": "Antlion's Den",
         "version": "Classic",
         "realm": "IV",
+        "shortcut": "4-3",
         "orbs": "Black_1,Wind_1,Earth_1",
-        "bossorbs": "Dark_2"
+        "bossorbs": "Dark_2",
+        "items": "Buckler_XII Hairband_VI, Kunai_IV",
+        "bossitems": "Protect Vest_VII"
     },
     {
         "name": "Mount Hobs",
         "version": "Classic",
         "realm": "IV",
+        "shortcut": "4-4",
         "orbs": "Holy_1,Lightning_1,White_1",
-        "bossorbs": "Lightning_2"
+        "bossorbs": "Lightning_2",
+        "items": "Leather Armor_III, Iron Bangle_VII, Kunai_IV",
+        "bossitems": "Bone Mail_V"
     },
     {
         "name": "Fabul Castle",
         "version": "Classic",
         "realm": "IV",
+        "shortcut": "4-5",
         "orbs": "Black_1,Dark_1,Non_1",
-        "bossorbs": "Non_2"
+        "bossorbs": "Non_2",
+        "items": "Silk Robe_VI, Kunai_IV, Broadsword_V, Mace_XII",
+        "bossitems": "Whip_IV"
     },
     {
         "name": "Baron Castle",
         "version": "Classic",
         "realm": "IV",
+        "shortcut": "4-6",
         "orbs": "Black_1,Holy_1,Lightning_1",
-        "bossorbs": "Black_2"
+        "bossorbs": "Black_2",
+        "items": "SIlk Robe_VI, Mace_XII",
+        "bossitems": "Mythril Armlet_VII"
     },
     {
         "name": "Wind Shrine",
         "version": "Classic",
         "realm": "V",
+        "shortcut": "5-1",
         "orbs": "Fire_1,Ice_1,Power_1",
-        "bossorbs": "Fire_2"
+        "bossorbs": "Fire_2",
+        "items": "Bronze Helm_II, Handaxe_XII, Leather Glove_VII",
+        "bossitems": "Slasher_XII"
     },
     {
-        "name": "Toma Canal",
+        "name": "Torna Canal",
         "version": "Classic",
         "realm": "V",
+        "shortcut": "5-2",
         "orbs": "Earth_1,Power_1,Wind_1",
-        "bossorbs": "Wind_2"
+        "bossorbs": "Wind_2",
+        "bossitems": "Gaia Gear_IV"
     },
     {
         "name": "Ship Graveyard",
         "version": "Classic",
         "realm": "V",
+        "shortcut": "5-3",
         "orbs": "Fire_1,Ice_1,White_1,Dark_1",
-        "bossorbs": "White_2"
+        "bossorbs": "White_2",
+        "items": "Copper Cuirass_V, Hammer_IV, Cherry Staff_XII, Shortbow_XII",
+        "bossitems": "Black Cowl_IV"
     },
     {
         "name": "North Mountain",
         "version": "Classic",
         "realm": "V",
-        "orbs": "Non_1,Power_1"
+        "shortcut": "5-4",
+        "orbs": "Non_1,Power_1",
+        "items": "Copper Cuirass_V, Hammer_IV, Shortbow_XII"
     },
     {
         "name": "North Mines",
         "version": "Classic",
         "realm": "VI",
+        "shortcut": "6-1",
         "orbs": "White_2,Earth_2,Wind_2",
         "bossorbs": "Wind_3"
     },
     {
-        "name": "Abandoned Mines",
+        "name": "Abandoned Mineshaft",
         "version": "Classic",
         "realm": "VI",
+        "shortcut": "6-2",
         "orbs": "Black_2,Fire_2,Ice_2",
-        "bossorbs": "Ice_3"
+        "bossorbs": "Ice_3",
+        "items": "Wizard's Hat_IV, Longsword_XII, Longbow_XII",
+        "bossitems": "Mythril Armor_IV"
     },
     {
         "name": "Figaro Castle",
         "version": "Classic",
         "realm": "VI",
+        "shortcut": "6-3",
         "orbs": "Power_2,Lightning_2,Holy_2",
-        "bossorbs": "Non_3"
+        "bossorbs": "Non_3",
+        "items": "Bronze Armor_V",
+        "bossitems": "Zwill Blade_XII"
     },
     {
         "name": "Mt. Kolts",
         "version": "Classic",
         "realm": "VI",
+        "shortcut": "6-4",
         "orbs": "White_2,Black_2,Non_2,Dark_2",
-        "bossorbs": "Non_3"
+        "bossorbs": "Non_3",
+        "items": "Bronze Shield_V, Broadaxe_XII, Wind Spear_V",
+        "bossitems": "Shell Helm_III"
     },
     {
         "name": "Imperial Camp",
         "version": "Classic",
         "realm": "VI",
+        "shortcut": "6-5",
         "orbs": "Earth_2,Black_2,Wind_2",
         "bossorbs": "Black_3"
     },
@@ -107,54 +146,74 @@
         "name": "South Figaro Cave",
         "version": "Classic",
         "realm": "VI",
+        "shortcut": "6-6",
         "orbs": "Fire_2,Ice_2,Power_2",
-        "bossorbs": "Power_3"
+        "bossorbs": "Power_3",
+        "items": "Plumed Hat_V, Mage Robe_III, Kunai_IV, Oak Staff_XII",
+        "bossitems": "Mythril Claws_VI"
     },
     {
-        "name": "Mako Reaction No. 1",
+        "name": "Mako Reactor No. 1",
         "version": "Classic",
         "realm": "VII",
+        "shortcut": "7-1",
         "orbs": "Fire_1,Ice_1,White_1",
-        "bossorbs": "White_2"
+        "bossorbs": "White_2",
+        "items": "Leather Clothing_IV, Knife_II, Rod_IV",
+        "bossitems": "Mythril Knife_II"
     },
     {
         "name": "Mako Reactor No. 5",
         "version": "Classic",
         "realm": "VII",
+        "shortcut": "7-2",
         "orbs": "Holy_1,Lightning_1,Black_1",
-        "bossorbs": "Black_2"
+        "bossorbs": "Black_2",
+        "items": "Staff_IV",
+        "bossitems": "Mythril Rod_VII"
     },
     {
         "name": "Zanarkand",
         "version": "Classic",
         "realm": "X",
+        "shortcut": "10-1",
         "orbs": "Power_1,Non_1,Fire_1,Ice_1,Dark_1",
-        "bossorbs": "Power_2"
+        "bossorbs": "Power_2",
+        "items": "Broadsword_V, Boomerang_VI",
+        "bossitems": "Mythril Staff_IV"
     },
     {
         "name": "Besaid",
         "version": "Classic",
         "realm": "X",
-        "orbs": "Black_1,Fire_1,Ice_1"
+        "shortcut": "10-2",
+        "orbs": "Black_1,Fire_1,Ice_1",
+        "items": "Boomerang_VI",
+        "bossitems": "Bowgun_XII"
     },
     {
         "name": "S.S. Liki",
         "version": "Classic",
         "realm": "X",
+        "shortcut": "10-3",
         "orbs": "White_1,Black_1Non_1,Fire_1,Dark_1",
-        "bossorbs": "Dark_2"
+        "bossorbs": "Dark_2",
+        "items": "Knife_II, Shortbow_XII, Boomerang_VI"
     },
     {
         "name": "Mist Cave",
         "version": "Elite",
         "realm": "IV",
+        "shortcut": "Shortcut",
         "orbs": "White_2,White_3,Earth_2,Earth_3,Wind_2,Wind_3",
-        "bossorbs": "Earth_4"
+        "bossorbs": "Earth_4",
+        "bossitems": "Heavy Lance_XII"
     },
     {
         "name": "Underground Waterway",
         "version": "Elite",
         "realm": "IV",
+        "shortcut": "4-1",
         "orbs": "Power_2,Power_3,Lightning_2,Lightning_3,Holy_2,Holy_3",
         "bossorbs": "Holy_4"
     },
@@ -162,6 +221,7 @@
         "name": "Antlion's Den",
         "version": "Elite",
         "realm": "IV",
+        "shortcut": "4-2",
         "orbs": "Black_2,Black_2,Earth_2,Earth_3,Wind_2,Wind_3",
         "bossorbs": "Wind_4"
     },
@@ -169,6 +229,7 @@
         "name": "Mount Hobs",
         "version": "Elite",
         "realm": "IV",
+        "shortcut": "4-3",
         "orbs": "White_2,White_3,Lightning_2,Lightning_3,Holy_2,Holy_3",
         "bossorbs": "Fire_4"
     },
@@ -176,6 +237,7 @@
         "name": "Fabul Castle",
         "version": "Elite",
         "realm": "IV",
+        "shortcut": "4-4",
         "orbs": "Black_2,Black_3,Non_2,Non_3,Dark_2,Dark_3",
         "bossorbs": "Non_4"
     },
@@ -183,6 +245,7 @@
         "name": "Baron Castle",
         "version": "Elite",
         "realm": "IV",
+        "shortcut": "4-5",
         "orbs": "Black_2,Black_3,Lightning_2,Lightning_3,Holy_2,Holy_3",
         "bossorbs": "Ice_4"
     },
@@ -190,13 +253,15 @@
         "name": "Wind Shrine",
         "version": "Elite",
         "realm": "V",
+        "shortcut": "4-6",
         "orbs": "Power_2,Power_3,Fire_2,Fire_3,Ice_2,Ice_3",
         "bossorbs": "Wind_4"
     },
     {
-        "name": "Toma Canal",
+        "name": "Torna Canal",
         "version": "Elite",
         "realm": "V",
+        "shortcut": "5-1",
         "orbs": "Power_2,Power_3,Earth_2,Earth_3,Wind_2,Wind_3",
         "bossorbs": "Ice_4"
     },
@@ -204,6 +269,7 @@
         "name": "Ship Graveyard",
         "version": "Elite",
         "realm": "V",
+        "shortcut": "5-2",
         "orbs": "White_2,White_3,Fire_2,Fire_3,Ice_2,Ice_3,Dark_2,Dark_3",
         "bossorbs": "Dark_4"
     },
@@ -211,6 +277,7 @@
         "name": "North Mountain",
         "version": "Elite",
         "realm": "V",
+        "shortcut": "5-3",
         "orbs": "Power_2,Power_3,Non_2,Non_3",
         "bossorbs": "Lightning_4"
     },
@@ -218,13 +285,15 @@
         "name": "North Mines",
         "version": "Elite",
         "realm": "VI",
+        "shortcut": "5-4",
         "orbs": "White_2,White_3,Earth_2,Earth_3,Wind_2,Wind_3",
         "bossorbs": "Lightning_4"
     },
     {
-        "name": "Abandoned Mines",
+        "name": "Abandoned Mineshaft",
         "version": "Elite",
         "realm": "VI",
+        "shortcut": "6-1",
         "orbs": "Black_2,Black_3,Fire_2,Fire_3,Ice_2,Ice_3",
         "bossorbs": "Ice_4"
     },
@@ -232,6 +301,7 @@
         "name": "Figaro Castle",
         "version": "Elite",
         "realm": "VI",
+        "shortcut": "6-2",
         "orbs": "Power_2,Power_3,Lightning_2,Lightning_3,Holy_2,Holy_3",
         "bossorbs": "Non_4"
     },
@@ -239,6 +309,7 @@
         "name": "Mt. Kolts",
         "version": "Elite",
         "realm": "VI",
+        "shortcut": "6-3",
         "orbs": "White_2,White_3,Non_2,Non_3,Dark_2,Dark_3",
         "bossorbs": "Wind_4"
     },
@@ -246,6 +317,7 @@
         "name": "Imperial Camp",
         "version": "Elite",
         "realm": "VI",
+        "shortcut": "6-4",
         "orbs": "Black_2,Black_3,Earth_2,Earth_3,Wind_2,Wind_3",
         "bossorbs": "Wind_4"
     },
@@ -253,19 +325,22 @@
         "name": "South Figaro Cave",
         "version": "Elite",
         "realm": "VI",
+        "shortcut": "6-5",
         "orbs": "Power_2,Power_2,Fire_2,Fire_3,Ice_2,Ice_3",
         "bossorbs": "Dark_4"
     },
     {
-        "name": "Mako Reaction No. 1",
+        "name": "Mako Reactor No. 1",
         "version": "Elite",
         "realm": "VII",
+        "shortcut": "6-6",
         "orbs": "White_2,White_3,Fire_2,Fire_3,Ice_2,Ice_3"
     },
     {
         "name": "Mako Reactor No. 5",
         "version": "Elite",
         "realm": "VII",
+        "shortcut": "7-1",
         "orbs": "Black_2,Black_3,Lightning_2,Lightning_3,Holy_2,Holy_3",
         "bossorbs": "Black_4"
     },
@@ -273,6 +348,7 @@
         "name": "Zanarkand",
         "version": "Elite",
         "realm": "X",
+        "shortcut": "7-2",
         "orbs": "Power_2,Power_3,Non_2,Non_3,Fire_2,Fire_3,Ice_2,Ice_3,Dark_2,Dark_3",
         "bossorbs": "Non_4"
     },
@@ -280,6 +356,7 @@
         "name": "Besaid",
         "version": "Elite",
         "realm": "X",
+        "shortcut": "10-1",
         "orbs": "Black_2,Black_3,Fire_2,Fire_3,Ice_2,Ice_3",
         "bossorbs": "Ice_4"
     },
@@ -287,7 +364,137 @@
         "name": "S.S. Liki",
         "version": "Elite",
         "realm": "X",
+        "shortcut": "10-2",
         "orbs": "White_2,White_3,Black_2,Black_3,Non_2,Non_3,Fire_2,Fire_3,Dark_2,Dark_3",
         "bossorbs": "Dark_4"
+    },
+    {
+        "name": "Sea of Elements (Easy)",
+        "version": "Daily",
+        "realm": "X",
+        "shortcut": "Monday-1"
+    },
+    {
+        "name": "Weapons Foundry (Easy)",
+        "version": "Daily",
+        "realm": "VI",
+        "shortcut": "Tuesday-1"
+    },
+    {
+        "name": "Mana Stronghold (Easy)",
+        "version": "Daily",
+        "realm": "II",
+        "shortcut": "Wednesday-1"
+    },
+    {
+        "name": "Castle of Elements (Easy)",
+        "version": "Daily",
+        "realm": "IV",
+        "shortcut": "Thursday-1"
+    },
+    {
+        "name": "Armor Mako Reactor (Easy)",
+        "version": "Daily",
+        "realm": "VII",
+        "shortcut": "Friday-1"
+    },
+    {
+        "name": "Gil Grasslands (Easy)",
+        "version": "Daily",
+        "realm": "Core",
+        "shortcut": "Saturday-1"
+    },
+    {
+        "name": "Glade of Wisdom (Easy)",
+        "version": "Daily",
+        "realm": "None",
+        "shortcut": "Sunday-1"
+    },
+    {
+        "name": "Sea of Elements (Normal)",
+        "version": "Daily",
+        "realm": "X",
+        "shortcut": "Monday-2"
+    },
+    {
+        "name": "Weapons Foundry (Normal)",
+        "version": "Daily",
+        "realm": "VI",
+        "shortcut": "Tuesday-2",
+        "items": "SIlver Bow_V"
+    },
+    {
+        "name": "Mana Stronghold (Normal)",
+        "version": "Daily",
+        "realm": "II",
+        "shortcut": "Wednesday-2"
+    },
+    {
+        "name": "Castle of Elements (Normal)",
+        "version": "Daily",
+        "realm": "IV",
+        "shortcut": "Thursday-2"
+    },
+    {
+        "name": "Armor Mako Reactor (Normal)",
+        "version": "Daily",
+        "realm": "VII",
+        "shortcut": "Friday-2"
+    },
+    {
+        "name": "Gil Grasslands (Normal)",
+        "version": "Daily",
+        "realm": "Core",
+        "shortcut": "Saturday-2"
+    },
+    {
+        "name": "Glade of Wisdom (Normal)",
+        "version": "Daily",
+        "realm": "None",
+        "shortcut": "Sunday-2"
+    },
+    {
+        "name": "Sea of Elements (Hard)",
+        "version": "Daily",
+        "realm": "X",
+        "shortcut": "Monday-3",
+        "items": "Partisan_XII"
+    },
+    {
+        "name": "Weapons Foundry (Hard)",
+        "version": "Daily",
+        "realm": "VI",
+        "shortcut": "Tuesday-3",
+        "items": "Mythril Shield_IV, Mythril Armor_IV"
+    },
+    {
+        "name": "Mana Stronghold (Hard)",
+        "version": "Daily",
+        "realm": "II",
+        "shortcut": "Wednesday-3"
+    },
+    {
+        "name": "Castle of Elements (Hard)",
+        "version": "Daily",
+        "realm": "IV",
+        "shortcut": "Thursday-3"
+    },
+    {
+        "name": "Armor Mako Reactor (Hard)",
+        "version": "Daily",
+        "realm": "VII",
+        "shortcut": "Friday-3"
+    },
+    {
+        "name": "Gil Grasslands (Hard)",
+        "version": "Daily",
+        "realm": "Core",
+        "shortcut": "Saturday-3"
+    },
+    {
+        "name": "Glade of Wisdom (Hard)",
+        "version": "Daily",
+        "realm": "None",
+        "shortcut": "Sunday-3"
     }
 ]

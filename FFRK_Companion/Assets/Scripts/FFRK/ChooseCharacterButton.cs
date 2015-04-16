@@ -11,12 +11,11 @@ using UnityEngine.UI;
 ////////////////////////////////
 
 public class ChooseCharacterButton : MonoBehaviour {
-	// text and image of the character to be displayed
-	public Text CharacterName;
-	public Image CharacterImage;
-
 	// data associated with the character
 	private ID_Character m_dataCharacter;
+
+	// identifier
+	public CharacterIdentifier Identifier;
 
 	////////////////////////////////
 	/// Init()
@@ -26,11 +25,8 @@ public class ChooseCharacterButton : MonoBehaviour {
 
 		string strKey = i_dataCharacter.character;
 
-		string strName = StringTableManager.Get( "Name_" + strKey );
-		Sprite spriteImage = Resources.Load<Sprite>( strKey );
-
-		CharacterName.text = strName;
-		CharacterImage.sprite = spriteImage;
+		// init the identifier
+		Identifier.Init( i_dataCharacter );
 	}
 
 	////////////////////////////////

@@ -26,7 +26,7 @@ public class ChooseCharacterOption : MonoBehaviour {
 		ButtonText.text = strChoose;
 
 		// hide the image
-		ButtonImage.enabled = false;
+		//ButtonImage.enabled = false;
 
 		// listen for messages
 		Messenger.AddListener<ID_Character>( "CharacterSelected", OnCharacterSelected );
@@ -67,10 +67,10 @@ public class ChooseCharacterOption : MonoBehaviour {
 	////////////////////////////////
 	private void ShowCharacter( ID_Character i_dataChar ) {
 		string strName = StringTableManager.Get( "Name_" + i_dataChar.character );
-		Sprite spriteImage = Resources.Load<Sprite>( i_dataChar.character );
+		//Sprite spriteImage = Resources.Load<Sprite>( i_dataChar.character );
 
 		ButtonText.text = strName;
-		ButtonImage.sprite = spriteImage;
-		ButtonImage.enabled = true;
+		//ButtonImage.sprite = spriteImage;
+		//ButtonImage.enabled = true;
 	}
 }

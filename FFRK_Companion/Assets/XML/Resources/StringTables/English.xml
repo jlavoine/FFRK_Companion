@@ -44,6 +44,8 @@
 	
 	<String ID="RelicDrop">Location: Relic Pull</String>
 	
+	<String ID="ExpInfo">All calculations assume Champion rating.</String>
+	
 	<!-- Orb names -->
 	<String ID="Orb_1">Minor</String>
 	<String ID="Orb_2">Lesser</String>
@@ -72,8 +74,8 @@
 	<String ID="Name_Tyro">Tyro</String>
 	<String ID="Name_Warrior">Warrior</String>
 	<String ID="Name_WhiteMage">White Mage</String>
-	<String ID="Name_CecilDK">Cecil, Dark Knight</String>
-	<String ID="Name_CecilPaladin">Cecil, Paladin</String>
+	<String ID="Name_CecilDK">Dark Knight Cecil</String>
+	<String ID="Name_CecilPaladin">Paladin Cecil</String>
 	<String ID="Name_Kain">Kain</String>
 	<String ID="Name_Rydia">Rydia</String>
 	<String ID="Name_Cloud">Cloud</String>
@@ -81,4 +83,17 @@
 	<String ID="Name_Tifa">Tifa</String>
 	<String ID="Name_Tidus">Tidus</String>
 	<String ID="Name_Wakka">Wakka</String>
+	
+	<String ID="Dungeon_Classic">Classic</String>
+	<String ID="Dungeon_Elite">Elite</String>
+	<String ID="Dungeon_Daily">Daily</String>
+	<String ID="Dungeon_Boss">Boss</String>
+	
+	<String ID="Legend">Legend:</String>
+	
+	<!-- Exp screen -->
+	<String ID="Header_Dungeon">Dungeon &amp; Battle</String>
+	<String ID="Header_Battle">Battle</String>
+	<String ID="Header_Stamina">Stamina</String>
+	<String ID="Header_EXP">EXP/Stamina</String>
 </English>

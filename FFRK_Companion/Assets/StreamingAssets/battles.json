@@ -1,0 +1,1536 @@
+[
+    {
+        "name": "West",
+        "shortcut": "6-5",
+        "dungeon": "Imperial Camp",
+        "exp": 2862,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Entrance",
+        "shortcut": "6-1",
+        "dungeon": "Imperial Camp",
+        "exp": 2862,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "1st Battle",
+        "shortcut": "",
+        "dungeon": "Fabul Castle",
+        "exp": 556,
+        "stamina": 1,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Battle",
+        "dungeon": "Fabul Castle",
+        "exp": 556,
+        "stamina": 1,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "3rd Battle",
+        "dungeon": "Fabul Castle",
+        "exp": 556,
+        "stamina": 1,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "4th Battle",
+        "dungeon": "Fabul Castle",
+        "exp": 556,
+        "stamina": 1,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "5th Battle",
+        "dungeon": "Fabul Castle",
+        "exp": 556,
+        "stamina": 1,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "6th Battle",
+        "dungeon": "Fabul Castle",
+        "exp": 556,
+        "stamina": 1,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Wide Pathway",
+        "dungeon": "South Figaro Cave",
+        "exp": 3300,
+        "stamina": 6,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Passage",
+        "dungeon": "Mt. Kolts",
+        "exp": 2682,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Hidden Passage",
+        "dungeon": "Mt. Kolts",
+        "exp": 2682,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Sky Vault",
+        "dungeon": "Mt. Kolts",
+        "exp": 2682,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Path",
+        "dungeon": "Mt. Kolts",
+        "exp": 2682,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Suspension Bridge",
+        "dungeon": "Mt. Kolts",
+        "exp": 2682,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Center",
+        "shortcut": "6-4",
+        "dungeon": "Imperial Camp",
+        "exp": 2544,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "North",
+        "shortcut": "6-3",
+        "dungeon": "Imperial Camp",
+        "exp": 2544,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Throne Room",
+        "dungeon": "Figaro Castle",
+        "exp": 2502,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Exit",
+        "shortcut": "6-6",
+        "dungeon": "Imperial Camp",
+        "exp": 2878,
+        "stamina": 6,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Narrow Pathway",
+        "dungeon": "South Figaro Cave",
+        "exp": 2268,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "South Entrance",
+        "dungeon": "South Figaro Cave",
+        "exp": 2268,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Stone Vault",
+        "dungeon": "South Figaro Cave",
+        "exp": 2268,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "1st Floor",
+        "dungeon": "Figaro Castle",
+        "exp": 2224,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Floor",
+        "dungeon": "Figaro Castle",
+        "exp": 2224,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "3rd Floor",
+        "dungeon": "Figaro Castle",
+        "exp": 2224,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Final Battle",
+        "dungeon": "Abandoned Mineshaft",
+        "exp": 2516,
+        "stamina": 6,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Village Slope",
+        "dungeon": "Besaid",
+        "exp": 720,
+        "stamina": 2,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Promontory",
+        "dungeon": "Besaid",
+        "exp": 720,
+        "stamina": 2,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Descent",
+        "dungeon": "Mt. Kolts",
+        "exp": 2114,
+        "stamina": 6,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Exterior",
+        "dungeon": "Figaro Castle",
+        "exp": 1887,
+        "stamina": 6,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Summit",
+        "dungeon": "Mount Hobs",
+        "exp": 1566,
+        "stamina": 5,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Final Battle",
+        "dungeon": "Fabul Castle",
+        "exp": 556,
+        "stamina": 2,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "3rd Station",
+        "dungeon": "Mount Hobs",
+        "exp": 1080,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "5th Station",
+        "dungeon": "Mount Hobs",
+        "exp": 1080,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "7th Station",
+        "dungeon": "Mount Hobs",
+        "exp": 1080,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Stadium",
+        "dungeon": "Zanarkand",
+        "exp": 480,
+        "stamina": 2,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Overpass",
+        "dungeon": "Zanarkand",
+        "exp": 480,
+        "stamina": 2,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Ancient Road",
+        "dungeon": "Besaid",
+        "exp": 664,
+        "stamina": 3,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "1st Floor",
+        "dungeon": "Wind Shrine",
+        "exp": 810,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Floor",
+        "dungeon": "Wind Shrine",
+        "exp": 810,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "3rd Floor",
+        "dungeon": "Wind Shrine",
+        "exp": 810,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "4th Floor",
+        "dungeon": "Wind Shrine",
+        "exp": 810,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Exteror",
+        "dungeon": "Ship Graveyard",
+        "exp": 994,
+        "stamina": 5,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "8th Station",
+        "dungeon": "North Mountain",
+        "exp": 964,
+        "stamina": 5,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "South",
+        "dungeon": "Underground Waterway",
+        "exp": 540,
+        "stamina": 3,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "North",
+        "dungeon": "Underground Waterway",
+        "exp": 540,
+        "stamina": 3,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Winding Tunnel",
+        "dungeon": "Mako Reactor No. 5",
+        "exp": 360,
+        "stamina": 2,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Sector 4 Substructure",
+        "dungeon": "Mako Reactor No. 5",
+        "exp": 360,
+        "stamina": 2,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Bottleneck",
+        "dungeon": "Torna Canal",
+        "exp": 873,
+        "stamina": 5,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "1st Battle",
+        "dungeon": "Abandoned Mineshaft",
+        "exp": 834,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Battle",
+        "dungeon": "Abandoned Mineshaft",
+        "exp": 834,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "3rd Battle",
+        "dungeon": "Abandoned Mineshaft",
+        "exp": 834,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Shipwreck Deck",
+        "dungeon": "Ship Graveyard",
+        "exp": 660,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Shipwreck Cabin",
+        "dungeon": "Ship Graveyard",
+        "exp": 660,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Shipwreck Bow",
+        "dungeon": "Ship Graveyard",
+        "exp": 660,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Crystal Antechamber",
+        "dungeon": "Wind Shrine",
+        "exp": 783,
+        "stamina": 5,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "1st Level",
+        "dungeon": "Baron Castle",
+        "exp": 600,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Level",
+        "dungeon": "Baron Castle",
+        "exp": 600,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "3rd Level",
+        "dungeon": "Baron Castle",
+        "exp": 600,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Gate",
+        "dungeon": "Torna Canal",
+        "exp": 600,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Entrance",
+        "dungeon": "Torna Canal",
+        "exp": 600,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Midway",
+        "dungeon": "Torna Canal",
+        "exp": 600,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Pathway",
+        "dungeon": "North Mountain",
+        "exp": 600,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "5th Station",
+        "dungeon": "North Mountain",
+        "exp": 600,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Mountainside Cave",
+        "dungeon": "North Mountain",
+        "exp": 600,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Cavern",
+        "dungeon": "North Mountain",
+        "exp": 600,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Entrance",
+        "dungeon": "Mist Cave",
+        "exp": 300,
+        "stamina": 2,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Waypoint",
+        "dungeon": "Mist Cave",
+        "exp": 300,
+        "stamina": 2,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "1st Level",
+        "dungeon": "Antlion's Den",
+        "exp": 420,
+        "stamina": 3,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Level",
+        "dungeon": "Antlion's Den",
+        "exp": 420,
+        "stamina": 3,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "3rd Level",
+        "dungeon": "Antlion's Den",
+        "exp": 420,
+        "stamina": 3,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Mako Reactor No. 1",
+        "dungeon": "Mako Reactor No. 1",
+        "exp": 420,
+        "stamina": 3,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Ruined Overpass",
+        "dungeon": "Zanarkand",
+        "exp": 410,
+        "stamina": 3,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Levelan Lake",
+        "dungeon": "Underground Waterway",
+        "exp": 512,
+        "stamina": 4,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Inner Mines",
+        "dungeon": "North Mines",
+        "exp": 734,
+        "stamina": 6,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Narshe",
+        "dungeon": "North Mines",
+        "exp": 600,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Midway",
+        "dungeon": "North Mines",
+        "exp": 600,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Entrance",
+        "dungeon": "North Mines",
+        "exp": 600,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Deck Aft",
+        "dungeon": "S.S. Liki",
+        "exp": 360,
+        "stamina": 3,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Deck Amidships",
+        "dungeon": "S.S. Liki",
+        "exp": 332,
+        "stamina": 3,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Mako Reactor No. 5",
+        "dungeon": "Mako Reactor No. 5",
+        "exp": 300,
+        "stamina": 3,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Deck Fore",
+        "dungeon": "S.S. Liki",
+        "exp": 371,
+        "stamina": 4,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Exit",
+        "dungeon": "Mist Cave",
+        "exp": 261,
+        "stamina": 3,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Throne Room",
+        "dungeon": "Baron Castle",
+        "exp": 364,
+        "stamina": 5,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Central Chamber",
+        "dungeon": "Antlion's Den",
+        "exp": 273,
+        "stamina": 4,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "1st Floor",
+        "dungeon": "Baron Castle",
+        "exp": 334,
+        "stamina": 5,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Sea of Elements (Easy)",
+        "dungeon": "Sea of Elements (Easy)",
+        "exp": 840,
+        "stamina": 3,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Sea of Elements (Normal)",
+        "dungeon": "Sea of Elements (Normal)",
+        "exp": 2976,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Sea of Elements (Hard )",
+        "dungeon": "Sea of Elements (Hard)",
+        "exp": 6150,
+        "stamina": 10,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Weapons Foundry (Easy)",
+        "dungeon": "Weapons Foundry (Easy)",
+        "exp": 1004,
+        "stamina": 3,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Weapons Foundry (Normal)",
+        "dungeon": "Weapons Foundry (Normal)",
+        "exp": 2976,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Weapons Foundry (Hard)",
+        "dungeon": "Weapons Foundry (Hard)",
+        "exp": 6180,
+        "stamina": 10,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Mana Stronghold (Easy)",
+        "dungeon": "Mana Stronghold (Easy)",
+        "exp": 700,
+        "stamina": 3,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Mana Stronghold (Normal)",
+        "dungeon": "Mana Stronghold (Normal)",
+        "exp": 2584,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Mana Stronghold (Hard)",
+        "dungeon": "Mana Stronghold (Hard)",
+        "exp": 6180,
+        "stamina": 10,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Castle of Elements (Easy)",
+        "dungeon": "Castle of Elements (Easy)",
+        "exp": 840,
+        "stamina": 3,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Castle of Elements (Normal)",
+        "dungeon": "Castle of Elements (Normal)",
+        "exp": 2976,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Castle of Elements (Hard)",
+        "dungeon": "Castle of Elements (Hard)",
+        "exp": 6180,
+        "stamina": 10,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Armor Mako Reactor (Easy)",
+        "dungeon": "Armor Mako Reactor (Easy)",
+        "exp": 840,
+        "stamina": 3,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Armor Mako Reactor (Normal)",
+        "dungeon": "Armor Mako Reactor (Normal)",
+        "exp": 2976,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Armor Mako Reactor (Hard)",
+        "dungeon": "Armor Mako Reactor (Hard)",
+        "exp": 6180,
+        "stamina": 10,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Gil Grasslands (Easy)",
+        "dungeon": "Gil Grasslands (Easy)",
+        "exp": 840,
+        "stamina": 3,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Gil Grasslands (Normal)",
+        "dungeon": "Gil Grasslands (Normal)",
+        "exp": 2976,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Gil Grasslands (Hard)",
+        "dungeon": "Gil Grasslands (Hard)",
+        "exp": 6180,
+        "stamina": 10,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Glade of Wisdom (Easy)",
+        "dungeon": "Glade of Wisdom (Easy)",
+        "exp": 1848,
+        "stamina": 3,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Glade of Wisdom (Normal)",
+        "dungeon": "Glade of Wisdom (Normal)",
+        "exp": 7728,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Glade of Wisdom (Hard)",
+        "dungeon": "Glade of Wisdom (Hard)",
+        "exp": 30900,
+        "stamina": 10,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Summit",
+        "dungeon": "Mount Hobs",
+        "exp": 7974,
+        "stamina": 15,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "1st Floor",
+        "dungeon": "Wind Shrine",
+        "exp": 6966,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "2nd Floor",
+        "dungeon": "Wind Shrine",
+        "exp": 6966,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "3rd Floor",
+        "dungeon": "Wind Shrine",
+        "exp": 6966,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "4th Floor",
+        "dungeon": "Wind Shrine",
+        "exp": 6966,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "1st Battle",
+        "dungeon": "Fabul Castle",
+        "exp": 1944,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "2nd Battle",
+        "dungeon": "Fabul Castle",
+        "exp": 1944,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "3rd Battle",
+        "dungeon": "Fabul Castle",
+        "exp": 1944,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "4th Battle",
+        "dungeon": "Fabul Castle",
+        "exp": 1944,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "5th Battle",
+        "dungeon": "Fabul Castle",
+        "exp": 1944,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "6th Battle",
+        "dungeon": "Fabul Castle",
+        "exp": 1944,
+        "stamina": 4,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Crystal Antechamber",
+        "dungeon": "Wind Shrine",
+        "exp": 6420,
+        "stamina": 15,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "Levelan Lake",
+        "dungeon": "Underground Waterway",
+        "exp": 5638,
+        "stamina": 14,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "South",
+        "dungeon": "Underground Waterway",
+        "exp": 5184,
+        "stamina": 13,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "North",
+        "dungeon": "Underground Waterway",
+        "exp": 5184,
+        "stamina": 13,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Central Chamber",
+        "dungeon": "Antlion's Den",
+        "exp": 5444,
+        "stamina": 14,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "3rd Station",
+        "dungeon": "Mount Hobs",
+        "exp": 5004,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "5th Station",
+        "dungeon": "Mount Hobs",
+        "exp": 5004,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "7th Station",
+        "dungeon": "Mount Hobs",
+        "exp": 5004,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "1st Level",
+        "dungeon": "Antlion's Den",
+        "exp": 4164,
+        "stamina": 13,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "2nd Level",
+        "dungeon": "Antlion's Den",
+        "exp": 4164,
+        "stamina": 13,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "3rd Level",
+        "dungeon": "Antlion's Den",
+        "exp": 4164,
+        "stamina": 13,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Ancient Road",
+        "dungeon": "Besaid",
+        "exp": 3810,
+        "stamina": 13,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "Village Slope",
+        "dungeon": "Besaid",
+        "exp": 3336,
+        "stamina": 12,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Exit",
+        "dungeon": "Mist Cave",
+        "exp": 3600,
+        "stamina": 13,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "Promontory",
+        "dungeon": "Besaid",
+        "exp": 3290,
+        "stamina": 12,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Entrance",
+        "dungeon": "Mist Cave",
+        "exp": 2976,
+        "stamina": 12,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Waypoint",
+        "dungeon": "Mist Cave",
+        "exp": 2976,
+        "stamina": 12,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Mako Reactor No. 1",
+        "dungeon": "Mako Reactor No. 1",
+        "exp": 3180,
+        "stamina": 13,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "Mako Reactor No. 5",
+        "dungeon": "Mako Reactor No. 5",
+        "exp": 2906,
+        "stamina": 13,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "Stadium",
+        "dungeon": "Zanarkand",
+        "exp": 2628,
+        "stamina": 12,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Overpass",
+        "dungeon": "Zanarkand",
+        "exp": 2628,
+        "stamina": 12,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Ruined Overpass",
+        "dungeon": "Zanarkand",
+        "exp": 2562,
+        "stamina": 13,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "Winding Tunnel",
+        "dungeon": "Mako Reactor No. 5",
+        "exp": 2268,
+        "stamina": 12,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Sector 4 Substructure",
+        "dungeon": "Mako Reactor No. 5",
+        "exp": 2268,
+        "stamina": 12,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Final Battle",
+        "dungeon": "Fabul Castle",
+        "exp": 0,
+        "stamina": 5,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "1st Level",
+        "dungeon": "Baron Castle",
+        "exp": 0,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "2nd Level",
+        "dungeon": "Baron Castle",
+        "exp": 0,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "3rd Level",
+        "dungeon": "Baron Castle",
+        "exp": 0,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "1st Floor",
+        "dungeon": "Baron Castle",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "Throne Room",
+        "dungeon": "Baron Castle",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "Gate",
+        "dungeon": "Torna Canal",
+        "exp": 5712,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Entrance",
+        "dungeon": "Torna Canal",
+        "exp": 5712,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Midway",
+        "dungeon": "Torna Canal",
+        "exp": 5712,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Bottleneck",
+        "dungeon": "Torna Canal",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "Shipwreck Deck",
+        "dungeon": "Ship Graveyard",
+        "exp": 0,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Shipwreck Cabin",
+        "dungeon": "Ship Graveyard",
+        "exp": 0,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Shipwreck Bow",
+        "dungeon": "Ship Graveyard",
+        "exp": 0,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Exteror",
+        "dungeon": "Ship Graveyard",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "Pathway",
+        "dungeon": "North Mountain",
+        "exp": 0,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "5th Station",
+        "dungeon": "North Mountain",
+        "exp": 0,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Mountainside Cave",
+        "dungeon": "North Mountain",
+        "exp": 0,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Cavern",
+        "dungeon": "North Mountain",
+        "exp": 0,
+        "stamina": 14,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "8th Station",
+        "dungeon": "North Mountain",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "Narshe",
+        "dungeon": "North Mines",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Midway",
+        "dungeon": "North Mines",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Entrance",
+        "dungeon": "North Mines",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Inner Mines",
+        "dungeon": "North Mines",
+        "exp": 0,
+        "stamina": 16,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "1st Battle",
+        "dungeon": "Abandoned Mineshaft",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "2nd Battle",
+        "dungeon": "Abandoned Mineshaft",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "3rd Battle",
+        "dungeon": "Abandoned Mineshaft",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Final Battle",
+        "dungeon": "Abandoned Mineshaft",
+        "exp": 0,
+        "stamina": 16,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "1st Floor",
+        "dungeon": "Figaro Castle",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "2nd Floor",
+        "dungeon": "Figaro Castle",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "3rd Floor",
+        "dungeon": "Figaro Castle",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Exterior",
+        "dungeon": "Figaro Castle",
+        "exp": 0,
+        "stamina": 16,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "Suspension Bridge",
+        "dungeon": "Mt. Kolts",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Hidden Passage",
+        "dungeon": "Mt. Kolts",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Passage",
+        "dungeon": "Mt. Kolts",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Pathway",
+        "dungeon": "Mt. Kolts",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Sky Vault",
+        "dungeon": "Mt. Kolts",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Descent",
+        "dungeon": "Mt. Kolts",
+        "exp": 0,
+        "stamina": 16,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "West",
+        "dungeon": "Imperial Camp",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Entrance",
+        "dungeon": "Imperial Camp",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Northeast",
+        "dungeon": "Imperial Camp",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Center",
+        "dungeon": "Imperial Camp",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "North",
+        "dungeon": "Imperial Camp",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Exit",
+        "dungeon": "Imperial Camp",
+        "exp": 0,
+        "stamina": 16,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "Narrow Pathway",
+        "dungeon": "South Figaro Cave",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "South Entrance",
+        "dungeon": "South Figaro Cave",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Stone Vault",
+        "dungeon": "South Figaro Cave",
+        "exp": 0,
+        "stamina": 15,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Wide Pathway",
+        "dungeon": "South Figaro Cave",
+        "exp": 0,
+        "stamina": 16,
+        "boss": "Yes",
+        "elite": "Yes"
+    },
+    {
+        "name": "Deck Amidships",
+        "dungeon": "S.S. Liki",
+        "exp": 0,
+        "stamina": 13,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Deck Aft",
+        "dungeon": "S.S. Liki",
+        "exp": 0,
+        "stamina": 13,
+        "boss": "No",
+        "elite": "Yes"
+    },
+    {
+        "name": "Deck Fore",
+        "dungeon": "S.S. Liki",
+        "exp": 0,
+        "stamina": 14,
+        "boss": "Yes",
+        "elite": "Yes"
+    }
+]

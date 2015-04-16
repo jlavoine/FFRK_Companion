@@ -27,11 +27,11 @@ public class OrbSeries : MonoBehaviour {
 		// iterate through each button and load the appropriate graphic for the orb
 		for ( int i = 0; i < Buttons.Count; ++i ) {
 			Button button = Buttons[i];
-			Image image = button.image;
+			//Image image = button.image;
 
 			int nIndex = i+1;
-			Sprite sprite = Resources.Load<Sprite>( i_strOrbType + "_" + nIndex );
-			image.sprite = sprite;
+			//Sprite sprite = Resources.Load<Sprite>( i_strOrbType + "_" + nIndex );
+			//image.sprite = sprite;
 
 			// also set the button up
 			OrbButton scriptOrb = button.GetComponent<OrbButton>();

@@ -1,4 +1,17 @@
 <Constants>
 	<Constant Name="ClassicColor" Type="Color" Value="227,223,100,255"> </Constant>
-	<Constant Name="EliteColor" Type="Color" Value="162,147,244,255"> </Constant>	
+	<Constant Name="EliteColor" Type="Color" Value="162,147,244,255"> </Constant>
+	<Constant Name="DailyColor" Type="Color" Value="120,238,255,255"> </Constant>
+	
+	<Constant Name="Color_Core" Type="Color" Value="255,255,255,255"> </Constant>	
+	<Constant Name="Color_II" Type="Color" Value="248,175,175,255"> </Constant>
+	<Constant Name="Color_III" Type="Color" Value="248,175,242,255"> </Constant>
+	<Constant Name="Color_IV" Type="Color" Value="167,255,251,255"> </Constant>
+	<Constant Name="Color_V" Type="Color" Value="167,255,197,255"> </Constant>
+	<Constant Name="Color_VI" Type="Color" Value="172,135,186,255"> </Constant>
+	<Constant Name="Color_VII" Type="Color" Value="227,223,100,255"> </Constant>
+	<Constant Name="Color_VIII" Type="Color" Value="147,186,135,255"> </Constant>
+	<Constant Name="Color_IX" Type="Color" Value="70,152,159,255"> </Constant>
+	<Constant Name="Color_X" Type="Color" Value="167,186,255,255"> </Constant>
+	<Constant Name="Color_XII" Type="Color" Value="189,188,131,255"> </Constant>
 </Constants>

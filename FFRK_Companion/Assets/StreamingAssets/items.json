@@ -11,7 +11,8 @@
         "maxres": 11,
         "eva": 96,
         "maxeva": 96,
-        "location": "4-2"
+        "location": "4-2",
+        "loccopy": "4-2"
     },
     {
         "itemname": "Bronze Shield",
@@ -25,7 +26,8 @@
         "maxres": 12,
         "eva": 96,
         "maxeva": 96,
-        "location": "6-4"
+        "location": "6-4",
+        "loccopy": "6-4"
     },
     {
         "itemname": "Round Shield",
@@ -39,7 +41,7 @@
         "maxres": 13,
         "eva": 96,
         "maxeva": 96,
-        "location": "Shinra Event"
+        "loccopy": "Shinra Event"
     },
     {
         "itemname": "Buckler",
@@ -53,7 +55,8 @@
         "maxres": 12,
         "eva": 96,
         "maxeva": 96,
-        "location": "4-3"
+        "location": "4-3",
+        "loccopy": "4-3"
     },
     {
         "itemname": "Iron Shield",
@@ -80,7 +83,8 @@
         "maxres": 18,
         "eva": 99,
         "maxeva": 99,
-        "location": "4-1, Friday Dungeon Hard"
+        "location": "4-1,Friday-3",
+        "loccopy": "4-1, Friday Dungeon Hard"
     },
     {
         "itemname": "Golden Shield",
@@ -218,7 +222,7 @@
         "maxres": 18,
         "eva": 99,
         "maxeva": 99,
-        "location": "6-4 Mastery"
+        "loccopy": "6-4 Mastery"
     },
     {
         "itemname": "Golden Shield",
@@ -249,7 +253,8 @@
         "maxmnd": 5,
         "eva": 93,
         "maxeva": 93,
-        "location": "6-6"
+        "location": "6-6",
+        "loccopy": "6-6"
     },
     {
         "itemname": "Twist Headband",
@@ -269,7 +274,7 @@
         "maxmnd": 5,
         "eva": 93,
         "maxeva": 93,
-        "location": "Shinra Event"
+        "loccopy": "Shinra Event"
     },
     {
         "itemname": "Hairband",
@@ -287,7 +292,8 @@
         "maxmnd": 5,
         "eva": 93,
         "maxeva": 93,
-        "location": "4-3"
+        "location": "4-3",
+        "loccopy": "4-3"
     },
     {
         "itemname": "Leather Cap",
@@ -305,7 +311,8 @@
         "maxmnd": 5,
         "eva": 93,
         "maxeva": 93,
-        "location": "4-1"
+        "location": "4-1",
+        "loccopy": "4-1"
     },
     {
         "itemname": "Gold Hairpin",
@@ -429,7 +436,8 @@
         "maxmnd": 9,
         "eva": 93,
         "maxeva": 93,
-        "location": "6-2"
+        "location": "6-2",
+        "loccopy": "6-2"
     },
     {
         "itemname": "Green Beret",
@@ -464,7 +472,8 @@
         "maxmnd": 11,
         "eva": 99,
         "maxeva": 99,
-        "location": "5-3 Boss"
+        "location": "5-3_Boss",
+        "loccopy": "5-3 Boss"
     },
     {
         "itemname": "Sage's Miter",
@@ -499,7 +508,7 @@
         "maxmnd": 8,
         "eva": 96,
         "maxeva": 96,
-        "location": "5-4 Mastery"
+        "loccopy": "5-4 Mastery"
     },
     {
         "itemname": "Bronze Helm",
@@ -515,7 +524,8 @@
         "maxres": 18,
         "eva": 93,
         "maxeva": 93,
-        "location": "6-1"
+        "location": "6-1",
+        "loccopy": "6-1"
     },
     {
         "itemname": "Bronze Helm",
@@ -531,7 +541,8 @@
         "maxres": 17,
         "eva": 93,
         "maxeva": 93,
-        "location": "5-1"
+        "location": "5-1",
+        "loccopy": "5-1"
     },
     {
         "itemname": "Iron Helm",
@@ -562,7 +573,8 @@
         "maxres": 29,
         "eva": 96,
         "maxeva": 96,
-        "location": "6-4 Boss"
+        "location": "6-4_Boss",
+        "loccopy": "6-4 Boss"
     },
     {
         "itemname": "Flame Helm",
@@ -609,7 +621,8 @@
         "maxres": 29,
         "eva": 96,
         "maxeva": 96,
-        "location": "4-2 Boss"
+        "location": "4-2_Boss",
+        "loccopy": "4-2 Boss"
     },
     {
         "itemname": "Dragon Helm",
@@ -748,7 +761,8 @@
         "maxres": 21,
         "eva": 99,
         "maxeva": 99,
-        "location": "5-3, 5-4"
+        "location": "5-3,5-4",
+        "loccopy": "5-3, 5-4"
     },
     {
         "itemname": "Vest",
@@ -762,7 +776,7 @@
         "maxres": 18,
         "eva": 93,
         "maxeva": 93,
-        "location": "Shinra 1"
+        "loccopy": "Shinra 1"
     },
     {
         "itemname": "Leather Clothing",
@@ -776,7 +790,8 @@
         "maxres": 19,
         "eva": 93,
         "maxeva": 93,
-        "location": "7-1"
+        "location": "7-1",
+        "loccopy": "7-1"
     },
     {
         "itemname": "Protect Vest",
@@ -790,7 +805,8 @@
         "maxres": 31,
         "eva": 96,
         "maxeva": 96,
-        "location": "4-3 Boss, Shinra Event"
+        "location": "4-3_Boss",
+        "loccopy": "4-3 Boss, Shinra Event"
     },
     {
         "itemname": "Ninja Gear",
@@ -819,7 +835,7 @@
         "maxres": 35,
         "eva": 96,
         "maxeva": 96,
-        "location": "10-3 First Time Reward"
+        "loccopy": "10-3 First Time Reward"
     },
     {
         "itemname": "Power Sash",
@@ -931,7 +947,8 @@
         "maxres": 12,
         "eva": 93,
         "maxeva": 93,
-        "location": "6-3"
+        "location": "6-3",
+        "loccopy": "6-3"
     },
     {
         "itemname": "Leather Armor",
@@ -945,7 +962,8 @@
         "maxres": 11,
         "eva": 93,
         "maxeva": 93,
-        "location": "4-1, 4-4"
+        "location": "4-1,4-4",
+        "loccopy": "4-1, 4-4"
     },
     {
         "itemname": "Leather Armor",
@@ -959,7 +977,7 @@
         "maxres": 11,
         "eva": 93,
         "maxeva": 93,
-        "location": "Ordeals 8: 1"
+        "loccopy": "Ordeals 8: 1"
     },
     {
         "itemname": "Iron Armor",
@@ -986,7 +1004,8 @@
         "maxres": 18,
         "eva": 96,
         "maxeva": 96,
-        "location": "4-4 Boss"
+        "location": "4-4_Boss",
+        "loccopy": "4-4 Boss"
     },
     {
         "itemname": "Mythril Armor",
@@ -1000,7 +1019,8 @@
         "maxres": 18,
         "eva": 96,
         "maxeva": 96,
-        "location": "6-2 Boss, Friday Dungeon (hard)"
+        "location": "6-2_Boss,Friday-3",
+        "loccopy": "6-2 Boss, Friday Dungeon (hard)"
     },
     {
         "itemname": "Knight Armor",
@@ -1160,7 +1180,8 @@
         "maxres": 29,
         "eva": 93,
         "maxeva": 93,
-        "location": "6-6"
+        "location": "6-6",
+        "loccopy": "6-6"
     },
     {
         "itemname": "Cotton Robe",
@@ -1187,7 +1208,8 @@
         "maxres": 27,
         "eva": 93,
         "maxeva": 93,
-        "location": "4-5, 4-6"
+        "location": "4-5, 4-6",
+        "loccopy": "4-5, 4-6"
     },
     {
         "itemname": "Scholar Robe",
@@ -1231,7 +1253,8 @@
         "maxres": 43,
         "eva": 96,
         "maxeva": 96,
-        "location": "5-2 Boss"
+        "location": "5-2_Boss",
+        "loccopy": "5-2 Boss"
     },
     {
         "itemname": "Luminous Robe",
@@ -1351,7 +1374,7 @@
         "maxmnd": 5,
         "eva": 93,
         "maxeva": 93,
-        "location": "Shinra Event"
+        "loccopy": "Shinra Event"
     },
     {
         "itemname": "Iron Bangle",
@@ -1371,7 +1394,8 @@
         "maxmnd": 5,
         "eva": 93,
         "maxeva": 93,
-        "location": "4-4"
+        "location": "4-4",
+        "loccopy": "4-4"
     },
     {
         "itemname": "Mythril Armlet",
@@ -1391,7 +1415,8 @@
         "maxmnd": 8,
         "eva": 93,
         "maxeva": 93,
-        "location": "10-1 Mastery, 4-6 Boss"
+        "location": "4-6_Boss",
+        "loccopy": "10-1 Mastery, 4-6 Boss"
     },
     {
         "itemname": "Carbon Bangle",
@@ -1641,7 +1666,8 @@
         "maxatt": 19,
         "acc": 83,
         "maxacc": 83,
-        "location": "7-1, 10-3"
+        "location": "7-1, 10-3",
+        "loccopy": "7-1, 10-3"
     },
     {
         "itemname": "Mythril Knife",
@@ -1653,7 +1679,8 @@
         "maxatt": 33,
         "acc": 86,
         "maxacc": 86,
-        "location": "7-1"
+        "location": "7-1",
+        "loccopy": "7-1"
     },
     {
         "itemname": "Dagger",
@@ -1665,7 +1692,8 @@
         "maxatt": 20,
         "acc": 83,
         "maxacc": 83,
-        "location": "4-1"
+        "location": "4-1",
+        "loccopy": "4-1"
     },
     {
         "itemname": "Kunai",
@@ -1677,7 +1705,8 @@
         "maxatt": 21,
         "acc": 83,
         "maxacc": 83,
-        "location": "4-3, 4-4, 4-5, 6-6"
+        "location": "4-3, 4-4, 4-5, 6-6",
+        "loccopy": "4-3, 4-4, 4-5, 6-6"
     },
     {
         "itemname": "Kodachi",
@@ -1702,7 +1731,7 @@
         "maxatt": 32,
         "acc": 86,
         "maxacc": 86,
-        "location": "4-6 Mastery, 6-2 Mastery"
+        "loccopy": "4-6 Mastery, 6-2 Mastery"
     },
     {
         "itemname": "Cat Claws",
@@ -1725,7 +1754,7 @@
         "maxatt": 33,
         "acc": 86,
         "maxacc": 86,
-        "location": "7-2 Mastery"
+        "loccopy": "7-2 Mastery"
     },
     {
         "itemname": "Orichalcum Dirk",
@@ -1903,7 +1932,8 @@
         "maxatt": 21,
         "acc": 83,
         "maxacc": 83,
-        "location": "4-5, 10-1"
+        "location": "4-5, 10-1",
+        "loccopy": "4-5, 10-1"
     },
     {
         "itemname": "Iron Sword",
@@ -1926,7 +1956,8 @@
         "maxatt": 23,
         "acc": 83,
         "maxacc": 83,
-        "location": "6-2"
+        "location": "6-2",
+        "loccopy": "6-2"
     },
     {
         "itemname": "Mythril Sword",
@@ -2020,7 +2051,7 @@
         "maxatt": 36,
         "acc": 86,
         "maxacc": 86,
-        "location": "6-3 Boss"
+        "loccopy": "6-3 Boss"
     },
     {
         "itemname": "Platinum Sword",
@@ -2201,7 +2232,7 @@
         "maxatt": 33,
         "acc": 86,
         "maxacc": 86,
-        "location": "Shinra Event"
+        "loccopy": "Shinra Event"
     },
     {
         "itemname": "Masamune",
@@ -2247,7 +2278,7 @@
         "maxatt": 27,
         "acc": 83,
         "maxacc": 83,
-        "location": "Ordeals 7: 3"
+        "loccopy": "Ordeals 7: 3"
     },
     {
         "itemname": "Handaxe",
@@ -2259,7 +2290,8 @@
         "maxatt": 23,
         "acc": 83,
         "maxacc": 83,
-        "location": "5-1"
+        "location": "5-1",
+        "loccopy": "5-1"
     },
     {
         "itemname": "Broadaxe",
@@ -2271,7 +2303,8 @@
         "maxatt": 25,
         "acc": 83,
         "maxacc": 83,
-        "location": "6-4"
+        "location": "6-4",
+        "loccopy": "6-4"
     },
     {
         "itemname": "Slasher",
@@ -2283,7 +2316,8 @@
         "maxatt": 38,
         "acc": 86,
         "maxacc": 86,
-        "location": "5-1"
+        "location": "5-1_Boss",
+        "loccopy": "5-1"
     },
     {
         "itemname": "Ogrekiller",
@@ -2376,7 +2410,8 @@
         "maxatt": 21,
         "acc": 83,
         "maxacc": 83,
-        "location": "5-3, 5-4"
+        "location": "5-3, 5-4",
+        "loccopy": "5-3, 5-4"
     },
     {
         "itemname": "Mythril Hammer",
@@ -2388,7 +2423,8 @@
         "maxatt": 36,
         "acc": 86,
         "maxacc": 86,
-        "location": "6-1 Boss"
+        "location": "6-1_Boss",
+        "loccopy": "6-1 Boss"
     },
     {
         "itemname": "War Hammer",
@@ -2434,7 +2470,8 @@
         "maxatt": 21,
         "acc": 83,
         "maxacc": 83,
-        "location": "4-1, 4-2"
+        "location": "4-1, 4-2",
+        "loccopy": "4-1, 4-2"
     },
     {
         "itemname": "Wind Spear",
@@ -2446,7 +2483,8 @@
         "maxatt": 22,
         "acc": 83,
         "maxacc": 83,
-        "location": "6-4 Blackwind Drop"
+        "location": "6-4",
+        "loccopy": "6-4 Blackwind Drop"
     },
     {
         "itemname": "Partisan",
@@ -2458,7 +2496,8 @@
         "maxatt": 36,
         "acc": 86,
         "maxacc": 86,
-        "location": "Tuesday Dungeon (hard)"
+        "location": "Tuesday-3",
+        "loccopy": "Tuesday Dungeon (hard)"
     },
     {
         "itemname": "Heavy Lance",
@@ -2470,7 +2509,8 @@
         "maxatt": 35,
         "acc": 86,
         "maxacc": 86,
-        "location": "10-3 Boss"
+        "location": "10-3_Boss",
+        "loccopy": "10-3 Boss"
     },
     {
         "itemname": "Mythril Spear",
@@ -2550,7 +2590,8 @@
         "maxatt": 19,
         "acc": 83,
         "maxacc": 83,
-        "location": "5-1"
+        "location": "5-1",
+        "loccopy": "5-1"
     },
     {
         "itemname": "Cat Claws",
@@ -2584,7 +2625,7 @@
         "maxatt": 33,
         "acc": 86,
         "maxacc": 86,
-        "location": "Shinra Event"
+        "loccopy": "Shinra Event"
     },
     {
         "itemname": "Bronze Knuckles",
@@ -2607,7 +2648,8 @@
         "maxatt": 32,
         "acc": 86,
         "maxacc": 86,
-        "location": "6-6 Boss"
+        "location": "6-6_Boss",
+        "loccopy": "6-6 Boss"
     },
     {
         "itemname": "Diamond Knuckle",
@@ -2718,7 +2760,8 @@
         "maxmnd": 11,
         "acc": 83,
         "maxacc": 83,
-        "location": "7-1"
+        "location": "7-1",
+        "loccopy": "7-1"
     },
     {
         "itemname": "Serpent Rod",
@@ -2876,7 +2919,7 @@
         "acc": 92,
         "maxacc": 92,
         "notes": "Changes Black Mage's Soul Break to Magic Signet. Adds light lightning damage.",
-        "location": "4-2 Elite Mastery"
+        "loccopy": "4-2 Elite Mastery"
     },
     {
         "itemname": "Empyrean Rod",
@@ -2938,7 +2981,8 @@
         "maxmnd": 11,
         "acc": 83,
         "maxacc": 83,
-        "location": "4-5, 4-6"
+        "location": "4-5, 4-6",
+        "loccopy": "4-5, 4-6"
     },
     {
         "itemname": "Bronze Mace",
@@ -2969,7 +3013,8 @@
         "maxmnd": 18,
         "acc": 86,
         "maxacc": 86,
-        "location": "7-2 Boss"
+        "location": "7-2_Boss",
+        "loccopy": "7-2 Boss"
     },
     {
         "itemname": "Cherry Staff",
@@ -2986,7 +3031,8 @@
         "acc": 83,
         "maxacc": 83,
         "notes": "Adds light wind damage.",
-        "location": "5-3 Octokraken"
+        "location": "5-3",
+        "loccopy": "5-3 Octokraken"
     },
     {
         "itemname": "Oak Staff",
@@ -3002,7 +3048,8 @@
         "maxmnd": 24,
         "acc": 83,
         "maxacc": 83,
-        "location": "6-6 Silver Lobo"
+        "location": "6-6",
+        "loccopy": "6-6 Silver Lobo"
     },
     {
         "itemname": "Staff",
@@ -3018,7 +3065,8 @@
         "maxmnd": 21,
         "acc": 83,
         "maxacc": 83,
-        "location": "7-2 Special Combatant"
+        "location": "7-2",
+        "loccopy": "7-2 Special Combatant"
     },
     {
         "itemname": "Mage's Staff",
@@ -3049,7 +3097,8 @@
         "maxmnd": 36,
         "acc": 86,
         "maxacc": 86,
-        "location": "10-1 Boss"
+        "location": "10-1_Boss",
+        "loccopy": "10-1 Boss"
     },
     {
         "itemname": "Power Staff",
@@ -3220,7 +3269,7 @@
         "acc": 92,
         "maxacc": 92,
         "notes": "Changes White mage's Soul Break to Divine Signet.  Adds light lightning damage.",
-        "location": "7-2 Elite Mastery"
+        "loccopy": "7-2 Elite Mastery"
     },
     {
         "itemname": "Sage's Staff",
@@ -3312,7 +3361,8 @@
         "maxmnd": 8,
         "acc": 83,
         "maxacc": 83,
-        "location": "Tuesday Dungeon (normal)"
+        "location": "Tuesday-2",
+        "loccopy": "Tuesday Dungeon (normal)"
     },
     {
         "itemname": "Shortbow",
@@ -3328,7 +3378,8 @@
         "maxmnd": 7,
         "acc": 83,
         "maxacc": 83,
-        "location": "5-3, 5-4, 10-3"
+        "location": "5-3, 5-4, 10-3",
+        "loccopy": "5-3, 5-4, 10-3"
     },
     {
         "itemname": "Longbow",
@@ -3344,7 +3395,8 @@
         "maxmnd": 7,
         "acc": 83,
         "maxacc": 83,
-        "location": "6-2"
+        "location": "6-2",
+        "loccopy": "6-2"
     },
     {
         "itemname": "Flame Bow",
@@ -3455,7 +3507,7 @@
         "acc": 92,
         "maxacc": 92,
         "notes": "Changes Ranger's Soul Break to Steady Shot II.  Adds small chance to KO.",
-        "location": "4-6 Elite Mastery"
+        "loccopy": "4-6 Elite Mastery"
     },
     {
         "itemname": "Hayate Bow",
@@ -3486,7 +3538,8 @@
         "maxmnd": 11,
         "acc": 86,
         "maxacc": 86,
-        "location": "10-2 Boss"
+        "location": "10-2_Boss",
+        "loccopy": "10-2 Boss"
     },
     {
         "itemname": "Crossbow",
@@ -3517,7 +3570,7 @@
         "maxmnd": 20,
         "acc": 89,
         "maxacc": 89,
-        "location": "6-6 Mastery"
+        "loccopy": "6-6 Mastery"
     },
     {
         "itemname": "Madhura Harp",
@@ -3534,7 +3587,7 @@
         "acc": 92,
         "maxacc": 92,
         "notes": "Changes Bard's Soul Break to Valor Minuet II.",
-        "location": "6-6 Elite Mastery"
+        "loccopy": "6-6 Elite Mastery"
     },
     {
         "itemname": "Whip",
@@ -3549,7 +3602,8 @@
         "acc": 92,
         "maxacc": 92,
         "notes": "Adds small chance to Paralyze.",
-        "location": "4-5 Boss"
+        "location": "4-5_Boss",
+        "loccopy": "4-5 Boss"
     },
     {
         "itemname": "Blitz Whip",
@@ -3586,7 +3640,8 @@
         "maxatt": 17,
         "acc": 83,
         "maxacc": 83,
-        "location": "10-1, 10-2, 10-3"
+        "location": "10-1, 10-2, 10-3",
+        "loccopy": "10-1, 10-2, 10-3"
     },
     {
         "itemname": "Chakram",
@@ -3598,7 +3653,7 @@
         "maxatt": 28,
         "acc": 86,
         "maxacc": 86,
-        "location": "10-2 Mastery"
+        "loccopy": "10-2 Mastery"
     },
     {
         "itemname": "Shuriken",

@@ -48,8 +48,8 @@ public class OrbInfo : MonoBehaviour {
 		string strOrb = i_strOrbKey + "_" + i_nIndex;
 
 		// set the icon of the orb correctly
-		Sprite sprite = Resources.Load<Sprite>( strOrb );
-		Icon.sprite = sprite;
+		//Sprite sprite = Resources.Load<Sprite>( strOrb );
+		//Icon.sprite = sprite;
 
 		// name the orb properly
 		string strType = StringTableManager.Get( i_strOrbKey );
