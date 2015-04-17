@@ -13,8 +13,9 @@ public class WeaponEntry : MonoBehaviour {
 	public GameObject DungeonEntry;
 
 	public void Init( ID_Character i_char, ID_Item i_item ) {
+		bool bAll = ItemCompanion.Instance.GetCurrentRealm() == "All";
 		string strName = i_item.itemname;
-		int nStat = int.Parse(i_item.maxatt);
+		int nStat = bAll ? int.Parse(i_item.maxatt) : i_item.GetBestAttack();
 		//Sprite spriteIcon = Resources.Load<Sprite>( i_item.realm + "_" + i_item.itemname );
 
 		//Icon.sprite = spriteIcon;

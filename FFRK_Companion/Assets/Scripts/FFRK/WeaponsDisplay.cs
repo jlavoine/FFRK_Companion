@@ -26,11 +26,13 @@ public class WeaponsDisplay : ItemDisplay {
 	/// type of display.
 	////////////////////////////////
 	protected override List<ID_Item> SortItems( List<ID_Item> i_listBest, ID_Character i_character ) {
+		bool bAll = ItemCompanion.Instance.GetCurrentRealm() == "All";
+
 		// sorting is a little complex...THANKS GAME
 		i_listBest.Sort(delegate(ID_Item x, ID_Item y) {
 			// sorting may require the attack, magic, or mind of the item...
-			int nAttackX = int.Parse( x.maxatt );
-			int nAttackY = int.Parse( y.maxatt );
+			int nAttackX = bAll ? int.Parse( x.maxatt ) : x.GetBestAttack();
+			int nAttackY = bAll ? int.Parse( y.maxatt ) : y.GetBestAttack();
 
 			int nMagX = string.IsNullOrEmpty(x.maxmag) ? 0 : int.Parse( x.maxmag );
 			int nMagY = string.IsNullOrEmpty(y.maxmag) ? 0 : int.Parse( y.maxmag );

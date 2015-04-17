@@ -27,7 +27,7 @@ public class ItemCompanion : Singleton<ItemCompanion> {
 	}
 
 	// currently selected realm
-	private string m_strRealm;
+	private string m_strRealm = "All";
 	public string GetCurrentRealm() {
 		return m_strRealm;
 	}
