@@ -22,9 +22,7 @@ public class ChooseCharacterButton : MonoBehaviour {
 	////////////////////////////////
 	public void Init( ID_Character i_dataCharacter ) {
 		m_dataCharacter = i_dataCharacter;
-
-		string strKey = i_dataCharacter.character;
-
+	
 		// init the identifier
 		Identifier.Init( i_dataCharacter );
 	}

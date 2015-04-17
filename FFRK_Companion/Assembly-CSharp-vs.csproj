@@ -420,6 +420,7 @@
      <Compile Include="Assets\Scripts\FFRK\OrbCompanion.cs" />
      <Compile Include="Assets\Scripts\FFRK\OrbInfo.cs" />
      <Compile Include="Assets\Scripts\FFRK\OrbSeries.cs" />
+     <Compile Include="Assets\Scripts\FFRK\SynergyCompanion.cs" />
      <Compile Include="Assets\Scripts\FFRK\WeaponEntry.cs" />
      <Compile Include="Assets\Scripts\FFRK\WeaponsDisplay.cs" />
      <Compile Include="Assets\Scripts\Library\Audio\AudioManager.cs" />

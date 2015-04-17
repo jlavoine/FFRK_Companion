@@ -46,6 +46,42 @@
 	
 	<String ID="ExpInfo">All calculations assume Champion rating.</String>
 	
+	<!-- Tips and tricks -->
+	<String ID="Tip_1_Title">Tip #1: Use Synergy!</String>
+	<String ID="Tip_1_Body">Synergy of characters and items is incredibly powerful, and can turn your lowly 1-star items into powerhouses that are better than their 4-star and 5-star counterparts that don’t have synergy.  
+
+If you are having trouble with a dungeon, find some 1-star items with synergy and level them up and combine them into a 3-star item.  Often this will give your characters the boost they need to tackle tougher challenges.  See the Best Equipment section of the app to find out where to find items that drop from monsters and bosses.
+
+See the synergy section of the app for specific information about synergy effects.</String>
+	
+	<String ID="Tip_2_Title">Tip #2: Restarting a Battle Round</String>
+	<String ID="Tip_2_Body">If something bad happens within a battle round and you’d rather start that round over instead of continue, use this trick!  Minimize the app and then force quit it.  Re-open the app and log back in, and you’ll be asked to resume the battle.  After accepting, you will be placed at the start of the round you were on.  You won’t lose items from previous rounds.  You can use this trick as much as you want, but keep in mind that as soon as a round ends, you cannot restart it.</String>
+	
+	<String ID="Tip_3_Title">Tip #3: Farming Boss Drops</String>
+	<String ID="Tip_3_Body">Some bosses in the game have great items that you really want.  But once you beat a boss, the dungeon is over -- whether that boss gave you the drop you want or not.  To minimize the amount of stamina you spend to farm an item, once the boss round starts, minimize the app and disconnect from the internet (shut wifi off).
+
+When you maximize the app, the battle will continue.  Beat the boss -- if the item drops that you want, minimize the app, turn internet back on, and maximize the app, and the battle will end properly.
+
+If you don’t get the item drop, minimize and force quit the app.  Then turn internet back on, and re-open the app.  When you are asked to pick up the battle again, click cancel, and you will be back in the dungeon.  You will have lost the stamina you paid to fight the boss, but you will have a chance to fight the boss again to try and get the drop.  This will save you stamina because you won’t have to clear the rest of the dungeon again.
+
+This trick works because once a battle starts, the drops are decided.  So restarting a battle will not change the drops.  But leaving the battle through this trick will reset the drop tables, giving you another chance at the item.</String>
+	
+	<String ID="Synergy_1_Title">Just how good is synergy?</String>
+	<String ID="Synergy_1_Body">Synergy of characters and items is incredibly powerful, and can turn your lowly 1-star items into powerhouses that are better than their 4-star and 5-star counterparts that don’t have synergy.</String>
+	
+	<String ID="Synergy_2_Title">Character Synergy</String>
+	<String ID="Synergy_2_Body">When you bring a character into a dungeon that shares that character’s realm (such as Cloud in an FFVII dungeon, or Kain in an FFIV dungeon), that character will temporarily gain 10 levels.  So if you bring a level 30 Cloud into an FFVII dungeon, he will have the stats of a level 40 Cloud.  </String>
+	
+	<String ID="Synergy_3_Title">Item Synergy</String>
+	<String ID="Synergy_3_Body">For items, synergy is a little more complex.  For every 5 levels an item has, it gains a certain number of bonus levels.  Any item can be combined twice, giving it an additional two stars of rarity.
+
+At worst, you can combine a 1-star item into a 3-star item.  A 3-star item at level 10 with realm synergy will act as a level 40 item!  This can make easily found items, like a Kunai, into a level 40 dagger with +75 attack that any character can use -- that’s stronger than many 4-star weapons!
+
+Check out the Best Equipment section of the app to find which items can be easily found to give your characters the most benefit.</String>
+	
+	<String ID="Synergy_4_Title">EXP Synergy</String>
+	<String ID="Synergy_4_Body">When a character has synergy, they gain 50% more experience each battle.  Use this to your advantage to level up characters with synergy and speed along the process.</String>
+	
 	<!-- Orb names -->
 	<String ID="Orb_1">Minor</String>
 	<String ID="Orb_2">Lesser</String>
