@@ -1,19 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FFRK\BossInfoDisplayer.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\XML\Resources\StringTables\English.xml">
     <Files>
-      <File FileName="Assets\Scripts\FFRK\BossCompanion.cs" Line="51" Column="1" />
-      <File FileName="Assets\Scripts\FFRK\BossEntry.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\FFRK\DungeonIdentifier.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\FFRK\ImmData\ID_Boss.cs" Line="1" Column="1" />
-      <File FileName="Assets\XML\Resources\Constants\GameConstants.xml" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\FFRK\ImmData\IDL_Dungeons.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\FFRK\ImmData\IDL_Bosses.cs" Line="1" Column="1" />
-      <File FileName="Assets\XML\Resources\StringTables\English.xml" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\FFRK\BossInfo.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\FFRK\OrbInfo.cs" Line="12" Column="1" />
-      <File FileName="Assets\Scripts\FFRK\OrbInfoDisplayer.cs" Line="10" Column="17" />
-      <File FileName="Assets\Scripts\FFRK\BossInfoDisplayer.cs" Line="13" Column="49" />
+      <File FileName="Assets\XML\Resources\StringTables\English.xml" Line="48" Column="82" />
+      <File FileName="Assets\Scripts\FFRK\WeaponEntry.cs" Line="30" Column="76" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
