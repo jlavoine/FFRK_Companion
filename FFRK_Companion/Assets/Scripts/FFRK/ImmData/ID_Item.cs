@@ -51,6 +51,48 @@ public class ID_Item {
 
 		return nBest;
 	}
+	public int GetBestMagic() {
+		// get the max level this item can be with and without synergy
+		int nMaxLevel = GetMaxLevel( false );
+		int nMaxLevelSynergy = GetMaxLevel( true );
+		
+		// figure out the level up bonus
+		float fLevelUpBonus = ((float)int.Parse(maxmag) - int.Parse(mag)) / (nMaxLevel - 1);
+		
+		// now get the best it can be...
+		float fBest = fLevelUpBonus * ( nMaxLevelSynergy-1 ) + int.Parse(mag);
+		int nBest = Mathf.CeilToInt( fBest );
+		
+		return nBest;
+	}
+	public int GetBestMind() {
+		// get the max level this item can be with and without synergy
+		int nMaxLevel = GetMaxLevel( false );
+		int nMaxLevelSynergy = GetMaxLevel( true );
+		
+		// figure out the level up bonus
+		float fLevelUpBonus = ((float)int.Parse(maxmnd) - int.Parse(mnd)) / (nMaxLevel - 1);
+		
+		// now get the best it can be...
+		float fBest = fLevelUpBonus * ( nMaxLevelSynergy-1 ) + int.Parse(mnd);
+		int nBest = Mathf.CeilToInt( fBest );
+		
+		return nBest;
+	}
+	public int GetBestDefense() {
+		// get the max level this item can be with and without synergy
+		int nMaxLevel = GetMaxLevel( false );
+		int nMaxLevelSynergy = GetMaxLevel( true );
+		
+		// figure out the level up bonus
+		float fLevelUpBonus = ((float)int.Parse(maxdef) - int.Parse(def)) / (nMaxLevel - 1);
+		
+		// now get the best it can be...
+		float fBest = fLevelUpBonus * ( nMaxLevelSynergy-1 ) + int.Parse(def);
+		int nBest = Mathf.CeilToInt( fBest );
+		
+		return nBest;
+	}
 
 	////////////////////////////////
 	/// GetMaxLevel()

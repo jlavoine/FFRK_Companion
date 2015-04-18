@@ -1,0 +1,185 @@
+[
+    {
+        "name": "Mist Dragon (Normal)",
+        "dungeon": "4-1",
+        "victory": "Defeat the Mist Dragon without having any attacks countered.,Exploit the Mist Dragon's weakness to dark attacks.",
+        "attacks": "Attack-Deal physical damage to one target.",
+        "resist": "Earth",
+        "vuln": "Dark",
+        "absorb": "Holy",
+        "debuffimm": "Blind,Instant KO,Shell, Regen, Confuse, Silence, Poison, Haste, Paralyze, Reflect, Slow, Petrify, Stop, Doom, Sleep, Protect"
+    },
+    {
+        "name": "Mist Dragon (Mist Form)",
+        "dungeon": "4-1",
+        "victory": "Defeat the Mist Dragon without having any attacks countered.,Exploit the Mist Dragon's weakness to dark attacks.",
+        "attacks": "Attack-Deal physical damage and blind one target.,Freezing Mist-Deal moderate ice damage to all targets.",
+        "resist": "Earth",
+        "vuln": "Dark",
+        "absorb": "Holy",
+        "debuffimm": "Blind,Instant KO,Shell,Regen,Confuse,Silence,Poison,Haste,Paralyze,Reflect,Slow,Petrify,Stop,Doom,Sleep,Protect",
+        "notes": "Don't attack the boss in mist form!"
+    },
+    {
+        "name": "Octomammoth",
+        "dungeon": "4-2",
+        "victory": "Defeat the Octomammoth without having any water attacks absorbed.,Exploit the Octomammoth's weakness to lightning attacks.,Exploit the Octomammoth's weakness to dark attacks.",
+        "attacks": "Attack-Deal physical damage to one target.",
+        "vuln": "Lightning,Dark",
+        "absorb": "Water,Holy",
+        "debuffimm": "Petrify,Paralyze,Instant KO,Sleep,Doom"
+    },
+    {
+        "name": "Antlion",
+        "dungeon": "4-3",
+        "victory": "Exploit the Antlion's weakness to ice attacks.",
+        "attacks": "Attack-Deal physical damage to one target.,Pincers-Deal special physical damage to one target.",
+        "vuln": "Ice",
+        "absorb": "Water,Holy",
+        "debuffimm": "Confuse,Sleep,Doom,Petrify,Instant KO,Paralyze",
+        "notes": "The Antlion will counterattack any non-ranged and non-magic attacks."
+    },
+    {
+        "name": "Mom Bomb",
+        "dungeon": "4-4",
+        "victory": "Exploit the Mom Bomb's weakness to ice attacks.,Defeat the Mom Bomb without being KO'd.,Exploit the Mom Bomb's weakness to dark attacks.",
+        "attacks": "Attack-Deal physical damage to one taget.",
+        "resist": "Lightning",
+        "vuln": "Ice,Water,Dark",
+        "absorb": "Fire",
+        "debuffimm": "Doom,Sleep,Paralyze,Petrify,Silence,Poison,Confuse,Blind,Instant KO",
+        "notes": "Be sure to defend when the Mom Bomb prepares to self-destruct!"
+    },
+    {
+        "name": "Dragoon",
+        "dungeon": "4-5",
+        "victory": "Defeat the Dragoon without being KO'd.",
+        "attacks": "Attack-Deal physical damage to one target.,Darkness-Deal very heavy dark damage to all targets.",
+        "resist": "Wind",
+        "debuffimm": "Instant KO,Blind,Confuse,Silence,Poison,Paralyze,Petrify,Doom,Sleep"
+    },
+    {
+        "name": "Baigan",
+        "dungeon": "4-6",
+        "victory": "Exploit Baigan's weakness to ice attacks.,Defeat Baigan before his arms self-destruct.",
+        "attacks": "Attack-Deal physical damage to one target.,Reflect-Grant Reflect to one target.,Regenerate-Revive all KO'd targets.,Haste-Grant Haste to all targets.",
+        "resist": "Fire,Lightning",
+        "vuln": "Ice",
+        "debuffimm": "Doom,Confuse,Sleep,Instant KO,Paralyze,Petrify",
+        "notes": "Baigan will regenerate his arms, so before killing him, make sure his arms are dead so they won't self-destruct."
+    },
+    {
+        "name": "Cagnazzo",
+        "dungeon": "4-6",
+        "victory": "Disrupt Cagnazzo's Tsunami with lightning attacks.,Exploit Cagnazzo's weakness to ice attacks.",
+        "attacks": "Attack-Deal physical damage to one target.,Slow-Slow one target.",
+        "resist": "Fire",
+        "vuln": "Ice",
+        "absorb": "Water",
+        "debuffimm": "Silence,Confuse,Instant KO,Sleep,Doom,Petrify,Paralyze",
+        "notes": "Save your lightning attacks for when he prepares to use his Tsunami."
+    },
+    {
+        "name": "Wing Raptor",
+        "dungeon": "5-1",
+        "victory": "Defeat the Wing Raptor before it closes its wings.,Defeat the Wing Raptor without having any attacks countered.",
+        "attacks": "Attack-Deal physical damage to one target.,Wing Gale-Deal heavy damage to one target, proportional to its HP.",
+        "debuffimm": "Petrify",
+        "notes": "Don't attack the Wing Raptor when its wings are closed."
+    },
+    {
+        "name": "Karlabos",
+        "dungeon": "5-2",
+        "victory": "Exploit Karlabos' weakness to lightning attacks.",
+        "attacks": "Attack-Deal physical damage to one target.,Tail Screw-Deal massive damage to one target, proportional to its HP.,Tentacle-Paralyze one target.",
+        "vuln": "Lightning",
+        "debuffimm": "Blind,Instant KO,Poison,Silence,Confuse,Petrify,Paralyze,Sleep,Doom"
+    },
+    {
+        "name": "Siren",
+        "dungeon": "5-3",
+        "victory": "Defeat Siren before she becomes undead.",
+        "debuffimm": "Instant KO,Doom,Silence,Sleep",
+        "notes": "Once Siren becomes undead, she is vulnerable to fire."
+    },
+    {
+        "name": "Magissa and Forza",
+        "dungeon": "5-4",
+        "victory": "Afflict Forza with Sleep.,Afflict Magiss with Silence.",
+        "debuffimm": "Petrify,Paralyze,Instant KO,Confuse,Doom"
+    },
+    {
+        "name": "Ymir",
+        "dungeon": "6-1",
+        "victory": "Defeat Ymir without triggers its counterattack.",
+        "debuffimm": "Sleep,Doom,Petrify,Paralyze,Silence,Poison,Confuse,Blind",
+        "notes": "Don't attack or use lightning when Ymir is in his shell!"
+    },
+    {
+        "name": "Guard Leader",
+        "dungeon": "6-2",
+        "victory": "Defeat the Guard Leader before he uses Charge.",
+        "debuffimm": "Poison,Paralyze"
+    },
+    {
+        "name": "Magitek Armor",
+        "dungeon": "6-3",
+        "victory": "Exploit the Magitek Armor's weakness to lightning attacks.",
+        "vuln": "Lightning",
+        "debuffimm": "Paralyze,Instant KO,Petrify,Doom,Poison"
+    },
+    {
+        "name": "Vargas",
+        "dungeon": "6-4",
+        "victory": "Exploit Ipooh's weakness to fire attacks.,Defeat Vargas without being KO'd.",
+        "debuffimm": "Instant KO,Silence,Poison,Confuse,Paralyze,Petrify,Doom,Sleep"
+    },
+    {
+        "name": "Magitek Armor",
+        "dungeon": "6-5",
+        "victory": "Exploit the Magitek Armor's weakness to lightning attacks.",
+        "vuln": "Lightning",
+        "debuffimm": "Paralyze,Instant KO,Petrify,Doom,Poison"
+    },
+    {
+        "name": "Tunnel Armor",
+        "dungeon": "6-6",
+        "victory": "Exploit the Tunnel Armor's weakness to water attacks.,Exploit the Tunnel Armor's weakness to lightning attacks.",
+        "vuln": "Lightning,Water",
+        "debuffimm": "Confuse,Silence,Poison,Instant KO,Blind,Sleep,Doom,Petrify,Stop,Slow"
+    },
+    {
+        "name": "Guard Scorpion",
+        "dungeon": "7-1",
+        "victory": "Defeat the Guard Scorpion without being KO'd.",
+        "vuln": "Lightning",
+        "debuffimm": "Blind,Instant KO,Silence,Poison,Confuse,Petrify,Paralyze,Sleep,Doom"
+    },
+    {
+        "name": "Air Buster",
+        "dungeon": "7-2",
+        "victory": "Defeat the Air Buster without being KO'd.",
+        "resist": "Fire",
+        "vuln": "Lightning",
+        "debuffimm": "Blind,Paralyze,Sleep,Doom,Instant KO,Petrify,Confuse,Poison,Silence"
+    },
+    {
+        "name": "Sinspawn Ammes",
+        "dungeon": "10-1",
+        "victory": "Defeat the Sinspawn Ammes without being KO'd.",
+        "debuffimm": "Sleep,Poison,Doom,Petrify,Instant KO",
+        "notes": "The boss will summon more Sinscale's if they are all defeated."
+    },
+    {
+        "name": "???",
+        "dungeon": "10-2",
+        "victory": "Defeat ??? before he uses Jump."
+    },
+    {
+        "name": "Sinspawn Echuilles",
+        "dungeon": "10-3",
+        "victory": "Affect Sinspawn Echuilles with Blind.",
+        "debuffimm": "Poison,Sleep,Instant KO",
+        "notes": "Dark Attack can inflict Blind, but the rate is low."
+    }
+]

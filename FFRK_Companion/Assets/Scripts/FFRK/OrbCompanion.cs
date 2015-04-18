@@ -25,7 +25,7 @@ public class OrbCompanion : MonoBehaviour {
 		TitleText.text = strTitle;
 
 		// hard-coded list of orbs, for the moment
-		List<string> listOrbTypes = new List<string>() { "Power", "White", "Black", "Blue", "Summon", "Non", "Fire", "Ice", "Lightning", "Earth", "Wind", "Holy", "Dark" };
+		List<string> listOrbTypes = new List<string>() { "Power", "White", "Black", "Summon", "Non", "Fire", "Ice", "Lightning", "Earth", "Wind", "Holy", "Dark" };
 	
 		// loop through each orb type and create a series to display it
 		for ( int i = 0; i < listOrbTypes.Count; ++i ) {

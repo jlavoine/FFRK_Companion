@@ -13,8 +13,9 @@ public class ArmorEntry : MonoBehaviour {
 	public GameObject DungeonEntry;
 	
 	public void Init( ID_Item i_item ) {
-		string strName = i_item.itemname;
-		int nDef = int.Parse(i_item.maxdef);
+		bool bAll = ItemCompanion.Instance.GetCurrentRealm() == "All";
+		string strName = i_item.itemname + "(" + i_item.realm + ")";
+		int nDef = bAll ? int.Parse(i_item.maxdef) : i_item.GetBestDefense();
 		//Sprite spriteIcon = Resources.Load<Sprite>( i_item.realm + "_" + i_item.itemname );
 		
 		//Icon.sprite = spriteIcon;

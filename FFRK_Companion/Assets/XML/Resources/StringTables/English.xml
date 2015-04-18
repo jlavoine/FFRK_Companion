@@ -12,7 +12,7 @@
 	<String ID="Orbs_Button">Orb Locations</String>
 	<String ID="Orbs_Description">Browse all the orbs in the game, and show the drop locations for each type.</String>
 	
-	<String ID="Boss_Button">Boss Strategies</String>
+	<String ID="Boss_Button">Boss Info</String>
 	<String ID="Boss_Description">Contains the bosses for each dungeon, victory conditions, and their vulnerabilities and resistances.</String>
 	
 	<String ID="Abilities_Button">Ability List</String>
@@ -45,6 +45,7 @@
 	<String ID="RelicDrop">Location: Relic Pull</String>
 	
 	<String ID="ExpInfo">All calculations assume Champion rating.</String>
+	<String ID="BiSInfo">All calculations assume max level ++ equipment with synergy.</String>
 	
 	<!-- Tips and tricks -->
 	<String ID="Tip_1_Title">Tip #1: Use Synergy!</String>
@@ -102,6 +103,14 @@ Check out the Best Equipment section of the app to find which items can be easil
 	<String ID="Wind">Wind</String>
 	<String ID="Holy">Holy</String>
 	<String ID="Dark">Dark</String>
+	<String ID="Water">Water</String>
+	
+	<String ID="VictoryTitle">Victory Conditions</String>
+	<String ID="ElementalTitle">Elements</String>
+	<String ID="StatusTitle">Debuff Immunities</String>
+	<String ID="Vulnerable">Vulnerable</String>
+	<String ID="Resist">Resist</String>
+	<String ID="Absorb">Absorb</String>
 	
 	<!-- Character names -->
 	<String ID="Name_Bard">Bard</String>	
@@ -119,6 +128,7 @@ Check out the Best Equipment section of the app to find which items can be easil
 	<String ID="Name_Tifa">Tifa</String>
 	<String ID="Name_Tidus">Tidus</String>
 	<String ID="Name_Wakka">Wakka</String>
+	<String ID="Name_Aerith">Aerith</String>
 	
 	<String ID="Dungeon_Classic">Classic</String>
 	<String ID="Dungeon_Elite">Elite</String>
@@ -126,6 +136,8 @@ Check out the Best Equipment section of the app to find which items can be easil
 	<String ID="Dungeon_Boss">Boss</String>
 	
 	<String ID="Legend">Legend:</String>
+	<String ID="Damage">Damage</String>
+	<String ID="Multiplier">$NUM$x</String>
 	
 	<!-- Exp screen -->
 	<String ID="Header_Dungeon">Dungeon &amp; Battle</String>

@@ -14,4 +14,8 @@
 	<Constant Name="Color_IX" Type="Color" Value="70,152,159,255"> </Constant>
 	<Constant Name="Color_X" Type="Color" Value="167,186,255,255"> </Constant>
 	<Constant Name="Color_XII" Type="Color" Value="189,188,131,255"> </Constant>
+	
+	<Constant Name="Color_Vulnerable" Type="Color" Value="59,197,77,255"> </Constant>
+	<Constant Name="Color_Resist" Type="Color" Value="222,253,80,255"> </Constant>
+	<Constant Name="Color_Absorb" Type="Color" Value="255,150,161,255"> </Constant>
 </Constants>

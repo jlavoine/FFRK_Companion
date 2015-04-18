@@ -31,6 +31,7 @@ public class ID_Character  {
 	public string lightArmor;
 	public string robe;
 	public string shield;
+	public string abilities;
 
 	public bool CanUse( string i_strType ) {
 		i_strType = i_strType.ToLower();

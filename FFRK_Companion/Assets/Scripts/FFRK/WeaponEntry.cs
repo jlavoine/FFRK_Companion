@@ -14,7 +14,7 @@ public class WeaponEntry : MonoBehaviour {
 
 	public void Init( ID_Character i_char, ID_Item i_item ) {
 		bool bAll = ItemCompanion.Instance.GetCurrentRealm() == "All";
-		string strName = i_item.itemname;
+		string strName = i_item.itemname + "(" + i_item.realm + ")";
 		int nStat = bAll ? int.Parse(i_item.maxatt) : i_item.GetBestAttack();
 		//Sprite spriteIcon = Resources.Load<Sprite>( i_item.realm + "_" + i_item.itemname );
 
@@ -25,11 +25,11 @@ public class WeaponEntry : MonoBehaviour {
 		string strStatKey = "MaxAtt";
 		if ( i_char.character == "BlackMage" || i_char.character == "Rydia" ) {
 			strStatKey = "MaxMag";
-			nStat = string.IsNullOrEmpty(i_item.maxmag) ? 0 : int.Parse(i_item.maxmag);
+			nStat = string.IsNullOrEmpty(i_item.maxmag) ? 0 : ( bAll ? int.Parse(i_item.maxmag) : i_item.GetBestMagic() );
 		}
-		else if ( i_char.character == "WhiteMage" ) {
+		else if ( i_char.character == "WhiteMage" || i_char.character == "Aerith" ) {
 			strStatKey = "MaxMnd";
-			nStat = string.IsNullOrEmpty(i_item.maxmnd) ? 0 : int.Parse(i_item.maxmnd);
+			nStat = string.IsNullOrEmpty(i_item.maxmnd) ? 0 : ( bAll ? int.Parse(i_item.maxmnd) : i_item.GetBestMind() );
 		}
 
 		string strMax = StringTableManager.Get( strStatKey );

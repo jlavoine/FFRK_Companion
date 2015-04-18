@@ -26,7 +26,7 @@ public class OrbInfo : MonoBehaviour {
 	///////////////////////////////////////////
 	/// Start()
 	///////////////////////////////////////////
-	void Start () {
+	void Awake () {
 		// listen for messages
 		Messenger.AddListener<string, int>( "OrbSelected", OnOrbSelected );	
 	}

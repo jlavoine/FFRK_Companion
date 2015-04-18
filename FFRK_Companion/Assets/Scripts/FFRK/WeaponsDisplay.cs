@@ -34,11 +34,11 @@ public class WeaponsDisplay : ItemDisplay {
 			int nAttackX = bAll ? int.Parse( x.maxatt ) : x.GetBestAttack();
 			int nAttackY = bAll ? int.Parse( y.maxatt ) : y.GetBestAttack();
 
-			int nMagX = string.IsNullOrEmpty(x.maxmag) ? 0 : int.Parse( x.maxmag );
-			int nMagY = string.IsNullOrEmpty(y.maxmag) ? 0 : int.Parse( y.maxmag );
+			int nMagX = string.IsNullOrEmpty(x.maxmag) ? 0 : ( bAll ? int.Parse( x.maxmag ) : x.GetBestMagic() );
+			int nMagY = string.IsNullOrEmpty(y.maxmag) ? 0 : ( bAll ? int.Parse( y.maxmag ) : y.GetBestMagic() );
 
-			int nMndX = string.IsNullOrEmpty(x.maxmnd) ? 0 : int.Parse( x.maxmnd );
-			int nMndY = string.IsNullOrEmpty(y.maxmnd) ? 0 : int.Parse( y.maxmnd );
+			int nMndX = string.IsNullOrEmpty(x.maxmnd) ? 0 : ( bAll ? int.Parse( x.maxmnd ) : x.GetBestMind() );
+			int nMndY = string.IsNullOrEmpty(y.maxmnd) ? 0 : ( bAll ? int.Parse( y.maxmnd ) : y.GetBestMind() );
 
 			if ( i_character.character == "BlackMage" || i_character.character == "Rydia" ) {
 				// if it's a BLM or rydia, we need to sort by magic

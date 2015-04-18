@@ -7,7 +7,8 @@
         "bracer": "Yes",
         "hat": "Yes",
         "lightArmor": "Yes",
-        "robe": "Yes"
+        "robe": "Yes",
+        "abilities": "Support_4,Bard_4"
     },
     {
         "character": "BlackMage",
@@ -16,7 +17,8 @@
         "rod": "Yes",
         "bracer": "Yes",
         "hat": "Yes",
-        "robe": "Yes"
+        "robe": "Yes",
+        "abilities": "Black Magic_4"
     },
     {
         "character": "Ranger",
@@ -25,7 +27,8 @@
         "dagger": "Yes",
         "bracer": "Yes",
         "hat": "Yes",
-        "lightArmor": "Yes"
+        "lightArmor": "Yes",
+        "abilities": "Combat_3,Support_3,Celerity_3"
     },
     {
         "character": "Tyro",
@@ -51,7 +54,8 @@
         "helm": "Yes",
         "lightArmor": "Yes",
         "robe": "Yes",
-        "shield": "Yes"
+        "shield": "Yes",
+        "abilities": "Combat_5,Support_5,Spellbade_5,Black Magic_5,White Magic_5,Summoning_5,Monk_5,Celerity_5,Dragoon_5,Knight_5,Bard_5,Thief_5,Samurai_5,Dancer_5,Ninja_5"
     },
     {
         "character": "Warrior",
@@ -65,7 +69,8 @@
         "hat": "Yes",
         "helm": "Yes",
         "lightArmor": "Yes",
-        "shield": "Yes"
+        "shield": "Yes",
+        "abilities": "Combat_4"
     },
     {
         "character": "WhiteMage",
@@ -74,7 +79,8 @@
         "staff": "Yes",
         "bracer": "Yes",
         "hat": "Yes",
-        "robe": "Yes"
+        "robe": "Yes",
+        "abilities": "White Magic_4"
     },
     {
         "character": "CecilDK",
@@ -85,7 +91,8 @@
         "hat": "Yes",
         "helm": "Yes",
         "lightArmor": "Yes",
-        "shield": "Yes"
+        "shield": "Yes",
+        "abilities": "Combat_5"
     },
     {
         "character": "CecilPaladin",
@@ -97,7 +104,8 @@
         "hat": "Yes",
         "helm": "Yes",
         "lightArmor": "Yes",
-        "shield": "Yes"
+        "shield": "Yes",
+        "abilities": "Combat_5,White Magic_2,Knight_5"
     },
     {
         "character": "Kain",
@@ -110,7 +118,8 @@
         "hat": "Yes",
         "helm": "Yes",
         "lightArmor": "Yes",
-        "shield": "Yes"
+        "shield": "Yes",
+        "abilities": "Combat_5,Dragoon_5"
     },
     {
         "character": "Rydia",
@@ -120,7 +129,8 @@
         "whip": "Yes",
         "bracer": "Yes",
         "hat": "Yes",
-        "robe": "Yes"
+        "robe": "Yes",
+        "abilities": "Black Magic_3,White Magic_2,Summoning_5"
     },
     {
         "character": "Cloud",
@@ -133,7 +143,8 @@
         "hat": "Yes",
         "helm": "Yes",
         "lightArmor": "Yes",
-        "shield": "Yes"
+        "shield": "Yes",
+        "abilities": "Combat_5,Spellblade_4,Celerity_3,Samurai_3"
     },
     {
         "character": "Sephiroth",
@@ -143,7 +154,8 @@
         "armor": "Yes",
         "bracer": "Yes",
         "hat": "Yes",
-        "lightArmor": "Yes"
+        "lightArmor": "Yes",
+        "abilities": "Combat_5,Samurai_5,Black Magic_3"
     },
     {
         "character": "Tifa",
@@ -153,7 +165,8 @@
         "bracer": "Yes",
         "hat": "Yes",
         "lightArmor": "Yes",
-        "robe": "Yes"
+        "robe": "Yes",
+        "abilities": "Combat_5,Monk_5,Celerity_3"
     },
     {
         "character": "Tidus",
@@ -165,7 +178,8 @@
         "hat": "Yes",
         "helm": "Yes",
         "lightArmor": "Yes",
-        "shield": "Yes"
+        "shield": "Yes",
+        "abilities": "Combat_4,Support_3,Celerity_5"
     },
     {
         "character": "Wakka",
@@ -178,6 +192,18 @@
         "bracer": "Yes",
         "hat": "Yes",
         "helm": "Yes",
-        "lightArmor": "Yes"
+        "lightArmor": "Yes",
+        "abilities": "Combat_3,Support_5,Celerity_3"
+    },
+    {
+        "character": "Aerith",
+        "realm": "VII",
+        "dagger": "Yes",
+        "rod": "Yes",
+        "staff": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "robe": "Yes",
+        "abilities": "Support_2,Black Magic_3,White Magic_5,Summoning_2"
     }
 ]

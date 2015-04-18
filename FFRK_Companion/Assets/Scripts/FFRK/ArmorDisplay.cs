@@ -23,11 +23,13 @@ public class ArmorDisplay : ItemDisplay {
 	/// type of display.
 	////////////////////////////////
 	protected override List<ID_Item> SortItems( List<ID_Item> i_listBest, ID_Character i_character ) {
+		bool bAll = ItemCompanion.Instance.GetCurrentRealm() == "All";
+
 		// sort simply by comparing defense of the items
 		i_listBest.Sort(delegate(ID_Item x, ID_Item y)
 		{
-			int nDefX = int.Parse( x.maxdef );
-			int nDefY = int.Parse( y.maxdef );
+			int nDefX = bAll ? int.Parse( x.maxdef ) : x.GetBestDefense();
+			int nDefY = bAll ? int.Parse( y.maxdef ) : y.GetBestDefense();
 			
 			if ( nDefX == nDefY ) return 0;
 			else if (nDefX < nDefY ) return 1;
