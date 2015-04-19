@@ -140,7 +140,7 @@ Check out the Best Equipment section of the app to find which items can be easil
 	<String ID="Multiplier">$NUM$x</String>
 	
 	<!-- Exp screen -->
-	<String ID="Header_Dungeon">Dungeon &amp; Battle</String>
+	<String ID="Header_Dungeon">Battle</String>
 	<String ID="Header_Battle">Battle</String>
 	<String ID="Header_Stamina">Stamina</String>
 	<String ID="Header_EXP">EXP/Stamina</String>
