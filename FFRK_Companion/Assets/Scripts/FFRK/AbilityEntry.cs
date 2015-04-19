@@ -34,7 +34,7 @@ public class AbilityEntry : MonoBehaviour {
 			textButton.text = strOrb;
 
 			TriggerOrbSelect scriptTrigger = goEntry.AddComponent<TriggerOrbSelect>();
-			scriptTrigger.Init( strOrbType, nOrbRank );
+			scriptTrigger.Init( arrayData[0], nOrbRank );
 		}
 	}
 }
