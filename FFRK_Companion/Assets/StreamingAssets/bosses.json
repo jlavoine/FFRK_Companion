@@ -105,13 +105,13 @@
     {
         "name": "Magissa and Forza",
         "dungeon": "5-4",
-        "victory": "Afflict Forza with Sleep.,Afflict Magiss with Silence.",
+        "victory": "Afflict Forza with Sleep.,Afflict Magissa with Silence.",
         "debuffimm": "Petrify,Paralyze,Instant KO,Confuse,Doom"
     },
     {
         "name": "Ymir",
         "dungeon": "6-1",
-        "victory": "Defeat Ymir without triggers its counterattack.",
+        "victory": "Defeat Ymir without triggering its counterattack.",
         "debuffimm": "Sleep,Doom,Petrify,Paralyze,Silence,Poison,Confuse,Blind",
         "notes": "Don't attack or use lightning when Ymir is in his shell!"
     },
@@ -168,7 +168,7 @@
         "dungeon": "10-1",
         "victory": "Defeat the Sinspawn Ammes without being KO'd.",
         "debuffimm": "Sleep,Poison,Doom,Petrify,Instant KO",
-        "notes": "The boss will summon more Sinscale's if they are all defeated."
+        "notes": "The boss will summon more Sinscales if they are all defeated."
     },
     {
         "name": "???",

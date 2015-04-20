@@ -56,7 +56,7 @@ If you are having trouble with a dungeon, find some 1-star items with synergy an
 See the synergy section of the app for specific information about synergy effects.</String>
 	
 	<String ID="Tip_2_Title">Tip #2: Restarting a Battle Round</String>
-	<String ID="Tip_2_Body">If something bad happens within a battle round and you’d rather start that round over instead of continue, use this trick!  Minimize the app and then force quit it.  Re-open the app and log back in, and you’ll be asked to resume the battle.  After accepting, you will be placed at the start of the round you were on.  You won’t lose items from previous rounds.  You can use this trick as much as you want, but keep in mind that as soon as a round ends, you cannot restart it.</String>
+	<String ID="Tip_2_Body">If something bad happens within a battle round and you’d rather start that round over instead of continue, use this trick: minimize the app and then force quit it.  Re-open the app and log back in, and you’ll be asked to resume the battle.  After accepting, you will be placed at the start of the round you were on.  You won’t lose items from previous rounds.  You can use this trick as much as you want, but keep in mind that as soon as a round ends, you cannot restart it.</String>
 	
 	<String ID="Tip_3_Title">Tip #3: Farming Boss Drops</String>
 	<String ID="Tip_3_Body">Some bosses in the game have great items that you really want.  But once you beat a boss, the dungeon is over -- whether that boss gave you the drop you want or not.  To minimize the amount of stamina you spend to farm an item, once the boss round starts, minimize the app and disconnect from the internet (shut wifi off).

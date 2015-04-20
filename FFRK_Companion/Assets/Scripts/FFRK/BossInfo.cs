@@ -123,6 +123,8 @@ public class BossInfo : MonoBehaviour {
 				image.color = colorResist;
 			else if ( listAbsorb.Contains( strElem ) )
 				image.color = colorAbsorb;
+			else
+				image.color = Color.white;	// default color with no different effect
 		}
 	}
 }

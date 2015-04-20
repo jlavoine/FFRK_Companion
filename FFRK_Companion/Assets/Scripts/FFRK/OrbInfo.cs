@@ -54,8 +54,11 @@ public class OrbInfo : MonoBehaviour {
 		// name the orb properly
 		string strType = StringTableManager.Get( i_strOrbKey );
 		string strPrefix = StringTableManager.Get( "Orb_" + i_nIndex );
+		if ( i_nIndex == 3 )
+			strPrefix = "";
+
 		string strTitle = strPrefix + " " + strType;
-		Name.text = strTitle;
+		Name.text = strTitle + " Orb";
 
 		// fill in the dungeon area
 		ShowDungeons( strOrb );

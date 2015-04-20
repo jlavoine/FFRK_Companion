@@ -60,7 +60,7 @@
         "type": "Black Magic",
         "school": "Black Magic",
         "desc": "Deal light water damage to one target.",
-        "orbs": "Fire_1_2,Ice_1_2,Black_1_2\n"
+        "orbs": "Fire_1_2,Ice_1_2,Black_1_2"
     },
     {
         "name": "Watera",
@@ -78,7 +78,7 @@
         "type": "Black Magic",
         "school": "Black Magic",
         "desc": "Put one target to sleep.",
-        "orbs": "Ice_1_2,Black_1_2,Dark_1_2\n"
+        "orbs": "Ice_1_2,Black_1_2,Dark_1_2"
     },
     {
         "name": "Poison",
@@ -198,7 +198,7 @@
         "orbs": "White_1_3,Dark_1_3"
     },
     {
-        "name": "Protect\n",
+        "name": "Protect",
         "rank": 1,
         "multiplier": "0",
         "type": "White Magic",
@@ -213,7 +213,7 @@
         "type": "White Magic",
         "school": "White Magic",
         "desc": "Give one target Shell, doubling Resistance.",
-        "orbs": "Earth_1_2,White_1_2,Holy_1_2\n"
+        "orbs": "Earth_1_2,White_1_2,Holy_1_2"
     },
     {
         "name": "Silence",
@@ -330,7 +330,7 @@
         "type": "Physical",
         "school": "Combat",
         "desc": "Damage and reduce the Defense of one target.",
-        "orbs": "Non_3_3,Power_3_5,Earth_3_3\n"
+        "orbs": "Non_3_3,Power_3_5,Earth_3_3"
     },
     {
         "name": "Power Break",
@@ -339,7 +339,7 @@
         "type": "Physical",
         "school": "Combat",
         "desc": "Damage and reduce the Attack of one target.",
-        "orbs": "Non_3_3,Lightning_3_3,Power_3_5\n"
+        "orbs": "Non_3_3,Lightning_3_3,Power_3_5"
     },
     {
         "name": "Mental Break",
