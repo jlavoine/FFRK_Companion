@@ -3,6 +3,7 @@
 	<Constant Name="EliteColor" Type="Color" Value="162,147,244,255"> </Constant>
 	<Constant Name="DailyColor" Type="Color" Value="120,238,255,255"> </Constant>
 	
+	<Constant Name="Color_All" Type="Color" Value="255,255,255,255"> </Constant>
 	<Constant Name="Color_Core" Type="Color" Value="255,255,255,255"> </Constant>
 	<Constant Name="Color_I" Type="Color" Value="206,206,206,255"> </Constant>
 	<Constant Name="Color_II" Type="Color" Value="248,175,175,255"> </Constant>

@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
 
@@ -37,6 +38,9 @@ public class ChooseRealmPanel : MonoBehaviour {
 			ChooseRealmButton button = goButton.GetComponent<ChooseRealmButton>();
 			button.Init( strRealm );
 
+			// change color based on realm
+			Color color = Constants.GetConstant<Color>( "Color_" + strRealm );
+			goButton.GetComponent<Image>().color = color;
 		}
 		
 		// listen for messages

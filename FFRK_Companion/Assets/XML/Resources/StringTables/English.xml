@@ -1,9 +1,9 @@
 <English>
 	<String ID="NUMBER_DELIMETER">,</String>	
 	
-	<String ID="Title_App">Record Keeper Companion</String>	
-	<String ID="Title_Item">Item Companion</String>	
-	<String ID="Title_Orb">Orb Companion</String>
+	<String ID="Title_App">Record Keeper Guide</String>	
+	<String ID="Title_Item">Item Guide</String>	
+	<String ID="Title_Orb">Orb Guide</String>
 	
 	<!-- Menu Options -->	
 	<String ID="BiS_Button">Best Equipment</String>
@@ -43,6 +43,9 @@
 	<String ID="OrbLocation">Location: </String>
 	
 	<String ID="RelicDrop">Location: Relic Pull</String>
+	
+	<String ID="Party_Solo">Solo</String>
+	<String ID="Party_Full">Full Party</String>
 	
 	<String ID="ExpInfo">All calculations assume Champion rating.</String>
 	<String ID="BiSInfo">All calculations assume max level ++ equipment with synergy.</String>

@@ -15,9 +15,9 @@ public class ID_Battle  {
 	/// gained per stamina for the
 	/// incoming character.
 	////////////////////////////////
-	public int GetExpPerStamina( ID_Character i_char ) {
+	public int GetExpPerStamina( ID_Character i_char, int i_nPartyMembers ) {
 		int nStam = int.Parse(stamina);
-		int nEXP = int.Parse(exp) / 5; // divide by 5 because that's how many chars are in battle
+		int nEXP = int.Parse(exp) / i_nPartyMembers;
 		string strRealm = GetRealm();
 
 		// characters with synergy get 50% more xp...sweet!

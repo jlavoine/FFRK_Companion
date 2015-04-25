@@ -1,12 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\XML\Resources\Constants\GameConstants.xml">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FFRK\LoadScene.cs">
     <Files>
-      <File FileName="Assets\Scripts\FFRK\WeaponEntry.cs" Line="30" Column="39" />
-      <File FileName="Assets\Scripts\FFRK\WeaponsDisplay.cs" Line="49" Column="45" />
-      <File FileName="Assets\Scripts\FFRK\ImmData\ID_Character.cs" Line="35" Column="27" />
-      <File FileName="Assets\XML\Resources\StringTables\English.xml" Line="136" Column="31" />
-      <File FileName="Assets\XML\Resources\Constants\GameConstants.xml" Line="7" Column="52" />
+      <File FileName="Assets\Scripts\FFRK\EXP\ExpEntry.cs" Line="24" Column="3" />
+      <File FileName="Assets\Scripts\FFRK\ImmData\ID_Battle.cs" Line="20" Column="42" />
+      <File FileName="Assets\Scripts\FFRK\EXP\ExpCompanion.cs" Line="54" Column="21" />
+      <File FileName="Assets\Scripts\Library\Misc\TakeScreenshot.cs" Line="29" Column="1" />
+      <File FileName="Assets\Scripts\Library\Misc\Persist.cs" Line="10" Column="35" />
+      <File FileName="Assets\Scripts\FFRK\LoadScene.cs" Line="11" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

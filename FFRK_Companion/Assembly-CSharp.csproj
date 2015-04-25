@@ -455,6 +455,7 @@
      <Compile Include="Assets\Scripts\Library\Misc\LibraryEnums.cs" />
      <Compile Include="Assets\Scripts\Library\Misc\ListUtils.cs" />
      <Compile Include="Assets\Scripts\Library\Misc\ObjectUtils.cs" />
+     <Compile Include="Assets\Scripts\Library\Misc\Persist.cs" />
      <Compile Include="Assets\Scripts\Library\Misc\Singleton.cs" />
      <Compile Include="Assets\Scripts\Library\Misc\SpriteUtils.cs" />
      <Compile Include="Assets\Scripts\Library\Misc\TakeScreenshot.cs" />

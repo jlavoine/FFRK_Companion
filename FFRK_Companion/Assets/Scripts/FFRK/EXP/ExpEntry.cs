@@ -20,9 +20,12 @@ public class ExpEntry : MonoBehaviour {
 	public void Init( ID_Battle i_battle, ID_Character i_char ) {
 		// create the dungeon/battle ui
 		Dungeon.Init( i_battle );
+	
+		// pretty hacky at the moment to find out if full party or solo
+		int nMembers = ExpCompanion.Instance.FullPartyToggle.isOn ? 5 : 1;
 
 		// display the amount of xp the incoming character will get out of this battle
-		int xp = i_battle.GetExpPerStamina(i_char);
+		int xp = i_battle.GetExpPerStamina( i_char, nMembers );
 		ExpPerStamina.text = DrsStringUtils.FormatNumber( xp );
 	}
 }

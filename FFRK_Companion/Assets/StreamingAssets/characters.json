@@ -13,6 +13,7 @@
     {
         "character": "BlackMage",
         "realm": "Core",
+		"attacktype": "Mag",
         "dagger": "Yes",
         "rod": "Yes",
         "bracer": "Yes",

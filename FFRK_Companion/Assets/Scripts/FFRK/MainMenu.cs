@@ -21,6 +21,11 @@ public class MainMenu : MonoBehaviour {
 	/// Start()
 	///////////////////////////////////////////
 	void Start () {
+		// set resolution if on windows
+#if UNITY_STANDALONE_WIN
+		Screen.SetResolution( 1136, 640, false );
+#endif
+
 		ScrollRect srect = GetComponent<ScrollRect>();
 		GameObject goContent = srect.content.gameObject;
 
