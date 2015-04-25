@@ -18,6 +18,15 @@
         "orbs": "Fire_2_8,Black_2_5"
     },
     {
+        "name": "Firaga",
+        "rank": 3,
+        "multiplier": "3.2",
+        "type": "Black Magic",
+        "school": "Black Magic",
+        "desc": "Deal heavy fire damage to one target.",
+        "orbs": "Black_3_5,Fire_3_8"
+    },
+    {
         "name": "Blizzard",
         "rank": 1,
         "multiplier": "1.0",
@@ -27,13 +36,22 @@
         "orbs": "Ice_1_3,Black_1_3"
     },
     {
-        "name": "Blizaara",
+        "name": "Blizzara",
         "rank": 2,
         "multiplier": "1.9",
         "type": "Black Magic",
         "school": "Black Magic",
         "desc": "Deal ice magic damage to one target.",
         "orbs": "Ice_2_8,Black_2_5"
+    },
+    {
+        "name": "Bligaga",
+        "rank": 3,
+        "multiplier": "3.2",
+        "type": "Black Magic",
+        "school": "Black Magic",
+        "desc": "Deal heavy ice magic damage to one target.",
+        "orbs": "Ice_3_8,Black_3_5"
     },
     {
         "name": "Thunder",
@@ -52,6 +70,24 @@
         "school": "Black Magic",
         "desc": "Deal lightning magic damage to one target.",
         "orbs": "Lightning_2_8,Black_2_5"
+    },
+    {
+        "name": "Thundaga",
+        "rank": 3,
+        "multiplier": "3.2",
+        "type": "Black Magic",
+        "school": "Black Magic",
+        "desc": "Deal heavy lightning magic damage to one target.",
+        "orbs": "Black_3_5,Lightning_3_8"
+    },
+    {
+        "name": "Thundaja",
+        "rank": 4,
+        "multiplier": "?",
+        "type": "Black Magic",
+        "school": "Black Magic",
+        "desc": "Deal massive lightning magic damage to one target.",
+        "orbs": "Black_4_5,Lightning_4_8"
     },
     {
         "name": "Water",
@@ -144,6 +180,60 @@
         "orbs": "Black_4_5,Earth_4_3,Dark_4_3"
     },
     {
+        "name": "Bio",
+        "rank": 2,
+        "multiplier": "1.8",
+        "type": "Black Magic",
+        "school": "Black Magic",
+        "desc": "Deal light poison damage to one target.",
+        "orbs": "Black_2_5,Dark_2_8"
+    },
+    {
+        "name": "Biora",
+        "rank": 3,
+        "multiplier": "3.2",
+        "type": "Black Magic",
+        "school": "Black Magic",
+        "desc": "Deal poison damage to one target.",
+        "orbs": "Black_3_5,Dark_3_8"
+    },
+    {
+        "name": "Dark",
+        "rank": 3,
+        "multiplier": "1.8",
+        "type": "Black Magic",
+        "school": "Black Magic",
+        "desc": "Deal dark damage to one target.",
+        "orbs": "Black_3_5,Non_3_3,Dark_3_3"
+    },
+    {
+        "name": "Death",
+        "rank": 4,
+        "multiplier": "0",
+        "type": "Black Magic",
+        "school": "Black Magic",
+        "desc": "KO one target.",
+        "orbs": "Black_4_5,Ice_4_3,Dark_4_3"
+    },
+    {
+        "name": "Flare",
+        "rank": 5,
+        "multiplier": "?",
+        "type": "Black Magic",
+        "school": "Black Magic",
+        "desc": "Deal heavy non-elemental magic damage to one target.",
+        "orbs": "Black_5_10,Non_5_6,Fire_5_6"
+    },
+    {
+        "name": "Drain",
+        "rank": 3,
+        "multiplier": "?",
+        "type": "Black Magic",
+        "school": "Black Magic",
+        "desc": "Steal HP from one target.",
+        "orbs": "Black_3_5,Dark_3_8"
+    },
+    {
         "name": "Cure",
         "rank": 1,
         "multiplier": "1.0",
@@ -169,6 +259,15 @@
         "school": "White Magic",
         "desc": "Restore a large amount of HP to one target.",
         "orbs": "Holy_3_3,Wind_3_3,White_3_5"
+    },
+    {
+        "name": "Curaja",
+        "rank": 4,
+        "multiplier": "?",
+        "type": "White Magic",
+        "school": "White Magic",
+        "desc": "Restore a very large amount of HP to one target.",
+        "orbs": "Holy_4_3,White_4_5,Wind_4_3"
     },
     {
         "name": "Vox",
@@ -205,6 +304,15 @@
         "school": "White Magic",
         "desc": "Give one target Protect, doubling Defense.",
         "orbs": "Earth_1_3,White_1_3"
+    },
+    {
+        "name": "Protectga",
+        "rank": 4,
+        "multiplier": "0",
+        "type": "White Magic",
+        "school": "White Magic",
+        "desc": "Give all targets Protect, doubling defense.",
+        "orbs": "White_4_5,Earth_4_8"
     },
     {
         "name": "Shell",
@@ -268,6 +376,69 @@
         "school": "White Magic",
         "desc": "Revive one KO'd target.",
         "orbs": "Holy_4_8,White_4_5"
+    },
+    {
+        "name": "Silencga",
+        "rank": 3,
+        "multiplier": "0",
+        "type": "White Magic",
+        "school": "White Magic",
+        "desc": "Silence one target with a high chance of success.",
+        "orbs": "White_3_5,Ice_3_8"
+    },
+    {
+        "name": "Slowga",
+        "rank": 4,
+        "multiplier": "0",
+        "type": "White Magic",
+        "school": "White Magic",
+        "desc": "Slow one target with a high chance of success.",
+        "orbs": "White_4_5,Wind_4_8"
+    },
+    {
+        "name": "Esuna",
+        "rank": 3,
+        "multiplier": "0",
+        "type": "White Magic",
+        "school": "White Magic",
+        "desc": "Remove all debuffs from one target.",
+        "orbs": "White_3_5,Wind_3_3,Holy_3_3"
+    },
+    {
+        "name": "Holy",
+        "rank": 5,
+        "multiplier": "?",
+        "type": "White Magic",
+        "school": "White Magic",
+        "desc": "Deal heavy holy damage to one target.",
+        "orbs": "White_5_10,Ice_5_6,Holy_5_6"
+    },
+    {
+        "name": "Hold",
+        "rank": 2,
+        "multiplier": "0",
+        "type": "White Magic",
+        "school": "White Magic",
+        "desc": "Paralyze one target.",
+        "orbs": "White_2_5,Earth_2_3,Holy_2_3"
+    },
+    {
+        "name": "Dia",
+        "rank": 2,
+        "multiplier": "1",
+        "type": "White Magic",
+        "school": "White Magic",
+        "desc": "Deal light holy damage to one target.",
+        "orbs": "White_2_5,Wind_2_3,Holy_2_3"
+    },
+    {
+        "name": "Reflect",
+        "rank": 3,
+        "multiplier": "0",
+        "type": "White Magic",
+        "school": "White Magic",
+        "desc": "Give one target Reflect, bouncing single target spells at the opposing party.",
+        "orbs": "White_3_5,Holy_3_8"
     },
     {
         "name": "Blade Bash",
@@ -441,6 +612,132 @@
         "orbs": "Power_3_5,Wind_3_8"
     },
     {
+        "name": "Entrust",
+        "rank": 5,
+        "multiplier": "0",
+        "type": "Physical",
+        "school": "Support",
+        "desc": "Transfer the user's Soul Break gauge to an ally.",
+        "orbs": "Power_5_10,White_5_6,Black_5_6"
+    },
+    {
+        "name": "Cry",
+        "rank": 2,
+        "multiplier": "?",
+        "type": "Physical",
+        "school": "Support",
+        "desc": "Confuse one target.",
+        "orbs": "White_2_5,Non_2_3,Dark_2_3"
+    },
+    {
+        "name": "Silence Buster",
+        "rank": 3,
+        "multiplier": "?",
+        "type": "Physical",
+        "school": "Support",
+        "desc": "Damage and have a moderate chance to Silence one target.",
+        "orbs": "Power_3_5,Ice_3_8"
+    },
+    {
+        "name": "Dark Buster",
+        "rank": 3,
+        "multiplier": "?",
+        "type": "Physical",
+        "school": "Support",
+        "desc": "Damage and have a moderate chance to Blind one target.",
+        "orbs": "Power_3_5,Non_3_8"
+    },
+    {
+        "name": "Venom Buster",
+        "rank": 3,
+        "multiplier": "?",
+        "type": "Physical",
+        "school": "Support",
+        "desc": "Damage and have a moderate chance to Poison one target.",
+        "orbs": "Power_3_5,Non_3_3,Dark_3_3"
+    },
+    {
+        "name": "Sleep Buster",
+        "rank": 3,
+        "multiplier": "?",
+        "type": "Physical",
+        "school": "Support",
+        "desc": "Damage and have a moderate chance to put one target to Sleep.",
+        "orbs": "Power_3_5,Ice_3_3,Dark_3_3"
+    },
+    {
+        "name": "Mental Breakdown",
+        "rank": 4,
+        "multiplier": "?",
+        "type": "Physical",
+        "school": "Support",
+        "desc": "Damage and greatly reduce the Resistance of one target.",
+        "orbs": "Power_4_5,Non_4_3,Ice_4_3"
+    },
+    {
+        "name": "Magic Breakdown",
+        "rank": 4,
+        "multiplier": "?",
+        "type": "Physical",
+        "school": "Support",
+        "desc": "Damage and greatly reduce the Magic of one target.",
+        "orbs": "Power_4_5,Non_4_3,Dark_4_3"
+    },
+    {
+        "name": "Shadowbind",
+        "rank": 4,
+        "multiplier": "?",
+        "type": "Physical",
+        "school": "Celerity",
+        "desc": "Damage and have a moderate chance to Stop one target.",
+        "orbs": "Power_4_5,Non_4_8"
+    },
+    {
+        "name": "Wind Slash",
+        "rank": 2,
+        "multiplier": "?",
+        "type": "Physical",
+        "school": "Celerity",
+        "desc": "Deal light physical wind damage to one target.",
+        "orbs": "Power_2_5,Wind_2_8"
+    },
+    {
+        "name": "Leg Shot",
+        "rank": 3,
+        "multiplier": "?",
+        "type": "Physical",
+        "school": "Celerity",
+        "desc": "Damage and Slow one target.",
+        "orbs": "Power_3_5,Earth_3_8"
+    },
+    {
+        "name": "Quick Hit",
+        "rank": 5,
+        "multiplier": "?",
+        "type": "Physical",
+        "school": "Celerity",
+        "desc": "Instantly attack one target.",
+        "orbs": "Power_5_10,Wind_5_15"
+    },
+    {
+        "name": "Barrage",
+        "rank": 5,
+        "multiplier": "2.8",
+        "type": "Physical",
+        "school": "Combat",
+        "desc": "Hit four random targets with 70% of the damage of a standard attack.",
+        "orbs": "Power_5_10,Earth_5_6,Wind_5_6"
+    },
+    {
+        "name": "Cripple",
+        "rank": 3,
+        "multiplier": "0",
+        "type": "Physical",
+        "school": "Combat",
+        "desc": "Remove 25% of the target's current HP.",
+        "orbs": "Power_3_5,Fire_3_3,Earth_3_3"
+    },
+    {
         "name": "Goblin",
         "rank": 1,
         "multiplier": "?",
@@ -531,6 +828,15 @@
         "orbs": "Fire_2_3,Black_2_3,Power_2_5"
     },
     {
+        "name": "Fira Strike",
+        "rank": 3,
+        "multiplier": "?",
+        "type": "Other",
+        "school": "Spellblade",
+        "desc": "Deal physical fire damage to one target.",
+        "orbs": "Power_3_5,Black_3_3,Fire_3_3"
+    },
+    {
         "name": "Blizzard Strike",
         "rank": 2,
         "multiplier": "1.5",
@@ -538,6 +844,15 @@
         "school": "Spellblade",
         "desc": "Deal light physical ice damage to one target.",
         "orbs": "Ice_2_5,Black_2_3,Ice_2_3"
+    },
+    {
+        "name": "Blizzara Strike",
+        "rank": 3,
+        "multiplier": "?",
+        "type": "Other",
+        "school": "Spellblade",
+        "desc": "Deal physical ice damage to one target.",
+        "orbs": "Power_3_5,Black_3_3,Ice_3_3"
     },
     {
         "name": "Thunder Strike",
@@ -583,5 +898,41 @@
         "school": "Knight",
         "desc": "Grant Protect to user.",
         "orbs": "Earth_2_8,Power_2_5"
+    },
+    {
+        "name": "Flare Strike",
+        "rank": 5,
+        "multiplier": "?",
+        "type": "Other",
+        "school": "Spellblade",
+        "desc": "Deal heavy physical non-elemental damage to one target.",
+        "orbs": "Power_5_10,Non_5_6,Fire_5_6"
+    },
+    {
+        "name": "Aero Strike",
+        "rank": 2,
+        "multiplier": "1.5",
+        "type": "Other",
+        "school": "Spellblade",
+        "desc": "Deal light physical wind damage to one target.",
+        "orbs": "Power_2_5,Wind_2_8"
+    },
+    {
+        "name": "Retaliate",
+        "rank": 2,
+        "multiplier": "1",
+        "type": "Other",
+        "school": "Samurai",
+        "desc": "Automatically counter physical attacks received for the duration of the ability.",
+        "orbs": "Power_2_5,Non_2_3,Earth_2_3"
+    },
+    {
+        "name": "Shuriken",
+        "rank": 2,
+        "multiplier": "1.4",
+        "type": "Other",
+        "school": "Ninja",
+        "desc": "Deal ranged damage to one target.",
+        "orbs": "Power_2_5,Lightning_2_3,Wind_2_3"
     }
 ]

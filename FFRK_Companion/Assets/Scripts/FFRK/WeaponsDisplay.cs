@@ -40,13 +40,13 @@ public class WeaponsDisplay : ItemDisplay {
 			int nMndX = string.IsNullOrEmpty(x.maxmnd) ? 0 : ( bAll ? int.Parse( x.maxmnd ) : x.GetBestMind() );
 			int nMndY = string.IsNullOrEmpty(y.maxmnd) ? 0 : ( bAll ? int.Parse( y.maxmnd ) : y.GetBestMind() );
 
-			if ( i_character.character == "BlackMage" || i_character.character == "Rydia" ) {
+			if ( i_character.attacktype == "Mag" ) {
 				// if it's a BLM or rydia, we need to sort by magic
 				if ( nMagX == nMagY ) return 0;
 				else if (nMagX < nMagY ) return 1;
 				else return -1;
 			}
-			else if ( i_character.character == "WhiteMage" ) {
+			else if ( i_character.attacktype == "Mnd" ) {
 				// if it's the WHM, sort by mnd
 				if ( nMndX == nMndY ) return 0;
 				else if (nMndX < nMndY ) return 1;

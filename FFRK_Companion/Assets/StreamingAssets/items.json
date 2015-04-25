@@ -222,6 +222,7 @@
         "maxres": 18,
         "eva": 99,
         "maxeva": 99,
+        "location": "2-2_Boss,6-10_Boss",
         "loccopy": "6-4 Mastery"
     },
     {
@@ -490,7 +491,8 @@
         "mnd": 6,
         "maxmnd": 12,
         "eva": 96,
-        "maxeva": 96
+        "maxeva": 96,
+        "location": "1-1_Boss"
     },
     {
         "itemname": "Beret",
@@ -590,7 +592,8 @@
         "maxres": 28,
         "eva": 96,
         "maxeva": 96,
-        "notes": "Adds minor ice resistance."
+        "notes": "Adds minor ice resistance.",
+        "location": "4-10_Boss,6-11_Boss"
     },
     {
         "itemname": "Giant's Helm",
@@ -605,7 +608,8 @@
         "res": 10,
         "maxres": 29,
         "eva": 96,
-        "maxeva": 96
+        "maxeva": 96,
+        "location": "4-13_Boss"
     },
     {
         "itemname": "Mythril Helm",
@@ -621,7 +625,7 @@
         "maxres": 29,
         "eva": 96,
         "maxeva": 96,
-        "location": "4-2_Boss",
+        "location": "4-2_Boss,1-2_Boss,6-12_Boss",
         "loccopy": "4-2 Boss"
     },
     {
@@ -819,7 +823,8 @@
         "res": 11,
         "maxres": 33,
         "eva": 96,
-        "maxeva": 96
+        "maxeva": 96,
+        "location": "6-7_Boss"
     },
     {
         "itemname": "Kenpo Gi",
@@ -1004,7 +1009,7 @@
         "maxres": 18,
         "eva": 96,
         "maxeva": 96,
-        "location": "4-4_Boss",
+        "location": "4-4_Boss,6-21_Boss",
         "loccopy": "4-4 Boss"
     },
     {
@@ -1222,7 +1227,8 @@
         "res": 14,
         "maxres": 62,
         "eva": 96,
-        "maxeva": 96
+        "maxeva": 96,
+        "location": "2-1_Boss,4-7_Boss"
     },
     {
         "itemname": "Bard's Tunic",
@@ -1719,7 +1725,8 @@
         "acc": 86,
         "maxacc": 86,
         "eva": 2,
-        "maxeva": 2
+        "maxeva": 2,
+        "location": "4-8_Boss,6-14_Boss"
     },
     {
         "itemname": "Chopper",
@@ -1731,6 +1738,7 @@
         "maxatt": 32,
         "acc": 86,
         "maxacc": 86,
+        "location": "4-9_Boss",
         "loccopy": "4-6 Mastery, 6-2 Mastery"
     },
     {
@@ -1754,6 +1762,7 @@
         "maxatt": 33,
         "acc": 86,
         "maxacc": 86,
+        "location": "6-18_Boss",
         "loccopy": "7-2 Mastery"
     },
     {
@@ -1944,7 +1953,8 @@
         "att": 12,
         "maxatt": 35,
         "acc": 86,
-        "maxacc": 86
+        "maxacc": 86,
+        "location": "4-14_Boss"
     },
     {
         "itemname": "Longsword",
@@ -1968,7 +1978,8 @@
         "att": 12,
         "maxatt": 36,
         "acc": 86,
-        "maxacc": 86
+        "maxacc": 86,
+        "location": "6-15_Boss,6-19_Boss"
     },
     {
         "itemname": "Coral Sword",
@@ -1980,7 +1991,8 @@
         "maxatt": 36,
         "acc": 86,
         "maxacc": 86,
-        "notes": "Adds light lightning damage."
+        "notes": "Adds light lightning damage.",
+        "location": "4-14_Boss,6-16_Boss"
     },
     {
         "itemname": "Mythril blade",
@@ -2316,7 +2328,7 @@
         "maxatt": 38,
         "acc": 86,
         "maxacc": 86,
-        "location": "5-1_Boss",
+        "location": "5-1_Boss,6-20_Boss",
         "loccopy": "5-1"
     },
     {
@@ -2328,7 +2340,8 @@
         "att": 14,
         "maxatt": 40,
         "acc": 86,
-        "maxacc": 86
+        "maxacc": 86,
+        "location": "6-17_Boss"
     },
     {
         "itemname": "Death Sickle",
@@ -2435,7 +2448,8 @@
         "att": 12,
         "maxatt": 36,
         "acc": 86,
-        "maxacc": 86
+        "maxacc": 86,
+        "location": "6-21_Boss"
     },
     {
         "itemname": "Gaia Hammer",
@@ -2613,7 +2627,8 @@
         "att": 11,
         "maxatt": 31,
         "acc": 86,
-        "maxacc": 86
+        "maxacc": 86,
+        "location": "6-9_Boss"
     },
     {
         "itemname": "Sonic Knuckles",
@@ -2744,7 +2759,8 @@
         "mnd": 6,
         "maxmnd": 18,
         "acc": 86,
-        "maxacc": 86
+        "maxacc": 86,
+        "location": "6-8_Boss"
     },
     {
         "itemname": "Rod",
@@ -2793,7 +2809,8 @@
         "maxmnd": 20,
         "acc": 86,
         "maxacc": 86,
-        "notes": "Adds light holy damage."
+        "notes": "Adds light holy damage.",
+        "location": "4-12_Boss"
     },
     {
         "itemname": "Flame Rod",
@@ -3315,7 +3332,8 @@
         "mnd": 12,
         "maxmnd": 36,
         "acc": 86,
-        "maxacc": 86
+        "maxacc": 86,
+        "location": "4-13_Boss"
     },
     {
         "itemname": "Cypress Pole",
@@ -3412,7 +3430,8 @@
         "maxmnd": 11,
         "acc": 86,
         "maxacc": 86,
-        "notes": "Adds light fire damage."
+        "notes": "Adds light fire damage.",
+        "location": "6-13_Boss"
     },
     {
         "itemname": "Frost Bow",
@@ -3428,7 +3447,8 @@
         "maxmnd": 11,
         "acc": 86,
         "maxacc": 86,
-        "notes": "Adds light ice damage."
+        "notes": "Adds light ice damage.",
+        "location": ""
     },
     {
         "itemname": "Thunder Bow",
@@ -3602,7 +3622,7 @@
         "acc": 92,
         "maxacc": 92,
         "notes": "Adds small chance to Paralyze.",
-        "location": "4-5_Boss",
+        "location": "4-5_Boss,6-15_Boss",
         "loccopy": "4-5 Boss"
     },
     {
@@ -3681,5 +3701,59 @@
         "acc": 95,
         "maxacc": 95,
         "notes": "Changes Tyro's Soul Break to Healing Grimoire."
+    },
+    {
+        "itemname": "Blood Lance",
+        "itemtype": "Weapon",
+        "realm": "IV",
+        "subtype": "Spear",
+        "rarity": 5,
+        "att": 79,
+        "maxatt": 128,
+        "acc": 95,
+        "maxacc": 95,
+        "notes": "Changes Kain's Soul Break to Lancet."
+    },
+    {
+        "itemname": "Guard Stick",
+        "itemtype": "Weapon",
+        "realm": "VII",
+        "subtype": "Rod",
+        "rarity": 5,
+        "att": 23,
+        "maxatt": 38,
+        "mag": 76,
+        "maxmag": 125,
+        "mnd": 50,
+        "maxmnd": 75,
+        "acc": 95,
+        "maxacc": 95,
+        "notes": "Changes Aerith's Soul Break to Healing Wind."
+    },
+    {
+        "itemname": "Ice Whip",
+        "itemtype": "Weapon",
+        "realm": "IV",
+        "subtype": "Whip",
+        "rarity": 5,
+        "att": 46,
+        "maxatt": 75,
+        "mag": 77,
+        "maxmag": 129,
+        "acc": 95,
+        "maxacc": 95,
+        "notes": "Changes Rydia's Soul Break to Summon Eidolon II"
+    },
+    {
+        "itemname": "Official Ball",
+        "itemtype": "Weapon",
+        "realm": "X",
+        "subtype": "Ball",
+        "rarity": 5,
+        "att": 65,
+        "maxatt": 110,
+        "acc": 95,
+        "maxacc": 95,
+        "notes": "Changes Wakka's Soul Break to Status Reels."
     }
 ]

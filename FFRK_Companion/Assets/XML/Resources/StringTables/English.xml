@@ -129,6 +129,11 @@ Check out the Best Equipment section of the app to find which items can be easil
 	<String ID="Name_Tidus">Tidus</String>
 	<String ID="Name_Wakka">Wakka</String>
 	<String ID="Name_Aerith">Aerith</String>
+	<String ID="Name_Summoner">Summoner</String>
+	<String ID="Name_Knight">Knight</String>
+	<String ID="Name_Cyan">Cyan</String>
+	<String ID="Name_RedMage">Red Mage</String>
+	<String ID="Name_Josef">Josef</String>
 	
 	<String ID="Dungeon_Classic">Classic</String>
 	<String ID="Dungeon_Elite">Elite</String>

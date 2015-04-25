@@ -23,11 +23,11 @@ public class WeaponEntry : MonoBehaviour {
 		SubType.text = i_item.subtype;
 
 		string strStatKey = "MaxAtt";
-		if ( i_char.character == "BlackMage" || i_char.character == "Rydia" ) {
+		if ( i_char.attacktype == "Mag" ) {
 			strStatKey = "MaxMag";
 			nStat = string.IsNullOrEmpty(i_item.maxmag) ? 0 : ( bAll ? int.Parse(i_item.maxmag) : i_item.GetBestMagic() );
 		}
-		else if ( i_char.character == "WhiteMage" || i_char.character == "Aerith" ) {
+		else if ( i_char.attacktype == "Mnd" ) {
 			strStatKey = "MaxMnd";
 			nStat = string.IsNullOrEmpty(i_item.maxmnd) ? 0 : ( bAll ? int.Parse(i_item.maxmnd) : i_item.GetBestMind() );
 		}

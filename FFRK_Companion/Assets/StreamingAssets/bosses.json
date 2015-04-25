@@ -80,6 +80,100 @@
         "notes": "Save your lightning attacks for when he prepares to use his Tsunami."
     },
     {
+        "name": "Dark Elf",
+        "dungeon": "4-7",
+        "victory": "Exploit the Dark Elf's weakness to fire attacks.",
+        "vuln": "Fire,Holy",
+        "debuffimm": "Paralyze,Confuse,Stop,Sleep,Petrify,Doom,Instant KO",
+        "notes": "The Dark Elf enters dragon form when he drops low on HP."
+    },
+    {
+        "name": "Magus Sisters",
+        "dungeon": "4-8",
+        "victory": "Afflict Sandy with Silence.,Afflict Cindy with Silence.,Afflict Mindy with Silence.",
+        "debuffimm": "Paralyze,Confuse,Haste,Slow,Stop,Sleep,Petrify,Doom,Instant KO",
+        "notes": "Defeat Cindy first. After Sandy casts Reflect, the sisters will unleash their Delta Attack. Cindy may revive the other sisters."
+    },
+    {
+        "name": "Barbariccia",
+        "dungeon": "4-9",
+        "victory": "Disrupt Barbariccia's tornado form with Jump.",
+        "resist": "Earth,Wind",
+        "debuffimm": "Confuse,Stop,Sleep,Petrify,Doom,Instant KO",
+        "notes": "She will counter-attack any attacks while in whirlwind form. Be sure to bring a character with Jump to disrupt it!"
+    },
+    {
+        "name": "Calcabrina",
+        "dungeon": "4-10",
+        "victory": "Defeat Calca and Brina before they combine.",
+        "attacks": "Confuse,Stop,Sleep,Petrify,Doom,Instant KO",
+        "debuffimm": "Confuse,Stop,Sleep,Petrify,Doom,Instant KO",
+        "notes": "If you defeat either type of the boss, the rest will fuse. Use AoE to defeat the two types at once."
+    },
+    {
+        "name": "Golbez",
+        "dungeon": "4-10",
+        "victory": "Exploit Golbez' window of weakness to fire attacks.,Exploit Golbez' window of weakness to ice attacks.,Exploit Golbez' window of weakness to lightning attacks.",
+        "vuln": "Holy",
+        "debuffimm": "Poison,Silence,Paralyze,Confuse,Stop,Blind,Sleep,Petrify,Doom,Instant KO",
+        "notes": "When you exploit one type of Golbez' weakness, he will shift to a different form with a new weakness."
+    },
+    {
+        "name": "Lugae",
+        "dungeon": "4-11",
+        "victory": "Exploit Barnabas' weakness to lightning attacks.,Defeat Barnabas before he self-destructs.",
+        "vuln": "Lightning",
+        "debuffimm": "Poison,Silence,Paralyze,Confuse,Stop,Sleep,Petrify,Doom,Instant KO"
+    },
+    {
+        "name": "Lugaeborg",
+        "dungeon": "4-11",
+        "victory": "Exploit Lugaeborg's weakness to lightning attacks.",
+        "vuln": "Lightning",
+        "debuffimm": "Poison,Silence,Paralyze,Confuse,Stop,Blind,Sleep,Petrify,Doom,Instant KO"
+    },
+    {
+        "name": "Rubicante",
+        "dungeon": "4-12",
+        "victory": "Exploit Rubicante's weakness to ice attacks.,Exploit Rubicante's weakness to water attacks.",
+        "vuln": "Ice,Water",
+        "absorb": "Fire",
+        "debuffimm": "Poison,Silence,Paralyze,Confuse,Stop,Blind,Sleep,Petrify,Doom,Instant KO",
+        "notes": "When Rubicante defends, he absorbs all elemental attacks."
+    },
+    {
+        "name": "King and Queen",
+        "dungeon": "4-13",
+        "victory": "Defeat the King of Eblan without being KO'd.",
+        "debuffimm": "Poison,Silence,Paralyze,Confuse,Stop,Blind,Sleep,Petrify,Doom,Instant KO"
+    },
+    {
+        "name": "Rubicante",
+        "dungeon": "4-13",
+        "victory": "Exploit Rubicante's weakness to ice attacks.,Exploit Rubicante's weakness to water attacks.",
+        "vuln": "Ice,Water",
+        "absorb": "Fire",
+        "debuffimm": "Poison,Silence,Paralyze,Confuse,Stop,Blind,Sleep,Petrify,Doom,Instant KO",
+        "notes": "When Rubicante defends, he absorbs all elemental attacks."
+    },
+    {
+        "name": "Asura",
+        "dungeon": "4-14",
+        "victory": "Afflict Asura with Reflect.",
+        "absorb": "Fire,Ice,Lightning,Water",
+        "debuffimm": "Poison,Silence,Paralyze,Confuse,Stop,Blind,Sleep,Petrify,Doom,Instant KO"
+    },
+    {
+        "name": "Leviathan",
+        "dungeon": "4-14",
+        "victory": "Exploit Leviathan's weakness to lightning attacks.",
+        "resist": "Fire,Earth,Wind",
+        "vuln": "Lightning",
+        "absorb": "Ice,Water",
+        "debuffimm": "Silence,Paralyze,Confuse,Stop,Sleep,Petrify,Doom,Instant KO",
+        "notes": "Leviathan has AoE attacks, so try to bring someone with AoE heals."
+    },
+    {
         "name": "Wing Raptor",
         "dungeon": "5-1",
         "victory": "Defeat the Wing Raptor before it closes its wings.,Defeat the Wing Raptor without having any attacks countered.",
@@ -181,5 +275,35 @@
         "victory": "Affect Sinspawn Echuilles with Blind.",
         "debuffimm": "Poison,Sleep,Instant KO",
         "notes": "Dark Attack can inflict Blind, but the rate is low."
+    },
+    {
+        "name": "Garland",
+        "dungeon": "1-1",
+        "victory": "Defeat Garland without being KO'd.",
+        "debuffimm": "Stop,Doom,Instant KO"
+    },
+    {
+        "name": "Astos",
+        "dungeon": "1-2",
+        "victory": "Afflict Astos with Silence.",
+        "debuffimm": "Stop,Doom,Instant KO"
+    },
+    {
+        "name": "Sergeant",
+        "dungeon": "2-1",
+        "victory": "Defeat the Sergeant without being KO'd."
+    },
+    {
+        "name": "Adamantoise",
+        "dungeon": "2-2",
+        "victory": "Exploit the Adamantoise's weakness to ice attacks.",
+        "resist": "Lightning",
+        "vuln": "Ice",
+        "debuffimm": "Poison"
+    },
+    {
+        "name": "Borghen",
+        "dungeon": "2-3",
+        "victory": "Defeat Borghen without being KO'd."
     }
 ]

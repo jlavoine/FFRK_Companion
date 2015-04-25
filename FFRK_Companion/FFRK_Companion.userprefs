@@ -1,13 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\XML\Resources\StringTables\English.xml">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\XML\Resources\Constants\GameConstants.xml">
     <Files>
-      <File FileName="Assets\Scripts\FFRK\OrbInfo.cs" Line="57" Column="21" />
-      <File FileName="Assets\Scripts\FFRK\OrbButton.cs" Line="25" Column="38" />
-      <File FileName="Assets\Scripts\FFRK\TriggerOrbSelect.cs" Line="6" Column="30" />
-      <File FileName="Assets\Scripts\FFRK\AbilityEntry.cs" Line="30" Column="31" />
-      <File FileName="Assets\Scripts\FFRK\BossInfo.cs" Line="127" Column="73" />
-      <File FileName="Assets\XML\Resources\StringTables\English.xml" Line="59" Column="150" />
+      <File FileName="Assets\Scripts\FFRK\WeaponEntry.cs" Line="30" Column="39" />
+      <File FileName="Assets\Scripts\FFRK\WeaponsDisplay.cs" Line="49" Column="45" />
+      <File FileName="Assets\Scripts\FFRK\ImmData\ID_Character.cs" Line="35" Column="27" />
+      <File FileName="Assets\XML\Resources\StringTables\English.xml" Line="136" Column="31" />
+      <File FileName="Assets\XML\Resources\Constants\GameConstants.xml" Line="7" Column="52" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

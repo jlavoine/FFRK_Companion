@@ -60,6 +60,7 @@
     {
         "character": "Warrior",
         "realm": "Core",
+        "attacktype": "Att",
         "axe": "Yes",
         "dagger": "Yes",
         "hammer": "Yes",
@@ -75,6 +76,7 @@
     {
         "character": "WhiteMage",
         "realm": "Core",
+        "attacktype": "Mnd",
         "dagger": "Yes",
         "staff": "Yes",
         "bracer": "Yes",
@@ -85,6 +87,7 @@
     {
         "character": "CecilDK",
         "realm": "IV",
+        "attacktype": "Att",
         "dagger": "Yes",
         "sword": "Yes",
         "armor": "Yes",
@@ -97,6 +100,7 @@
     {
         "character": "CecilPaladin",
         "realm": "IV",
+        "attacktype": "Att",
         "dagger": "Yes",
         "hammer": "Yes",
         "sword": "Yes",
@@ -110,6 +114,7 @@
     {
         "character": "Kain",
         "realm": "IV",
+        "attacktype": "Att",
         "axe": "Yes",
         "dagger": "Yes",
         "spear": "Yes",
@@ -124,6 +129,7 @@
     {
         "character": "Rydia",
         "realm": "IV",
+        "attacktype": "Mag",
         "dagger": "Yes",
         "rod": "Yes",
         "whip": "Yes",
@@ -135,6 +141,7 @@
     {
         "character": "Cloud",
         "realm": "VII",
+        "attacktype": "Att",
         "dagger": "Yes",
         "katana": "Yes",
         "sword": "Yes",
@@ -149,6 +156,7 @@
     {
         "character": "Sephiroth",
         "realm": "VII",
+        "attacktype": "Att",
         "dagger": "Yes",
         "katana": "Yes",
         "armor": "Yes",
@@ -160,6 +168,7 @@
     {
         "character": "Tifa",
         "realm": "VII",
+        "attacktype": "Att",
         "dagger": "Yes",
         "fist": "Yes",
         "bracer": "Yes",
@@ -171,6 +180,7 @@
     {
         "character": "Tidus",
         "realm": "X",
+        "attacktype": "Att",
         "dagger": "Yes",
         "sword": "Yes",
         "armor": "Yes",
@@ -184,6 +194,7 @@
     {
         "character": "Wakka",
         "realm": "X",
+        "attacktype": "Att",
         "ball": "Yes",
         "bow": "Yes",
         "dagger": "Yes",
@@ -198,6 +209,7 @@
     {
         "character": "Aerith",
         "realm": "VII",
+        "attacktype": "Mnd",
         "dagger": "Yes",
         "rod": "Yes",
         "staff": "Yes",
@@ -205,5 +217,77 @@
         "hat": "Yes",
         "robe": "Yes",
         "abilities": "Support_2,Black Magic_3,White Magic_5,Summoning_2"
+    },
+    {
+        "character": "RedMage",
+        "realm": "Core",
+        "attacktype": "Mag",
+        "bow": "Yes",
+        "dagger": "Yes",
+        "rod": "Yes",
+        "spear": "Yes",
+        "staff": "Yes",
+        "sword": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "lightArmor": "Yes",
+        "robe": "Yes",
+        "abilities": "Black Magic_3,White Magic_3"
+    },
+    {
+        "character": "Cyan",
+        "realm": "VI",
+        "attacktype": "Att",
+        "dagger": "Yes",
+        "katana": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "helm": "Yes",
+        "lightArmor": "Yes",
+        "robe": "Yes",
+        "abilities": "Combat_5,Samurai_5"
+    },
+    {
+        "character": "Summoner",
+        "realm": "Core",
+        "attacktype": "Mag",
+        "bow": "Yes",
+        "dagger": "Yes",
+        "rod": "Yes",
+        "staff": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "robe": "Yes",
+        "abilities": "Black Magic_2,Summoning_5"
+    },
+    {
+        "character": "Knight",
+        "realm": "Core",
+        "attacktype": "Att",
+        "axe": "Yes",
+        "dagger": "Yes",
+        "hammer": "Yes",
+        "sword": "Yes",
+        "armor": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "helm": "Yes",
+        "lightArmor": "Yes",
+        "shield": "Yes",
+        "abilities": "Combat_4,Knight_4"
+    },
+    {
+        "character": "Josef",
+        "realm": "II",
+        "attacktype": "Att",
+        "axe": "Yes",
+        "dagger": "Yes",
+        "fist": "Yes",
+        "hammer": "Yes",
+        "bracer": "Yes",
+        "hat": "Yes",
+        "lightArmor": "Yes",
+        "robe": "Yes",
+        "abilities": "Combat_5,Monk_5"
     }
 ]
