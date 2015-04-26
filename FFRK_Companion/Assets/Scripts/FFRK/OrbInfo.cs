@@ -23,6 +23,9 @@ public class OrbInfo : MonoBehaviour {
 	public GameObject DungeonContent;
 	public GameObject DungeonEntry;
 
+	// scrollable area
+	public ScrollRect ScrollArea;
+
 	///////////////////////////////////////////
 	/// Start()
 	///////////////////////////////////////////
@@ -46,6 +49,9 @@ public class OrbInfo : MonoBehaviour {
 	private void OnOrbSelected( string i_strOrbKey, int i_nIndex ) {
 		// build the final string of the orb based on its key and index
 		string strOrb = i_strOrbKey + "_" + i_nIndex;
+
+		// reset the scroll area
+		ScrollArea.verticalNormalizedPosition = 1f;
 
 		// set the icon of the orb correctly
 		//Sprite sprite = Resources.Load<Sprite>( strOrb );

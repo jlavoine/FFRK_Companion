@@ -22,6 +22,7 @@ public class OrbButton : MonoBehaviour {
 	/// OnClick()
 	///////////////////////////////////////////
 	public void OnClick() {
+		Messenger.Broadcast( "PrepOrbInfo" );
 		Messenger.Broadcast<string, int>( "OrbSelected", m_strKey, m_nIndex );
 	}
 }

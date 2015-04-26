@@ -1,5 +1,44 @@
 [
     {
+        "name": "Chaos Shrine",
+        "version": "Classic",
+        "realm": "I",
+        "shortcut": "1-1",
+        "orbs": "Wind_2,Dark_2,Earth_2,Ice_2",
+        "bossorbs": "White_3"
+    },
+    {
+        "name": "Western Keep",
+        "version": "Classic",
+        "realm": "I",
+        "shortcut": "1-2",
+        "orbs": "Ice_2,Dark_2,Black_2,Earth_2",
+        "bossorbs": "Fire_3"
+    },
+    {
+        "name": "Semitt Falls Cavern",
+        "version": "Classic",
+        "realm": "II",
+        "shortcut": "2-1",
+        "orbs": "Power_2,Dark_2,Ice_2,Earth_2",
+        "bossorbs": "Earth_3"
+    },
+    {
+        "name": "Snow Cavern",
+        "version": "Classic",
+        "realm": "II",
+        "shortcut": "2-2",
+        "orbs": "Power_2,Earth_2,Ice_2,Dark_2"
+    },
+    {
+        "name": "Snow Cavern (Return)",
+        "version": "Classic",
+        "realm": "II",
+        "shortcut": "2-3",
+        "orbs": "Power_2,Earth_2,Ice_2",
+        "bossorbs": "Power_3"
+    },
+    {
         "name": "Mist Cave",
         "version": "Classic",
         "realm": "IV",
@@ -60,6 +99,68 @@
         "bossitems": "Mythril Armlet_VII"
     },
     {
+        "name": "Lodestone Cavern",
+        "version": "Classic",
+        "realm": "IV",
+        "shortcut": "4-7",
+        "orbs": "Wind_2,White_2,Non_2,Black_2",
+        "bossorbs": "Dark_3"
+    },
+    {
+        "name": "Tower of Zot",
+        "version": "Classic",
+        "realm": "IV",
+        "shortcut": "4-8",
+        "orbs": "Holy_2,White_2"
+    },
+    {
+        "name": "Tower of Zot - Spire",
+        "version": "Classic",
+        "realm": "IV",
+        "shortcut": "4-9",
+        "orbs": "Non_2,Black_2,Holy_2,White_2",
+        "bossorbs": "Wind_3"
+    },
+    {
+        "name": "Dwarven Castle",
+        "version": "Classic",
+        "realm": "IV",
+        "shortcut": "4-10",
+        "orbs": "Dark_2,Holy_2,Non_2",
+        "bossorbs": "Non_3"
+    },
+    {
+        "name": "Tower of Babil - Depths",
+        "version": "Classic",
+        "realm": "IV",
+        "shortcut": "4-11",
+        "orbs": "Dark_2,Black_2,Holy_2"
+    },
+    {
+        "name": "Cave of Eblan",
+        "version": "Classic",
+        "realm": "IV",
+        "shortcut": "4-12",
+        "orbs": "Dark_2,Black_2,Dark_2",
+        "bossorbs": "Fire_3"
+    },
+    {
+        "name": "Tower of Babil - Heights",
+        "version": "Classic",
+        "realm": "IV",
+        "shortcut": "4-13",
+        "orbs": "Dark_2,Black_2,Dark_2",
+        "bossorbs": "Power_3"
+    },
+    {
+        "name": "The Feymarch",
+        "version": "Classic",
+        "realm": "IV",
+        "shortcut": "4-14",
+        "orbs": "Wind_2,Black_2,Earth_2",
+        "bossorbs": "Power_3,Ice_3"
+    },
+    {
         "name": "Wind Shrine",
         "version": "Classic",
         "realm": "V",
@@ -94,6 +195,7 @@
         "realm": "V",
         "shortcut": "5-4",
         "orbs": "Non_1,Power_1",
+        "bossorbs": "Lightning_2",
         "items": "Copper Cuirass_V, Hammer_IV, Shortbow_XII"
     },
     {
@@ -153,6 +255,124 @@
         "bossitems": "Mythril Claws_VI"
     },
     {
+        "name": "Phantom Train",
+        "version": "Classic",
+        "realm": "VI",
+        "shortcut": "6-7",
+        "orbs": "Ice_2,Wind_2",
+        "bossorbs": "Dark_3"
+    },
+    {
+        "name": "Esper Valley",
+        "version": "Classic",
+        "realm": "VI",
+        "shortcut": "6-8",
+        "orbs": "White_2,Power_2,Non_2,Holy_2",
+        "bossorbs": "Holy_3"
+    },
+    {
+        "name": "Zozo",
+        "version": "Classic",
+        "realm": "VI",
+        "shortcut": "6-9",
+        "orbs": "Non_2,Dark_2,Black_2,Lightning_2",
+        "bossorbs": "Power_3"
+    },
+    {
+        "name": "Opera House",
+        "version": "Classic",
+        "realm": "VI",
+        "shortcut": "6-10",
+        "orbs": "Power_2,Fire_2,Lightning_2,Wind_2",
+        "bossorbs": "Ice_3"
+    },
+    {
+        "name": "Magitek Factory",
+        "version": "Classic",
+        "realm": "VI",
+        "shortcut": "6-11",
+        "orbs": "Fire_2,Lightning_2,Earth_2",
+        "bossorbs": "Fire_3"
+    },
+    {
+        "name": "Vector",
+        "version": "Classic",
+        "realm": "VI",
+        "shortcut": "6-12",
+        "orbs": "Fire_2,Lightning_2,Earth_2",
+        "bossorbs": "Lightning_3"
+    },
+    {
+        "name": "Thamasa",
+        "version": "Classic",
+        "realm": "VI",
+        "shortcut": "6-13",
+        "orbs": "Fire_2,Earth_2,Power_2",
+        "bossorbs": "Fire_3"
+    },
+    {
+        "name": "Esper Caves",
+        "version": "Classic",
+        "realm": "VI",
+        "shortcut": "6-14",
+        "orbs": "Lightning_2,Fire_2,Power_2,Non_2",
+        "bossorbs": "Holy_3"
+    },
+    {
+        "name": "Airship",
+        "version": "Classic",
+        "realm": "VI",
+        "shortcut": "6-15",
+        "orbs": "Non_2,Dark_2",
+        "bossorbs": "Black_3,Wind_3"
+    },
+    {
+        "name": "Floating Continent 1",
+        "version": "Classic",
+        "realm": "VI",
+        "shortcut": "6-16",
+        "orbs": "Lightning_2,Fire_2",
+        "bossorbs": "Holy_3"
+    },
+    {
+        "name": "Floating Continent 2",
+        "version": "Classic",
+        "realm": "VI",
+        "shortcut": "6-17",
+        "orbs": "Fire_2,Lightning_2",
+        "bossorbs": "Non_3"
+    },
+    {
+        "name": "Solitary Island",
+        "version": "Classic",
+        "realm": "VI",
+        "shortcut": "6-18",
+        "orbs": "Power_2,Wind_2"
+    },
+    {
+        "name": "Mobliz",
+        "version": "Classic",
+        "realm": "VI",
+        "shortcut": "6-19",
+        "bossorbs": "Wind_3"
+    },
+    {
+        "name": "Figaro Castle 2",
+        "version": "Classic",
+        "realm": "VI",
+        "shortcut": "6-20",
+        "orbs": "Power_2,Non_2,Wind_2",
+        "bossorbs": "Earth_3"
+    },
+    {
+        "name": "Darill's Tomb",
+        "version": "Classic",
+        "realm": "VI",
+        "shortcut": "6-21",
+        "orbs": "Power_2,Non_2,Wind_2",
+        "bossorbs": "Non_3"
+    },
+    {
         "name": "Mako Reactor No. 1",
         "version": "Classic",
         "realm": "VII",
@@ -196,15 +416,54 @@
         "version": "Classic",
         "realm": "X",
         "shortcut": "10-3",
-        "orbs": "White_1,Black_1Non_1,Fire_1,Dark_1",
+        "orbs": "White_1,Black_1,Non_1,Fire_1,Dark_1",
         "bossorbs": "Dark_2",
         "items": "Knife_II, Shortbow_XII, Boomerang_VI"
+    },
+    {
+        "name": "Chaos Shrine",
+        "version": "Elite",
+        "realm": "I",
+        "shortcut": "1-1",
+        "orbs": "Wind_2,Dark_2,Earth_2,Ice_2,Wind_3,Dark_3,Earth_3,Ice_3",
+        "bossorbs": "White_4"
+    },
+    {
+        "name": "Western Keep",
+        "version": "Elite",
+        "realm": "I",
+        "shortcut": "1-2",
+        "orbs": "Ice_2,Dark_2,Black_2,Earth_2,Ice_3,Dark_3,Black_3,Earth_3",
+        "bossorbs": "Fire_4"
+    },
+    {
+        "name": "Semitt Falls Cavern",
+        "version": "Elite",
+        "realm": "II",
+        "shortcut": "2-1",
+        "orbs": "Power_2,Dark_2,Ice_2,Earth_2,Power_3,Dark_3,Ice_3,Earth_3",
+        "bossorbs": "Earth_4"
+    },
+    {
+        "name": "Snow Cavern",
+        "version": "Elite",
+        "realm": "II",
+        "shortcut": "2-2",
+        "orbs": "Power_2,Earth_2,Ice_2,Power_3,Earth_3,Ice_3"
+    },
+    {
+        "name": "Snow Cavern (Return)",
+        "version": "Elite",
+        "realm": "II",
+        "shortcut": "2-3",
+        "orbs": "Power_2,Earth_2,Power_3,Earth_3,Ice_2,Ice_3",
+        "bossorbs": "Power_4"
     },
     {
         "name": "Mist Cave",
         "version": "Elite",
         "realm": "IV",
-        "shortcut": "Shortcut",
+        "shortcut": "4-1",
         "orbs": "White_2,White_3,Earth_2,Earth_3,Wind_2,Wind_3",
         "bossorbs": "Earth_4",
         "bossitems": "Heavy Lance_XII"
@@ -213,7 +472,7 @@
         "name": "Underground Waterway",
         "version": "Elite",
         "realm": "IV",
-        "shortcut": "4-1",
+        "shortcut": "4-2",
         "orbs": "Power_2,Power_3,Lightning_2,Lightning_3,Holy_2,Holy_3",
         "bossorbs": "Holy_4"
     },
@@ -221,7 +480,7 @@
         "name": "Antlion's Den",
         "version": "Elite",
         "realm": "IV",
-        "shortcut": "4-2",
+        "shortcut": "4-3",
         "orbs": "Black_2,Black_2,Earth_2,Earth_3,Wind_2,Wind_3",
         "bossorbs": "Wind_4"
     },
@@ -229,7 +488,7 @@
         "name": "Mount Hobs",
         "version": "Elite",
         "realm": "IV",
-        "shortcut": "4-3",
+        "shortcut": "4-4",
         "orbs": "White_2,White_3,Lightning_2,Lightning_3,Holy_2,Holy_3",
         "bossorbs": "Fire_4"
     },
@@ -237,7 +496,7 @@
         "name": "Fabul Castle",
         "version": "Elite",
         "realm": "IV",
-        "shortcut": "4-4",
+        "shortcut": "4-5",
         "orbs": "Black_2,Black_3,Non_2,Non_3,Dark_2,Dark_3",
         "bossorbs": "Non_4"
     },
@@ -245,15 +504,76 @@
         "name": "Baron Castle",
         "version": "Elite",
         "realm": "IV",
-        "shortcut": "4-5",
+        "shortcut": "4-6",
         "orbs": "Black_2,Black_3,Lightning_2,Lightning_3,Holy_2,Holy_3",
         "bossorbs": "Ice_4"
+    },
+    {
+        "name": "Lodestone Cavern",
+        "version": "Elite",
+        "realm": "IV",
+        "shortcut": "4-7",
+        "orbs": "Wind_2,White_2,Non_2,Wind_3,White_3,Non_3"
+    },
+    {
+        "name": "Tower of Zot",
+        "version": "Elite",
+        "realm": "IV",
+        "shortcut": "4-8",
+        "orbs": "Holy_2,White_2,Holy_3,White_3"
+    },
+    {
+        "name": "Tower of Zot - Spire",
+        "version": "Elite",
+        "realm": "IV",
+        "shortcut": "4-9",
+        "orbs": "Non_2,Black_2,Holy_2,Non_3,Black_3,Holy_3,White_2,White_3",
+        "bossorbs": "Wind_4"
+    },
+    {
+        "name": "Dwarven Castle",
+        "version": "Elite",
+        "realm": "IV",
+        "shortcut": "4-10",
+        "orbs": "Dark_2,Holy_2,Non_2,Dark_3,Holy_3,Non_3",
+        "bossorbs": "Non_4"
+    },
+    {
+        "name": "Tower of Babil - Depths",
+        "version": "Elite",
+        "realm": "IV",
+        "shortcut": "4-11",
+        "orbs": "Dark_2,Black_2,Dark_3,Black_3"
+    },
+    {
+        "name": "Cave of Eblan",
+        "version": "Elite",
+        "realm": "IV",
+        "shortcut": "4-12",
+        "orbs": "Dark_2,Black_2,Dark_3,Black_3",
+        "bossorbs": "Fire_4"
+    },
+    {
+        "name": "Tower of Babil - Heights",
+        "version": "Elite",
+        "realm": "IV",
+        "shortcut": "4-13",
+        "orbs": "Earth_2,Dark_2,Earth_3,Dark_3",
+        "bossorbs": "Power_4"
+    },
+    {
+        "name": "The Feymarch",
+        "version": "Elite",
+        "realm": "IV",
+        "shortcut": "4-14",
+        "orbs": "Wind_2,Black_2,Earth_2,Wind_3,Black_3,Wind_3,Earth_3",
+        "bossorbs": "Dark_4"
     },
     {
         "name": "Wind Shrine",
         "version": "Elite",
         "realm": "V",
-        "shortcut": "4-6",
+        "shortcut": "5-1",
         "orbs": "Power_2,Power_3,Fire_2,Fire_3,Ice_2,Ice_3",
         "bossorbs": "Wind_4"
     },
@@ -261,7 +581,7 @@
         "name": "Torna Canal",
         "version": "Elite",
         "realm": "V",
-        "shortcut": "5-1",
+        "shortcut": "5-2",
         "orbs": "Power_2,Power_3,Earth_2,Earth_3,Wind_2,Wind_3",
         "bossorbs": "Ice_4"
     },
@@ -269,7 +589,7 @@
         "name": "Ship Graveyard",
         "version": "Elite",
         "realm": "V",
-        "shortcut": "5-2",
+        "shortcut": "5-3",
         "orbs": "White_2,White_3,Fire_2,Fire_3,Ice_2,Ice_3,Dark_2,Dark_3",
         "bossorbs": "Dark_4"
     },
@@ -277,7 +597,7 @@
         "name": "North Mountain",
         "version": "Elite",
         "realm": "V",
-        "shortcut": "5-3",
+        "shortcut": "5-4",
         "orbs": "Power_2,Power_3,Non_2,Non_3",
         "bossorbs": "Lightning_4"
     },
@@ -285,7 +605,7 @@
         "name": "North Mines",
         "version": "Elite",
         "realm": "VI",
-        "shortcut": "5-4",
+        "shortcut": "6-1",
         "orbs": "White_2,White_3,Earth_2,Earth_3,Wind_2,Wind_3",
         "bossorbs": "Lightning_4"
     },
@@ -293,7 +613,7 @@
         "name": "Abandoned Mineshaft",
         "version": "Elite",
         "realm": "VI",
-        "shortcut": "6-1",
+        "shortcut": "6-2",
         "orbs": "Black_2,Black_3,Fire_2,Fire_3,Ice_2,Ice_3",
         "bossorbs": "Ice_4"
     },
@@ -301,7 +621,7 @@
         "name": "Figaro Castle",
         "version": "Elite",
         "realm": "VI",
-        "shortcut": "6-2",
+        "shortcut": "6-3",
         "orbs": "Power_2,Power_3,Lightning_2,Lightning_3,Holy_2,Holy_3",
         "bossorbs": "Non_4"
     },
@@ -309,7 +629,7 @@
         "name": "Mt. Kolts",
         "version": "Elite",
         "realm": "VI",
-        "shortcut": "6-3",
+        "shortcut": "6-4",
         "orbs": "White_2,White_3,Non_2,Non_3,Dark_2,Dark_3",
         "bossorbs": "Wind_4"
     },
@@ -317,7 +637,7 @@
         "name": "Imperial Camp",
         "version": "Elite",
         "realm": "VI",
-        "shortcut": "6-4",
+        "shortcut": "6-5",
         "orbs": "Black_2,Black_3,Earth_2,Earth_3,Wind_2,Wind_3",
         "bossorbs": "Wind_4"
     },
@@ -325,22 +645,136 @@
         "name": "South Figaro Cave",
         "version": "Elite",
         "realm": "VI",
-        "shortcut": "6-5",
+        "shortcut": "6-6",
         "orbs": "Power_2,Power_2,Fire_2,Fire_3,Ice_2,Ice_3",
         "bossorbs": "Dark_4"
+    },
+    {
+        "name": "Phantom Train",
+        "version": "Elite",
+        "realm": "VI",
+        "shortcut": "6-7",
+        "orbs": "Ice_2,Wind_2,Ice_3,Wind_3",
+        "bossorbs": "Dark_4"
+    },
+    {
+        "name": "Esper Valley",
+        "version": "Elite",
+        "realm": "VI",
+        "shortcut": "6-8",
+        "orbs": "White_2,White_3,Power_2,Power_3,Non_2,Non_3,Holy_2,Holy_3",
+        "bossorbs": "Holy_4"
+    },
+    {
+        "name": "Zozo",
+        "version": "Elite",
+        "realm": "VI",
+        "shortcut": "6-9",
+        "orbs": "Non_2,Dark_2,Non_3,Dark_3,Lightning_2,Lightning_3,Black_2,Black_3",
+        "bossorbs": "Power_4"
+    },
+    {
+        "name": "Opera House",
+        "version": "Elite",
+        "realm": "VI",
+        "shortcut": "6-10",
+        "orbs": "Fire_2,Wind_2,Power_2,Lightning_2,Fire_3,Wind_3,Power_3,Lightning_3",
+        "bossorbs": "Ice_4"
+    },
+    {
+        "name": "Magitek Factory",
+        "version": "Elite",
+        "realm": "VI",
+        "shortcut": "6-11",
+        "orbs": "Black_2,Fire_2,Power_2,Earth_2,Black_3,Fire_3,Power_3,Earth_3"
+    },
+    {
+        "name": "Vector",
+        "version": "Elite",
+        "realm": "VI",
+        "shortcut": "6-12",
+        "orbs": "Fire_2,Earth_2,Fire_3,Earth_3",
+        "bossorbs": "Lightning_4"
+    },
+    {
+        "name": "Thamasa",
+        "version": "Elite",
+        "realm": "VI",
+        "shortcut": "6-13",
+        "orbs": "Earth_2,Fire_2,Earth_3,Fire_3,Power_2,Power_3",
+        "bossorbs": "Fire_4"
+    },
+    {
+        "name": "Esper Caves",
+        "version": "Elite",
+        "realm": "VI",
+        "shortcut": "6-14",
+        "orbs": "Lightning_2,Fire_2,Power_2,Lightning_3,Fire_3,Power_3"
+    },
+    {
+        "name": "Airship",
+        "version": "Elite",
+        "realm": "VI",
+        "shortcut": "6-15",
+        "orbs": "Non_2,Dark_2,Non_3,Dark_3,Holy_2,Holy_3",
+        "bossorbs": "Black_4"
+    },
+    {
+        "name": "Floating Continent 1",
+        "version": "Elite",
+        "realm": "VI",
+        "shortcut": "6-16",
+        "orbs": "Lightning_2,Fire_2,Lightning_3,Fire_3,Power_2,Power_3"
+    },
+    {
+        "name": "Floating Continent 2",
+        "version": "Elite",
+        "realm": "VI",
+        "shortcut": "6-17",
+        "orbs": "Fire_2,Lightning_2,Fire_3,Lightning_3"
+    },
+    {
+        "name": "Solitary Island",
+        "version": "Elite",
+        "realm": "VI",
+        "shortcut": "6-18",
+        "orbs": "Power_2,Wind_2,Power_3,Wind_3"
+    },
+    {
+        "name": "Mobliz",
+        "version": "Elite",
+        "realm": "VI",
+        "shortcut": "6-19",
+        "bossorbs": "Wind_4"
+    },
+    {
+        "name": "Figaro Castle 2",
+        "version": "Elite",
+        "realm": "VI",
+        "shortcut": "6-20",
+        "orbs": "Power_2,Non_2,Wind_2,Power_3,Wind_3,Non_3",
+        "bossorbs": "Earth_4"
+    },
+    {
+        "name": "Darill's Tomb",
+        "version": "Elite",
+        "realm": "VI",
+        "shortcut": "6-21",
+        "orbs": "Power_2,Non_2,Wind_2,Power_3,Wind_3,Non_3",
+        "bossorbs": "Non_4"
     },
     {
         "name": "Mako Reactor No. 1",
         "version": "Elite",
         "realm": "VII",
-        "shortcut": "6-6",
+        "shortcut": "7-1",
         "orbs": "White_2,White_3,Fire_2,Fire_3,Ice_2,Ice_3"
     },
     {
         "name": "Mako Reactor No. 5",
         "version": "Elite",
         "realm": "VII",
-        "shortcut": "7-1",
+        "shortcut": "7-2",
         "orbs": "Black_2,Black_3,Lightning_2,Lightning_3,Holy_2,Holy_3",
         "bossorbs": "Black_4"
     },
@@ -348,7 +782,7 @@
         "name": "Zanarkand",
         "version": "Elite",
         "realm": "X",
-        "shortcut": "7-2",
+        "shortcut": "10-1",
         "orbs": "Power_2,Power_3,Non_2,Non_3,Fire_2,Fire_3,Ice_2,Ice_3,Dark_2,Dark_3",
         "bossorbs": "Non_4"
     },
@@ -356,7 +790,7 @@
         "name": "Besaid",
         "version": "Elite",
         "realm": "X",
-        "shortcut": "10-1",
+        "shortcut": "10-2",
         "orbs": "Black_2,Black_3,Fire_2,Fire_3,Ice_2,Ice_3",
         "bossorbs": "Ice_4"
     },
@@ -364,7 +798,7 @@
         "name": "S.S. Liki",
         "version": "Elite",
         "realm": "X",
-        "shortcut": "10-2",
+        "shortcut": "10-3",
         "orbs": "White_2,White_3,Black_2,Black_3,Non_2,Non_3,Fire_2,Fire_3,Dark_2,Dark_3",
         "bossorbs": "Dark_4"
     },
@@ -505,405 +939,5 @@
         "version": "Daily",
         "realm": "None",
         "shortcut": "Sunday-3"
-    },
-    {
-        "name": "Chaos Shrine",
-        "version": "Classic",
-        "realm": "I",
-        "shortcut": "1-1",
-        "orbs": "Wind_2,Dark_2,Earth_2,Ice_2",
-        "bossorbs": "White_3",
-        "bossitems": "Sage's Miter_IV"
-    },
-    {
-        "name": "Western Keep",
-        "version": "Classic",
-        "realm": "I",
-        "shortcut": "1-2",
-        "orbs": "Ice_2,Dark_2,Black_2,Earth_2",
-        "bossitems": "Mythril Helm_IV"
-    },
-    {
-        "name": "Semitt Falls Cavern",
-        "version": "Classic",
-        "realm": "II",
-        "shortcut": "2-1",
-        "orbs": "Power_2,Dark_2,Ice_2,Earth_2",
-        "bossitems": "Scholar Robe_III"
-    },
-    {
-        "name": "Snow Cavern",
-        "version": "Classic",
-        "realm": "II",
-        "shortcut": "2-2",
-        "bossitems": "Heavy Shield_VI"
-    },
-    {
-        "name": "Snow Cavern (Return)",
-        "version": "Classic",
-        "realm": "II",
-        "shortcut": "2-3",
-        "bossorbs": "Power_3",
-        "bossitems": "Frost Bow_V"
-    },
-    {
-        "name": "Lodestone Cavern",
-        "version": "Classic",
-        "realm": "IV",
-        "shortcut": "4-7",
-        "bossitems": "Scholar Robe_III"
-    },
-    {
-        "name": "Tower of Zot",
-        "version": "Classic",
-        "realm": "IV",
-        "shortcut": "4-8",
-        "bossitems": "Kodachi_V"
-    },
-    {
-        "name": "Tower of Zot - Spire",
-        "version": "Classic",
-        "realm": "IV",
-        "shortcut": "4-9",
-        "items": "Wind_3",
-        "bossitems": "Choper_XII"
-    },
-    {
-        "name": "Dwarven Castle",
-        "version": "Classic",
-        "realm": "IV",
-        "shortcut": "4-10",
-        "bossitems": "Flame Helm_II"
-    },
-    {
-        "name": "Tower of Babil - Depths",
-        "version": "Classic",
-        "realm": "IV",
-        "shortcut": "4-11"
-    },
-    {
-        "name": "Cave of Eblan",
-        "version": "Classic",
-        "realm": "IV",
-        "shortcut": "4-12",
-        "bossitems": "Healing Rod_XII"
-    },
-    {
-        "name": "Tower of Babil - Heights",
-        "version": "Classic",
-        "realm": "IV",
-        "shortcut": "4-13",
-        "items": "Power_3",
-        "bossitems": "Oaken Pole_XII,Giant's Helm_II"
-    },
-    {
-        "name": "The Ferymarch",
-        "version": "Classic",
-        "realm": "IV",
-        "shortcut": "4-14",
-        "items": "Power_3,Ice_3",
-        "bossitems": "Iron Sword_XII,Coral Sword_V"
-    },
-    {
-        "name": "Phantom Train",
-        "version": "Classic",
-        "realm": "VI",
-        "shortcut": "6-7",
-        "bossorbs": "Dark_3",
-        "bossitems": "Ninja Gear_VI"
-    },
-    {
-        "name": "Esper Valley",
-        "version": "Classic",
-        "realm": "VI",
-        "shortcut": "6-8",
-        "bossorbs": "Holy_3",
-        "bossitems": "Mythril Rod_VI"
-    },
-    {
-        "name": "Zozo",
-        "version": "Classic",
-        "realm": "VI",
-        "shortcut": "6-9",
-        "bossorbs": "Power_3",
-        "bossitems": "Iron Knuckles_VI"
-    },
-    {
-        "name": "Opera House",
-        "version": "Classic",
-        "realm": "VI",
-        "shortcut": "6-10",
-        "bossorbs": "Ice_3",
-        "bossitems": "Heavy Shield_VI"
-    },
-    {
-        "name": "Magitek Factory",
-        "version": "Classic",
-        "realm": "VI",
-        "shortcut": "6-11",
-        "bossorbs": "Fire_3",
-        "bossitems": "Flame Helm_2"
-    },
-    {
-        "name": "Vector",
-        "version": "Classic",
-        "realm": "VI",
-        "shortcut": "6-12",
-        "bossorbs": "Lightning_3",
-        "bossitems": "Beret_VI"
-    },
-    {
-        "name": "Thamasa",
-        "version": "Classic",
-        "realm": "VI",
-        "shortcut": "6-13",
-        "bossorbs": "Fire_3",
-        "bossitems": "Flame Bow_V"
-    },
-    {
-        "name": "Esper Caves",
-        "version": "Classic",
-        "realm": "VI",
-        "shortcut": "6-14",
-        "bossitems": "Kodachi_V"
-    },
-    {
-        "name": "Airship",
-        "version": "Classic",
-        "realm": "VI",
-        "shortcut": "6-15",
-        "bossorbs": "Black_3,Wind_3",
-        "bossitems": "Whip_IV,Mythril Sword_IV"
-    },
-    {
-        "name": "Floating Continent 1",
-        "version": "Classic",
-        "realm": "VI",
-        "shortcut": "6-16",
-        "bossorbs": "Holy_3",
-        "bossitems": "Coral Sword_V"
-    },
-    {
-        "name": "Floating Continent 2",
-        "version": "Classic",
-        "realm": "VI",
-        "shortcut": "6-17",
-        "bossorbs": "Non_3",
-        "bossitems": "Ogrekiller_IV"
-    },
-    {
-        "name": "Solitary Island",
-        "version": "Classic",
-        "realm": "VI",
-        "shortcut": "6-18",
-        "bossitems": "Mythril Dagger_IX"
-    },
-    {
-        "name": "Mobliz",
-        "version": "Classic",
-        "realm": "VI",
-        "shortcut": "6-19",
-        "bossorbs": "Wind_3",
-        "bossitems": "Mythril Sword_IV"
-    },
-    {
-        "name": "Figaro Castle 2",
-        "version": "Classic",
-        "realm": "VI",
-        "shortcut": "6-20",
-        "bossitems": "Slasher_XII"
-    },
-    {
-        "name": "Darill's Tomb",
-        "version": "Classic",
-        "realm": "VI",
-        "shortcut": "6-21",
-        "bossorbs": "Non_3",
-        "bossitems": "War Hammer_V,Bone Mail_V"
-    },
-    {
-        "name": "Chaos Shrine",
-        "version": "Elite",
-        "realm": "I",
-        "shortcut": "1-1",
-        "bossorbs": "White_4"
-    },
-    {
-        "name": "Western Keep",
-        "version": "Elite",
-        "realm": "I",
-        "shortcut": "1-2"
-    },
-    {
-        "name": "Semitt Falls Cavern",
-        "version": "Elite",
-        "realm": "II",
-        "shortcut": "2-1"
-    },
-    {
-        "name": "Snow Cavern",
-        "version": "Elite",
-        "realm": "II",
-        "shortcut": "2-2"
-    },
-    {
-        "name": "Snow Cavern (Return)",
-        "version": "Elite",
-        "realm": "II",
-        "shortcut": "2-3",
-        "bossorbs": "Power_4"
-    },
-    {
-        "name": "Lodestone Cavern",
-        "version": "Elite",
-        "realm": "IV",
-        "shortcut": "4-7"
-    },
-    {
-        "name": "Tower of Zot",
-        "version": "Elite",
-        "realm": "IV",
-        "shortcut": "4-8"
-    },
-    {
-        "name": "Tower of Zot - Spire",
-        "version": "Elite",
-        "realm": "IV",
-        "shortcut": "4-9"
-    },
-    {
-        "name": "Dwarven Castle",
-        "version": "Elite",
-        "realm": "IV",
-        "shortcut": "4-10",
-        "bossorbs": "Non_4"
-    },
-    {
-        "name": "Tower of Babil - Depths",
-        "version": "Elite",
-        "realm": "IV",
-        "shortcut": "4-11"
-    },
-    {
-        "name": "Cave of Eblan",
-        "version": "Elite",
-        "realm": "IV",
-        "shortcut": "4-12"
-    },
-    {
-        "name": "Tower of Babil - Heights",
-        "version": "Elite",
-        "realm": "IV",
-        "shortcut": "4-13",
-        "bossorbs": "Power_4"
-    },
-    {
-        "name": "The Ferymarch",
-        "version": "Elite",
-        "realm": "IV",
-        "shortcut": "4-14",
-        "bossorbs": "Dark_4"
-    },
-    {
-        "name": "Phantom Train",
-        "version": "Elite",
-        "realm": "VI",
-        "shortcut": "6-7",
-        "bossorbs": "Dark_4"
-    },
-    {
-        "name": "Esper Valley",
-        "version": "Elite",
-        "realm": "VI",
-        "shortcut": "6-8",
-        "bossorbs": "Holy_4"
-    },
-    {
-        "name": "Zozo",
-        "version": "Elite",
-        "realm": "VI",
-        "shortcut": "6-9",
-        "bossorbs": "Power_4"
-    },
-    {
-        "name": "Opera House",
-        "version": "Elite",
-        "realm": "VI",
-        "shortcut": "6-10",
-        "bossorbs": "Ice_4"
-    },
-    {
-        "name": "Magitek Factory",
-        "version": "Elite",
-        "realm": "VI",
-        "shortcut": "6-11"
-    },
-    {
-        "name": "Vector",
-        "version": "Elite",
-        "realm": "VI",
-        "shortcut": "6-12",
-        "bossorbs": "Lightning_4"
-    },
-    {
-        "name": "Thamasa",
-        "version": "Elite",
-        "realm": "VI",
-        "shortcut": "6-13",
-        "bossorbs": "Fire_4"
-    },
-    {
-        "name": "Esper Caves",
-        "version": "Elite",
-        "realm": "VI",
-        "shortcut": "6-14"
-    },
-    {
-        "name": "Airship",
-        "version": "Elite",
-        "realm": "VI",
-        "shortcut": "6-15",
-        "bossorbs": "Black_4"
-    },
-    {
-        "name": "Floating Continent 1",
-        "version": "Elite",
-        "realm": "VI",
-        "shortcut": "6-16"
-    },
-    {
-        "name": "Floating Continent 2",
-        "version": "Elite",
-        "realm": "VI",
-        "shortcut": "6-17"
-    },
-    {
-        "name": "Solitary Island",
-        "version": "Elite",
-        "realm": "VI",
-        "shortcut": "6-18"
-    },
-    {
-        "name": "Mobliz",
-        "version": "Elite",
-        "realm": "VI",
-        "shortcut": "6-19",
-        "bossorbs": "Wind_4"
-    },
-    {
-        "name": "Figaro Castle 2",
-        "version": "Elite",
-        "realm": "VI",
-        "shortcut": "6-20"
-    },
-    {
-        "name": "Darill's Tomb",
-        "version": "Elite",
-        "realm": "VI",
-        "shortcut": "6-21",
-        "bossorbs": "Earth_4"
-    },
-    {
-        "bossorbs": "Non_4"
     }
 ]

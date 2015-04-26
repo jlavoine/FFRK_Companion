@@ -107,6 +107,7 @@ Check out the Best Equipment section of the app to find which items can be easil
 	<String ID="Holy">Holy</String>
 	<String ID="Dark">Dark</String>
 	<String ID="Water">Water</String>
+	<String ID="Poison">Poison</String>
 	
 	<String ID="VictoryTitle">Victory Conditions</String>
 	<String ID="ElementalTitle">Elements</String>

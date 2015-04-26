@@ -1532,5 +1532,957 @@
         "stamina": 14,
         "boss": "Yes",
         "elite": "Yes"
+    },
+    {
+        "name": "Entrance",
+        "dungeon": "Chaos Shrine",
+        "exp": 2862,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Great Hall",
+        "dungeon": "Chaos Shrine",
+        "exp": 3816,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Central Chamber",
+        "dungeon": "Chaos Shrine",
+        "exp": 5282,
+        "stamina": 7,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "1st Level",
+        "dungeon": "Western Keep",
+        "exp": 2004,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Level",
+        "dungeon": "Western Keep",
+        "exp": 2672,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "3rd Level",
+        "dungeon": "Western Keep",
+        "exp": 5010,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Throne Room",
+        "dungeon": "Western Keep",
+        "exp": 2576,
+        "stamina": 7,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "1st Level",
+        "dungeon": "Semitt Falls Cavern",
+        "exp": 2728,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Level",
+        "dungeon": "Semitt Falls Cavern",
+        "exp": 2714,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "3rd Level",
+        "dungeon": "Semitt Falls Cavern",
+        "exp": 2888,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "5th Level",
+        "dungeon": "Semitt Falls Cavern",
+        "exp": 5050,
+        "stamina": 7,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "1st Level",
+        "dungeon": "Snow Cavern",
+        "exp": 2256,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Level",
+        "dungeon": "Snow Cavern",
+        "exp": 2340,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "3rd Level",
+        "dungeon": "Snow Cavern",
+        "exp": 2756,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "4th Level",
+        "dungeon": "Snow Cavern",
+        "exp": 2840,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "5th Level",
+        "dungeon": "Snow Cavern",
+        "exp": 3258,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "6th Level",
+        "dungeon": "Snow Cavern",
+        "exp": 3670,
+        "stamina": 7,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "5th Level",
+        "dungeon": "Snow Cavern (Return)",
+        "exp": 2736,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "4th Level",
+        "dungeon": "Snow Cavern (Return)",
+        "exp": 2832,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "3rd Level",
+        "dungeon": "Snow Cavern (Return)",
+        "exp": 2832,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Level",
+        "dungeon": "Snow Cavern (Return)",
+        "exp": 3564,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "1st Level",
+        "dungeon": "Snow Cavern (Return)",
+        "exp": 3842,
+        "stamina": 7,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "1st Level",
+        "dungeon": "Lodestone Cavern",
+        "exp": 3096,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Level",
+        "dungeon": "Lodestone Cavern",
+        "exp": 3096,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "3rd Level",
+        "dungeon": "Lodestone Cavern",
+        "exp": 3216,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "4th Level",
+        "dungeon": "Lodestone Cavern",
+        "exp": 3336,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Crystal Chamber",
+        "dungeon": "Lodestone Cavern",
+        "exp": 1940,
+        "stamina": 8,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "1st Level",
+        "dungeon": "Tower of Zot",
+        "exp": 3216,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Level",
+        "dungeon": "Tower of Zot",
+        "exp": 3216,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "3rd Level",
+        "dungeon": "Tower of Zot",
+        "exp": 3216,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "4th Level",
+        "dungeon": "Tower of Zot",
+        "exp": 3336,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "5th Level",
+        "dungeon": "Tower of Zot",
+        "exp": 3982,
+        "stamina": 8,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "6th Floor",
+        "dungeon": "Tower of Zot - Spire",
+        "exp": 5560,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Top Floor",
+        "dungeon": "Tower of Zot - Spire",
+        "exp": 6306,
+        "stamina": 8,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Exterior",
+        "dungeon": "Dwarven Castle",
+        "exp": 3216,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "1st Floor",
+        "dungeon": "Dwarven Castle",
+        "exp": 3864,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Throne Room",
+        "dungeon": "Dwarven Castle",
+        "exp": 3444,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Crystal Chamber Entrance",
+        "dungeon": "Dwarven Castle",
+        "exp": 0,
+        "stamina": 8,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Crystal Chamber",
+        "dungeon": "Dwarven Castle",
+        "exp": 0,
+        "stamina": 8,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "13th Level",
+        "dungeon": "Tower of Babil - Depths",
+        "exp": 1962,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "12th Level",
+        "dungeon": "Tower of Babil - Depths",
+        "exp": 2376,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "11th Level",
+        "dungeon": "Tower of Babil - Depths",
+        "exp": 1962,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "10th Level",
+        "dungeon": "Tower of Babil - Depths",
+        "exp": 2688,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "9th Level",
+        "dungeon": "Tower of Babil - Depths",
+        "exp": 2586,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "8th Level",
+        "dungeon": "Tower of Babil - Depths",
+        "exp": 2468,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "7th Level",
+        "dungeon": "Tower of Babil - Depths",
+        "exp": 1636,
+        "stamina": 6,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "6th Level",
+        "dungeon": "Tower of Babil - Depths",
+        "exp": 1636,
+        "stamina": 6,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Entrance",
+        "dungeon": "Cave of Eblan",
+        "exp": 3576,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Town Passage",
+        "dungeon": "Cave of Eblan",
+        "exp": 3932,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Escape Route",
+        "dungeon": "Cave of Eblan",
+        "exp": 4524,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Exit",
+        "dungeon": "Cave of Eblan",
+        "exp": 4836,
+        "stamina": 8,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "1st Level",
+        "dungeon": "Tower of Babil - Heights",
+        "exp": 1956,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Level",
+        "dungeon": "Tower of Babil - Heights",
+        "exp": 2532,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "3rd Level",
+        "dungeon": "Tower of Babil - Heights",
+        "exp": 2992,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "4th Level",
+        "dungeon": "Tower of Babil - Heights",
+        "exp": 2532,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "5th Level",
+        "dungeon": "Tower of Babil - Heights",
+        "exp": 0,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "6th Level",
+        "dungeon": "Tower of Babil - Heights",
+        "exp": 1698,
+        "stamina": 6,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "7th Level",
+        "dungeon": "Tower of Babil - Heights",
+        "exp": 2144,
+        "stamina": 5,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "8th Level",
+        "dungeon": "Tower of Babil - Heights",
+        "exp": 1698,
+        "stamina": 6,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "1st Level",
+        "dungeon": "The Feymarch",
+        "exp": 3180,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Level",
+        "dungeon": "The Feymarch",
+        "exp": 0,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "3rd Level",
+        "dungeon": "The Feymarch",
+        "exp": 3924,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Queen's Trial",
+        "dungeon": "The Feymarch",
+        "exp": 0,
+        "stamina": 8,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "King's Trial",
+        "dungeon": "The Feymarch",
+        "exp": 1758,
+        "stamina": 8,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Carriage 4",
+        "dungeon": "Phantom Train",
+        "exp": 0,
+        "stamina": 3,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Carriage 4",
+        "dungeon": "Phantom Train",
+        "exp": 0,
+        "stamina": 3,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Carriage 4",
+        "dungeon": "Phantom Train",
+        "exp": 0,
+        "stamina": 3,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Locomotive",
+        "dungeon": "Phantom Train",
+        "exp": 0,
+        "stamina": 4,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "1st Battle",
+        "dungeon": "Esper Valley",
+        "exp": 0,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Battle",
+        "dungeon": "Esper Valley",
+        "exp": 0,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Last Stand",
+        "dungeon": "Esper Valley",
+        "exp": 0,
+        "stamina": 7,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Lower Levels",
+        "dungeon": "Zozo",
+        "exp": 0,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Mid Levels",
+        "dungeon": "Zozo",
+        "exp": 0,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Upper Levels",
+        "dungeon": "Zozo",
+        "exp": 0,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Highest Level",
+        "dungeon": "Zozo",
+        "exp": 0,
+        "stamina": 7,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Right Stair",
+        "dungeon": "Opera House",
+        "exp": 0,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Left Stair",
+        "dungeon": "Opera House",
+        "exp": 2452,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Catwalk",
+        "dungeon": "Opera House",
+        "exp": 3502,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Stage",
+        "dungeon": "Opera House",
+        "exp": 3766,
+        "stamina": 7,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Entrance",
+        "dungeon": "Magitek Factory",
+        "exp": 2340,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Center",
+        "dungeon": "Magitek Factory",
+        "exp": 3258,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Hidden Passage",
+        "dungeon": "Magitek Factory",
+        "exp": 3258,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Garbage Chute",
+        "dungeon": "Magitek Factory",
+        "exp": 0,
+        "stamina": 7,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Escape Route",
+        "dungeon": "Vector",
+        "exp": 5600,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Streets",
+        "dungeon": "Vector",
+        "exp": 7000,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Interception",
+        "dungeon": "Vector",
+        "exp": 1456,
+        "stamina": 7,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "House Entrance",
+        "dungeon": "Thamasa",
+        "exp": 4462,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "House Passage",
+        "dungeon": "Thamasa",
+        "exp": 5250,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "House Back Room",
+        "dungeon": "Thamasa",
+        "exp": 5848,
+        "stamina": 7,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Entrance",
+        "dungeon": "Esper Caves",
+        "exp": 2876,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Moutain Path",
+        "dungeon": "Esper Caves",
+        "exp": 3680,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Center",
+        "dungeon": "Esper Caves",
+        "exp": 3778,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Depths",
+        "dungeon": "Esper Caves",
+        "exp": 4204,
+        "stamina": 7,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "1st Encounter",
+        "dungeon": "Airship",
+        "exp": 2364,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Encounter",
+        "dungeon": "Airship",
+        "exp": 2802,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "3rd Encounter",
+        "dungeon": "Airship",
+        "exp": 3326,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Above the Floating Continent",
+        "dungeon": "Airship",
+        "exp": 1456,
+        "stamina": 7,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Descent",
+        "dungeon": "Airship",
+        "exp": 1456,
+        "stamina": 7,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "West",
+        "dungeon": "Floating Continent 1",
+        "exp": 2876,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "South",
+        "dungeon": "Floating Continent 1",
+        "exp": 2584,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "East",
+        "dungeon": "Floating Continent 1",
+        "exp": 3478,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Central Hill",
+        "dungeon": "Floating Continent 1",
+        "exp": 4134,
+        "stamina": 7,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Escape Route West",
+        "dungeon": "Floating Continent 2",
+        "exp": 3330,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Escape Route Center",
+        "dungeon": "Floating Continent 2",
+        "exp": 3666,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Escape Route East",
+        "dungeon": "Floating Continent 2",
+        "exp": 3330,
+        "stamina": 6,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Continent - Airship",
+        "dungeon": "Floating Continent 2",
+        "exp": 4222,
+        "stamina": 7,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Escape",
+        "dungeon": "Solitary Island",
+        "exp": 3924,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "North Cliff",
+        "dungeon": "Solitary Island",
+        "exp": 3924,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Cabin Cellar",
+        "dungeon": "Solitary Island",
+        "exp": 5924,
+        "stamina": 8,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Eaves",
+        "dungeon": "Mobliz",
+        "exp": 0,
+        "stamina": 8,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Entrance",
+        "dungeon": "Figaro Castle 2",
+        "exp": 0,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Passage",
+        "dungeon": "Figaro Castle 2",
+        "exp": 0,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Hidden Passage",
+        "dungeon": "Figaro Castle 2",
+        "exp": 0,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "Inner Room",
+        "dungeon": "Figaro Castle 2",
+        "exp": 0,
+        "stamina": 8,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "1st Level",
+        "dungeon": "Darill's Tomb",
+        "exp": 0,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Level",
+        "dungeon": "Darill's Tomb",
+        "exp": 0,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Level - Gravesite",
+        "dungeon": "Darill's Tomb",
+        "exp": 0,
+        "stamina": 7,
+        "boss": "No",
+        "elite": "No"
+    },
+    {
+        "name": "2nd Level - Inner Chamber",
+        "dungeon": "Darill's Tomb",
+        "exp": 0,
+        "stamina": 8,
+        "boss": "Yes",
+        "elite": "No"
+    },
+    {
+        "name": "Undercroft",
+        "dungeon": "Darill's Tomb",
+        "exp": 0,
+        "stamina": 8,
+        "boss": "Yes",
+        "elite": "No"
     }
 ]

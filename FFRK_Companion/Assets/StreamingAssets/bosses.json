@@ -1,5 +1,35 @@
 [
     {
+        "name": "Garland",
+        "dungeon": "1-1",
+        "victory": "Defeat Garland without being KO'd.",
+        "debuffimm": "Stop,Doom,Instant KO"
+    },
+    {
+        "name": "Astos",
+        "dungeon": "1-2",
+        "victory": "Afflict Astos with Silence.",
+        "debuffimm": "Stop,Doom,Instant KO"
+    },
+    {
+        "name": "Sergeant",
+        "dungeon": "2-1",
+        "victory": "Defeat the Sergeant without being KO'd."
+    },
+    {
+        "name": "Adamantoise",
+        "dungeon": "2-2",
+        "victory": "Exploit the Adamantoise's weakness to ice attacks.",
+        "resist": "Lightning",
+        "vuln": "Ice",
+        "debuffimm": "Poison"
+    },
+    {
+        "name": "Borghen",
+        "dungeon": "2-3",
+        "victory": "Defeat Borghen without being KO'd."
+    },
+    {
         "name": "Mist Dragon (Normal)",
         "dungeon": "4-1",
         "victory": "Defeat the Mist Dragon without having any attacks countered.,Exploit the Mist Dragon's weakness to dark attacks.",
@@ -243,6 +273,135 @@
         "debuffimm": "Confuse,Silence,Poison,Instant KO,Blind,Sleep,Doom,Petrify,Stop,Slow"
     },
     {
+        "name": "Phantom Train",
+        "dungeon": "6-7",
+        "victory": "Exploit the Phantom Train's weakness to fire attacks.,Exploit the Phantom Train's weakness to lightning attacks.",
+        "vuln": "Fire,Lightning,Holy",
+        "absorb": "Poison",
+        "debuffimm": "Poison,Confuse,Slow,Stop,Blind,Petrify,Sleep"
+    },
+    {
+        "name": "Kefka",
+        "dungeon": "6-8",
+        "victory": "Defeat Kefka without being KO'd.",
+        "debuffimm": "Poison,Silence,Confuse,Stop,Blind,Sleep,Petrify,Doom,Instant KO"
+    },
+    {
+        "name": "Dadaluma",
+        "dungeon": "6-9",
+        "victory": "Exploit Dadaluma's weakness to poison attacks.",
+        "absorb": "Poison",
+        "debuffimm": "Poison,Confuse,Stop,Petrify,Doom,Instant KO",
+        "notes": "Dadaluma summons two Iron Fists, who absorb poison."
+    },
+    {
+        "name": "Orthos",
+        "dungeon": "6-10",
+        "victory": "Exploit Orthos' weakness to fire attacks.",
+        "vuln": "Fire,Lightning",
+        "absorb": "Water",
+        "debuffimm": "Poison,Silence,Confuse,Stop,Sleep,Petrify,Doom,Instant KO"
+    },
+    {
+        "name": "Ifrit and Shiva",
+        "dungeon": "6-11",
+        "victory": "Exploit Ifrit's weakness to ice attacks.,Exploit Shiva's weakness to fire attacks.",
+        "debuffimm": "Poison,Silence,Confuse,Stop,Sleep,Petrify,Doom,Instant KO",
+        "notes": "Ifrit and Shiva resist all magic except what they are weak to."
+    },
+    {
+        "name": "Crane",
+        "dungeon": "6-12",
+        "victory": "Exploit Crane (Lower) weakness to water attacks.,Exploit Crane (Upper) weakness to lightning attacks.",
+        "debuffimm": "Poison,Silence,Confuse,Stop,Blind,Sleep,Petrify,Doom,Instant KO",
+        "notes": "Pay attention to which crane is vulnerable to lightning or water based on their position."
+    },
+    {
+        "name": "Flame Eater",
+        "dungeon": "6-13",
+        "victory": "Exploit the Flame Eater's weakness to ice attacks.",
+        "resist": "Holy,Poison,Earth,Lightning",
+        "vuln": "Ice",
+        "absorb": "Fire",
+        "debuffimm": "Poison,Silence,Confuse,Stop,Blind,Sleep,Petrify,Doom,Instant KO",
+        "notes": "The Flame Eater summons other monsters that are vulnerable to water."
+    },
+    {
+        "name": "Orthos",
+        "dungeon": "6-14",
+        "victory": "Exploit Orthos' weakness to fire attacks.,Exploit Orthos' weakness to lightning attacks.",
+        "vuln": "Fire,Lightning",
+        "absorb": "Water",
+        "debuffimm": "Poison,Silence,Confuse,Stop,Sleep,Petrify,Doom,Instant KO"
+    },
+    {
+        "name": "Orthos and Typhon",
+        "dungeon": "6-15",
+        "victory": "Exploit Orthos' weakness to fire attacks.,Exploit Typhon's weakness to ice attacks.",
+        "vuln": "Fire,Lightning",
+        "absorb": "Water",
+        "debuffimm": "Poison,Silence,Confuse,Stop,Sleep,Petrify,Doom,Instant KO",
+        "notes": "Orthos will summon Typhoon after he takes enough damage."
+    },
+    {
+        "name": "Ultima Weapon",
+        "dungeon": "6-16",
+        "victory": "Defeat Ultima Weapon without being KO'd.",
+        "debuffimm": "Poison,Silence,Confuse,Stop,Sleep,Petrify,Doom,Instant KO"
+    },
+    {
+        "name": "Nelapa",
+        "dungeon": "6-17",
+        "victory": "Defeat Nelapa without being KO'd.",
+        "resist": "Dark,Poison,Earth,Wind,Water",
+        "vuln": "Holy,Ice,Lightning",
+        "absorb": "Fire",
+        "debuffimm": "Poison,Silence,Slow,Stop,Blind,Sleep,Petrify,Doom,Instant KO",
+        "notes": "Nelapa uses Doom at the start of the fight, so beat him quickly!"
+    },
+    {
+        "name": "Black Dragon",
+        "dungeon": "6-18",
+        "victory": "Exploit the Black Dragon's weakness to fire attacks.",
+        "vuln": "Fire,Holy",
+        "absorb": "Poison",
+        "debuffimm": "Poison,Silence,Blind,Sleep,Petrify"
+    },
+    {
+        "name": "Humbaba",
+        "dungeon": "6-19",
+        "victory": "Exploit Humbaba's weakness to poison attacks.",
+        "vuln": "Poison",
+        "absorb": "Lightning",
+        "debuffimm": "Poison,Silence,Confuse,Slow,Stop,Sleep,Petrify,Doom,Instant KO"
+    },
+    {
+        "name": "Tentacle",
+        "dungeon": "6-20",
+        "victory": "Exploit Tentacle (Bottom Right) weakness to ice attacks.,Exploit Tentacle (Bottom Left) weakness to fire attacks.",
+        "attacks": "",
+        "debuffimm": "Confuse,Stop,Sleep,Instant KO,Petrify",
+        "notes": "The upper tentacles have no vulnerabilities, and the lower tentacles have opposing vulnerabilities."
+    },
+    {
+        "name": "Angler Whelk",
+        "dungeon": "6-21",
+        "victory": "Exploit the Angler Whelk's weakness to fire attacks.,Defeat the Angeler Whelk before it can use Gigavolt.",
+        "resist": "Poison",
+        "vuln": "Fire",
+        "absorb": "Ice,Lightning,Water",
+        "debuffimm": "Poison,Confuse,Stop,Doom,Instant KO",
+        "notes": "Don't attack him in his shell."
+    },
+    {
+        "name": "Dullahan",
+        "dungeon": "6-21",
+        "victory": "Expoloit Dullahan's weakness to fire attacks.",
+        "vuln": "Fire",
+        "absorb": "Ice",
+        "debuffimm": "Poison,Silence,Confuse,Stop,Sleep,Petrify,Doom,Instant KO"
+    },
+    {
         "name": "Guard Scorpion",
         "dungeon": "7-1",
         "victory": "Defeat the Guard Scorpion without being KO'd.",
@@ -275,35 +434,5 @@
         "victory": "Affect Sinspawn Echuilles with Blind.",
         "debuffimm": "Poison,Sleep,Instant KO",
         "notes": "Dark Attack can inflict Blind, but the rate is low."
-    },
-    {
-        "name": "Garland",
-        "dungeon": "1-1",
-        "victory": "Defeat Garland without being KO'd.",
-        "debuffimm": "Stop,Doom,Instant KO"
-    },
-    {
-        "name": "Astos",
-        "dungeon": "1-2",
-        "victory": "Afflict Astos with Silence.",
-        "debuffimm": "Stop,Doom,Instant KO"
-    },
-    {
-        "name": "Sergeant",
-        "dungeon": "2-1",
-        "victory": "Defeat the Sergeant without being KO'd."
-    },
-    {
-        "name": "Adamantoise",
-        "dungeon": "2-2",
-        "victory": "Exploit the Adamantoise's weakness to ice attacks.",
-        "resist": "Lightning",
-        "vuln": "Ice",
-        "debuffimm": "Poison"
-    },
-    {
-        "name": "Borghen",
-        "dungeon": "2-3",
-        "victory": "Defeat Borghen without being KO'd."
     }
 ]

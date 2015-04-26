@@ -20,7 +20,7 @@
     {
         "name": "Firaga",
         "rank": 3,
-        "multiplier": "3.2",
+        "multiplier": "3.26",
         "type": "Black Magic",
         "school": "Black Magic",
         "desc": "Deal heavy fire damage to one target.",
@@ -47,7 +47,7 @@
     {
         "name": "Bligaga",
         "rank": 3,
-        "multiplier": "3.2",
+        "multiplier": "3.26",
         "type": "Black Magic",
         "school": "Black Magic",
         "desc": "Deal heavy ice magic damage to one target.",
@@ -74,7 +74,7 @@
     {
         "name": "Thundaga",
         "rank": 3,
-        "multiplier": "3.2",
+        "multiplier": "3.26",
         "type": "Black Magic",
         "school": "Black Magic",
         "desc": "Deal heavy lightning magic damage to one target.",
@@ -83,7 +83,7 @@
     {
         "name": "Thundaja",
         "rank": 4,
-        "multiplier": "?",
+        "multiplier": "6",
         "type": "Black Magic",
         "school": "Black Magic",
         "desc": "Deal massive lightning magic damage to one target.",
@@ -182,7 +182,7 @@
     {
         "name": "Bio",
         "rank": 2,
-        "multiplier": "1.8",
+        "multiplier": "1.85",
         "type": "Black Magic",
         "school": "Black Magic",
         "desc": "Deal light poison damage to one target.",
@@ -191,7 +191,7 @@
     {
         "name": "Biora",
         "rank": 3,
-        "multiplier": "3.2",
+        "multiplier": "3.15",
         "type": "Black Magic",
         "school": "Black Magic",
         "desc": "Deal poison damage to one target.",
@@ -200,7 +200,7 @@
     {
         "name": "Dark",
         "rank": 3,
-        "multiplier": "1.8",
+        "multiplier": "3.35",
         "type": "Black Magic",
         "school": "Black Magic",
         "desc": "Deal dark damage to one target.",
@@ -218,7 +218,7 @@
     {
         "name": "Flare",
         "rank": 5,
-        "multiplier": "?",
+        "multiplier": "8",
         "type": "Black Magic",
         "school": "Black Magic",
         "desc": "Deal heavy non-elemental magic damage to one target.",
@@ -227,7 +227,7 @@
     {
         "name": "Drain",
         "rank": 3,
-        "multiplier": "?",
+        "multiplier": "3",
         "type": "Black Magic",
         "school": "Black Magic",
         "desc": "Steal HP from one target.",
@@ -263,7 +263,7 @@
     {
         "name": "Curaja",
         "rank": 4,
-        "multiplier": "?",
+        "multiplier": "3.5",
         "type": "White Magic",
         "school": "White Magic",
         "desc": "Restore a very large amount of HP to one target.",
@@ -407,7 +407,7 @@
     {
         "name": "Holy",
         "rank": 5,
-        "multiplier": "?",
+        "multiplier": "8.13",
         "type": "White Magic",
         "school": "White Magic",
         "desc": "Deal heavy holy damage to one target.",
@@ -425,7 +425,7 @@
     {
         "name": "Dia",
         "rank": 2,
-        "multiplier": "1",
+        "multiplier": "1.46",
         "type": "White Magic",
         "school": "White Magic",
         "desc": "Deal light holy damage to one target.",
@@ -623,7 +623,7 @@
     {
         "name": "Cry",
         "rank": 2,
-        "multiplier": "?",
+        "multiplier": "0",
         "type": "Physical",
         "school": "Support",
         "desc": "Confuse one target.",
@@ -632,7 +632,7 @@
     {
         "name": "Silence Buster",
         "rank": 3,
-        "multiplier": "?",
+        "multiplier": "1.7",
         "type": "Physical",
         "school": "Support",
         "desc": "Damage and have a moderate chance to Silence one target.",
@@ -641,7 +641,7 @@
     {
         "name": "Dark Buster",
         "rank": 3,
-        "multiplier": "?",
+        "multiplier": "1.7",
         "type": "Physical",
         "school": "Support",
         "desc": "Damage and have a moderate chance to Blind one target.",
@@ -650,7 +650,7 @@
     {
         "name": "Venom Buster",
         "rank": 3,
-        "multiplier": "?",
+        "multiplier": "1.7",
         "type": "Physical",
         "school": "Support",
         "desc": "Damage and have a moderate chance to Poison one target.",
@@ -659,7 +659,7 @@
     {
         "name": "Sleep Buster",
         "rank": 3,
-        "multiplier": "?",
+        "multiplier": "1.7",
         "type": "Physical",
         "school": "Support",
         "desc": "Damage and have a moderate chance to put one target to Sleep.",
@@ -668,7 +668,7 @@
     {
         "name": "Mental Breakdown",
         "rank": 4,
-        "multiplier": "?",
+        "multiplier": "2.1",
         "type": "Physical",
         "school": "Support",
         "desc": "Damage and greatly reduce the Resistance of one target.",
@@ -677,7 +677,7 @@
     {
         "name": "Magic Breakdown",
         "rank": 4,
-        "multiplier": "?",
+        "multiplier": "2.1",
         "type": "Physical",
         "school": "Support",
         "desc": "Damage and greatly reduce the Magic of one target.",
@@ -686,7 +686,7 @@
     {
         "name": "Shadowbind",
         "rank": 4,
-        "multiplier": "?",
+        "multiplier": "2.2",
         "type": "Physical",
         "school": "Celerity",
         "desc": "Damage and have a moderate chance to Stop one target.",
@@ -695,7 +695,7 @@
     {
         "name": "Wind Slash",
         "rank": 2,
-        "multiplier": "?",
+        "multiplier": "1.4",
         "type": "Physical",
         "school": "Celerity",
         "desc": "Deal light physical wind damage to one target.",
@@ -704,7 +704,7 @@
     {
         "name": "Leg Shot",
         "rank": 3,
-        "multiplier": "?",
+        "multiplier": "1.7",
         "type": "Physical",
         "school": "Celerity",
         "desc": "Damage and Slow one target.",
@@ -713,7 +713,7 @@
     {
         "name": "Quick Hit",
         "rank": 5,
-        "multiplier": "?",
+        "multiplier": "2.5",
         "type": "Physical",
         "school": "Celerity",
         "desc": "Instantly attack one target.",
@@ -740,7 +740,7 @@
     {
         "name": "Goblin",
         "rank": 1,
-        "multiplier": "?",
+        "multiplier": "1",
         "type": "Summoning",
         "school": "Summoning",
         "desc": "Deal non-elemental damage to one target.",
@@ -749,7 +749,7 @@
     {
         "name": "Chocobo",
         "rank": 2,
-        "multiplier": "?",
+        "multiplier": "2",
         "type": "Summoning",
         "school": "Summoning",
         "desc": "Deal non-elemental damage to one target.",
@@ -758,7 +758,7 @@
     {
         "name": "Dragon",
         "rank": 2,
-        "multiplier": "?",
+        "multiplier": "1.35",
         "type": "Summoning",
         "school": "Summoning",
         "desc": "Deal non-elemental damage to all targets.",
@@ -767,7 +767,7 @@
     {
         "name": "Bomb",
         "rank": 1,
-        "multiplier": "?",
+        "multiplier": "1",
         "type": "Summoning",
         "school": "Summoning",
         "desc": "Deal fire damage to one target.",
@@ -776,7 +776,7 @@
     {
         "name": "Shiva",
         "rank": 3,
-        "multiplier": "?",
+        "multiplier": "2",
         "type": "Summoning",
         "school": "Summoning",
         "desc": "Deal ice damage to all targets.",
@@ -785,7 +785,7 @@
     {
         "name": "Ramuh",
         "rank": 3,
-        "multiplier": "?",
+        "multiplier": "2",
         "type": "Summoning",
         "school": "Summoning",
         "desc": "Deal lightning damage to all targets.",
@@ -794,7 +794,7 @@
     {
         "name": "Ifrit",
         "rank": 3,
-        "multiplier": "?",
+        "multiplier": "2",
         "type": "Summoning",
         "school": "Summoning",
         "desc": "Deal fire damage to all targets.",
@@ -803,7 +803,7 @@
     {
         "name": "Slydra",
         "rank": 4,
-        "multiplier": "?",
+        "multiplier": "3.25",
         "type": "Summoning",
         "school": "Summoning",
         "desc": "Deal lightning damage to all targets.",
@@ -812,7 +812,7 @@
     {
         "name": "Leviathan",
         "rank": 4,
-        "multiplier": "?",
+        "multiplier": "3.25",
         "type": "Summoning",
         "school": "Summoning",
         "desc": "Deal water damage to all targets.",
@@ -830,7 +830,7 @@
     {
         "name": "Fira Strike",
         "rank": 3,
-        "multiplier": "?",
+        "multiplier": "1.8",
         "type": "Other",
         "school": "Spellblade",
         "desc": "Deal physical fire damage to one target.",
@@ -848,7 +848,7 @@
     {
         "name": "Blizzara Strike",
         "rank": 3,
-        "multiplier": "?",
+        "multiplier": "1.8",
         "type": "Other",
         "school": "Spellblade",
         "desc": "Deal physical ice damage to one target.",
@@ -857,7 +857,7 @@
     {
         "name": "Thunder Strike",
         "rank": 2,
-        "multiplier": "1.5",
+        "multiplier": "1.6",
         "type": "Other",
         "school": "Spellblade",
         "desc": "Deal light physical lightning damage to one target.",
@@ -902,7 +902,7 @@
     {
         "name": "Flare Strike",
         "rank": 5,
-        "multiplier": "?",
+        "multiplier": "3",
         "type": "Other",
         "school": "Spellblade",
         "desc": "Deal heavy physical non-elemental damage to one target.",

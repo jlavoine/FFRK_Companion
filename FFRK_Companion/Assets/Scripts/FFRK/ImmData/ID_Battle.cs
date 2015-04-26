@@ -37,7 +37,7 @@ public class ID_Battle  {
 	public string GetRealm() {
 		ID_Dungeon dataDungeon = IDL_Dungeons.GetDungeon( dungeon );
 
-		if ( dungeon != null )
+		if ( dataDungeon != null )
 			return dataDungeon.realm;
 		else
 			return "none";
