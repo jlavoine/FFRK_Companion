@@ -13,7 +13,7 @@ public class LoadScene : MonoBehaviour, IPointerClickHandler {
 			Application.LoadLevel( Scene );
 
 #if UNITY_IOS
-			if((iPhone.generation.ToString()).IndexOf("iPad") > -1){
+			if((UnityEngine.iOS.Device.generation.ToString()).IndexOf("iPad") > -1){
 				Screen.SetResolution(1024,768,true);
 			}
 #endif
