@@ -3,6 +3,19 @@
 	<Constant Name="EliteColor" Type="Color" Value="162,147,244,255"> </Constant>
 	<Constant Name="DailyColor" Type="Color" Value="120,238,255,255"> </Constant>
 	
+	<Constant Name="Color_Power" Type="Color" Value="221,221,221,255"> </Constant>
+	<Constant Name="Color_White" Type="Color" Value="255,255,255,255"> </Constant>
+	<Constant Name="Color_Black" Type="Color" Value="182,182,182,255"> </Constant>
+	<Constant Name="Color_Summon" Type="Color" Value="255,228,158,255"> </Constant>
+	<Constant Name="Color_Non" Type="Color" Value="221,221,221,255"> </Constant>
+	<Constant Name="Color_Fire" Type="Color" Value="255,169,169,255"> </Constant>
+	<Constant Name="Color_Ice" Type="Color" Value="210,249,255,255"> </Constant>
+	<Constant Name="Color_Lightning" Type="Color" Value="254,255,216,255"> </Constant>
+	<Constant Name="Color_Earth" Type="Color" Value="255,212,172,255"> </Constant>
+	<Constant Name="Color_Wind" Type="Color" Value="210,255,220,255"> </Constant>
+	<Constant Name="Color_Holy" Type="Color" Value="191,255,255,255"> </Constant>
+	<Constant Name="Color_Dark" Type="Color" Value="237,219,255,255"> </Constant>
+	
 	<Constant Name="Color_All" Type="Color" Value="255,255,255,255"> </Constant>
 	<Constant Name="Color_Core" Type="Color" Value="255,255,255,255"> </Constant>
 	<Constant Name="Color_I" Type="Color" Value="206,206,206,255"> </Constant>

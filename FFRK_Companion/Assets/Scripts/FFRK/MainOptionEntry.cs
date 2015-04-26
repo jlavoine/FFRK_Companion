@@ -22,7 +22,7 @@ public class MainOptionEntry : MonoBehaviour {
 	public void Init( string i_strKey ) {
 		// set the text on the button and desc field
 		string strButtonText = StringTableManager.Get( i_strKey + "_Button" );
-		string strDescText = StringTableManager.Get( i_strKey + "_Description" );
+		//string strDescText = StringTableManager.Get( i_strKey + "_Description" );
 
 		ButtonText.text = strButtonText;
 		//Description.text = strDescText;

@@ -36,6 +36,11 @@ public class OrbCompanion : MonoBehaviour {
 
 			OrbSeries script = goEntry.GetComponent<OrbSeries>();
 			script.Init( strOrbType );
+
+			// change the color of the entry bg
+			Image image = goEntry.GetComponent<Image>();
+			Color color = Constants.GetConstant<Color>( "Color_" + strOrbType );
+			image.color = color;
 		}
 	}
 }
