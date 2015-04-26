@@ -25,7 +25,7 @@ public class MainOptionEntry : MonoBehaviour {
 		string strDescText = StringTableManager.Get( i_strKey + "_Description" );
 
 		ButtonText.text = strButtonText;
-		Description.text = strDescText;
+		//Description.text = strDescText;
 
 		// add the scene load script to the button
 		LoadScene scriptLoad = SceneButton.AddComponent<LoadScene>();
